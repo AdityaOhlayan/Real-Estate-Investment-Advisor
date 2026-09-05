@@ -1,0 +1,2001 @@
+City,Property_Type,BHK,Size_in_SqFt,Age_of_Property,Furnished_Status,Public_Transport,Nearby_Schools,Nearby_Hospitals,Parking,Security,Price_in_Lakhs,Good_Investment
+Pune,Apartment,2,1109,14,Unfurnished,High,3.0,8,Yes,No,75.67,1
+Jaipur,Villa,1,439,18,Semi-Furnished,Medium,10.0,8,Yes,Yes,21.04,0
+Bangalore,Villa,3,1478,34,Semi-Furnished,High,3.0,0,No,No,117.9,1
+Jaipur,Apartment,3,1400,16,Unfurnished,High,4.0,0,Yes,Yes,64.48,0
+Jaipur,Apartment,2,1025,34,Semi-Furnished,Low,3.0,4,Yes,No,34.69,1
+Delhi,Villa,3,1217,18,Unfurnished,High,8.0,0,No,No,216.28,0
+Bangalore,Apartment,2,726,19,Unfurnished,Medium,6.0,3,Yes,Yes,65.13,0
+Bangalore,Apartment,4,1729,35,Unfurnished,Medium,1.0,0,Yes,No,142.47,1
+Bangalore,Villa,2,1054,34,Fully-Furnished,Medium,0.0,1,Yes,Yes,99.81,0
+Jaipur,Apartment,5,2488,31,Unfurnished,High,8.0,1,Yes,No,94.87,1
+Pune,Independent House,2,1180,39,Unfurnished,Low,0.0,3,Yes,No,76.16,1
+Bangalore,Apartment,2,946,23,Unfurnished,Low,5.0,7,Yes,Yes,75.42,1
+Indore,Independent House,2,1085,16,Unfurnished,High,1.0,1,No,Yes,46.47,0
+Jaipur,Apartment,1,685,6,Semi-Furnished,Low,3.0,8,Yes,Yes,27.66,1
+Delhi,Apartment,3,1443,0,Unfurnished,Low,5.0,8,Yes,No,183.83,1
+Pune,Apartment,2,1082,34,Unfurnished,Low,4.0,1,Yes,No,81.88,1
+Indore,Independent House,4,1703,31,Semi-Furnished,Medium,10.0,0,No,Yes,65.09,0
+Indore,Apartment,2,1140,35,Unfurnished,Medium,5.0,8,No,No,31.49,1
+Delhi,Apartment,4,1804,12,Semi-Furnished,Low,2.0,1,Yes,Yes,321.96,0
+Pune,Apartment,3,1553,5,Semi-Furnished,High,4.0,7,Yes,Yes,132.76,0
+Jaipur,Apartment,3,1261,13,Unfurnished,High,1.0,2,No,Yes,57.51,0
+Mumbai,Apartment,4,1882,36,Semi-Furnished,Medium,6.0,0,No,Yes,400.59,0
+Pune,Apartment,3,1631,14,Unfurnished,Medium,2.0,0,Yes,Yes,149.07,0
+Delhi,Apartment,5,2428,3,Semi-Furnished,Medium,0.0,1,Yes,Yes,335.79,0
+Indore,Apartment,2,1086,39,Unfurnished,Medium,7.0,6,Yes,Yes,35.86,1
+Jaipur,Apartment,3,1281,15,Unfurnished,Low,7.0,5,Yes,No,47.52,1
+Pune,Apartment,4,1877,27,Semi-Furnished,Low,2.0,1,No,Yes,141.76,1
+Mumbai,Villa,1,633,15,Fully-Furnished,High,6.0,3,Yes,Yes,150.4,0
+Mumbai,Apartment,4,1777,3,Fully-Furnished,Medium,8.0,1,Yes,Yes,404.0,0
+Bangalore,Apartment,3,1426,25,Semi-Furnished,Medium,7.0,0,Yes,Yes,103.45,1
+Bangalore,Apartment,2,895,27,Unfurnished,High,2.0,2,Yes,Yes,90.63,0
+Delhi,Independent House,1,705,31,Unfurnished,Medium,1.0,3,Yes,Yes,76.48,1
+Pune,Independent House,2,981,1,Unfurnished,Medium,9.0,4,Yes,Yes,101.14,0
+Pune,Independent House,1,400,30,Semi-Furnished,Medium,6.0,4,Yes,No,27.98,1
+Indore,Apartment,2,1054,2,Unfurnished,Low,6.0,6,Yes,Yes,42.45,0
+Indore,Apartment,3,1499,7,Fully-Furnished,High,8.0,7,Yes,Yes,85.52,0
+Indore,Apartment,2,1059,23,Unfurnished,Medium,4.0,8,No,Yes,34.16,1
+Bangalore,Apartment,4,1805,14,Unfurnished,High,3.0,6,No,Yes,181.64,0
+Pune,Apartment,4,1914,30,Unfurnished,High,7.0,4,Yes,No,154.76,0
+Pune,Villa,4,1760,8,Fully-Furnished,High,3.0,8,No,No,155.05,0
+Mumbai,Independent House,3,1342,38,Semi-Furnished,High,3.0,7,Yes,Yes,267.08,1
+Bangalore,Independent House,1,400,1,Semi-Furnished,Medium,1.0,8,Yes,Yes,44.09,0
+Jaipur,Apartment,2,969,7,Unfurnished,Medium,0.0,7,No,No,52.43,0
+Bangalore,Villa,2,1193,6,Fully-Furnished,Medium,3.0,5,Yes,Yes,114.75,0
+Jaipur,Apartment,2,892,38,Unfurnished,Medium,6.0,3,Yes,Yes,32.6,1
+Mumbai,Apartment,2,1194,15,Fully-Furnished,High,8.0,8,No,Yes,283.63,0
+Delhi,Villa,4,1894,34,Semi-Furnished,Low,8.0,8,No,No,232.12,1
+Pune,Apartment,1,592,29,Unfurnished,High,9.0,8,Yes,No,40.9,1
+Mumbai,Apartment,4,1975,9,Semi-Furnished,High,0.0,2,No,Yes,454.3,0
+Pune,Apartment,3,1604,37,Semi-Furnished,High,4.0,2,Yes,Yes,147.68,0
+Indore,Villa,3,1357,17,Unfurnished,High,6.0,5,Yes,Yes,53.65,0
+Delhi,Villa,2,965,4,Fully-Furnished,Medium,6.0,5,Yes,No,160.04,0
+Delhi,Apartment,2,900,28,Unfurnished,Low,9.0,5,Yes,Yes,93.06,1
+Mumbai,Independent House,1,600,38,Unfurnished,Low,5.0,4,Yes,No,112.65,1
+Delhi,Apartment,4,1937,33,Unfurnished,Medium,10.0,4,Yes,Yes,262.63,1
+Jaipur,Apartment,4,1865,22,Unfurnished,Medium,9.0,1,Yes,No,74.24,1
+Delhi,Villa,1,687,4,Semi-Furnished,High,,6,Yes,Yes,146.58,0
+Pune,Villa,2,1029,29,Unfurnished,High,2.0,3,Yes,Yes,71.79,1
+Pune,Independent House,3,1423,5,Semi-Furnished,Medium,8.0,2,Yes,No,103.93,1
+Pune,Apartment,2,1130,3,Unfurnished,Low,9.0,7,No,No,88.33,0
+Pune,Villa,1,483,28,Fully-Furnished,Low,3.0,3,Yes,Yes,31.73,1
+Jaipur,Apartment,2,987,22,Semi-Furnished,Low,7.0,3,Yes,Yes,39.84,1
+Bangalore,Independent House,4,2030,5,Fully-Furnished,Medium,0.0,7,Yes,Yes,211.81,0
+Indore,Apartment,2,1014,31,Unfurnished,Medium,6.0,0,No,Yes,38.73,0
+Mumbai,Villa,2,1185,17,Unfurnished,Low,5.0,8,Yes,No,207.2,1
+Pune,Apartment,2,792,14,Unfurnished,Medium,0.0,6,Yes,Yes,64.74,0
+Delhi,Apartment,3,1485,39,Semi-Furnished,Low,3.0,1,Yes,No,174.93,1
+Pune,Apartment,3,1296,31,Fully-Furnished,Medium,4.0,5,Yes,Yes,112.97,0
+Delhi,Apartment,2,953,8,Unfurnished,Medium,10.0,7,Yes,No,113.01,1
+Indore,Apartment,2,728,36,Unfurnished,Medium,7.0,4,Yes,Yes,19.76,1
+Indore,Independent House,4,1812,9,Fully-Furnished,Medium,3.0,5,No,Yes,70.13,0
+Indore,Apartment,1,608,19,Unfurnished,High,2.0,7,Yes,Yes,19.49,1
+Delhi,Apartment,3,1452,5,Semi-Furnished,Low,1.0,5,No,No,230.09,0
+Pune,Apartment,1,400,2,Semi-Furnished,Medium,3.0,8,No,Yes,38.56,0
+Indore,Apartment,3,1533,10,Fully-Furnished,High,10.0,8,No,Yes,81.14,0
+Jaipur,Apartment,3,1638,16,Unfurnished,Medium,9.0,8,No,No,65.18,1
+Delhi,Apartment,4,1688,31,Unfurnished,High,3.0,5,No,No,207.15,1
+Delhi,Apartment,2,1186,3,Semi-Furnished,Medium,9.0,8,Yes,No,157.37,1
+Pune,Apartment,4,1884,3,Fully-Furnished,Medium,4.0,2,Yes,Yes,210.57,0
+Delhi,Apartment,5,2173,16,Unfurnished,Low,6.0,4,Yes,Yes,270.59,1
+Delhi,Apartment,2,1121,40,Unfurnished,Medium,8.0,1,No,No,113.88,1
+Indore,Apartment,2,1070,18,Semi-Furnished,Medium,1.0,7,Yes,Yes,44.6,0
+Pune,Apartment,3,1310,4,Fully-Furnished,Low,4.0,3,Yes,Yes,109.75,0
+Indore,Apartment,2,1059,31,Fully-Furnished,Medium,10.0,5,Yes,Yes,32.44,1
+Indore,Independent House,2,1000,21,Fully-Furnished,Medium,9.0,5,No,No,34.06,1
+Pune,Independent House,2,1035,5,Unfurnished,Low,8.0,4,No,Yes,82.17,0
+Mumbai,Villa,4,1936,34,Unfurnished,Medium,2.0,0,Yes,No,284.5,1
+Indore,Apartment,3,1559,21,Semi-Furnished,Medium,0.0,6,Yes,Yes,56.49,1
+Jaipur,Villa,2,1058,0,Fully-Furnished,Low,1.0,7,Yes,No,44.09,0
+Jaipur,Independent House,1,400,19,Unfurnished,Medium,5.0,0,Yes,No,13.69,1
+Delhi,Villa,1,632,21,Unfurnished,High,4.0,6,Yes,Yes,82.93,1
+Jaipur,Apartment,3,1451,10,Semi-Furnished,Medium,0.0,3,Yes,Yes,65.99,0
+Delhi,Apartment,1,401,12,Unfurnished,Medium,0.0,5,No,No,58.49,0
+Mumbai,Independent House,3,1367,2,Unfurnished,Medium,10.0,8,Yes,Yes,338.33,0
+Pune,Apartment,2,824,8,Semi-Furnished,Medium,3.0,4,Yes,No,61.79,1
+Pune,Apartment,3,1287,11,Semi-Furnished,High,3.0,7,No,No,140.05,0
+Pune,Apartment,3,1276,22,Semi-Furnished,Medium,5.0,4,Yes,Yes,139.2,0
+Jaipur,Apartment,3,1298,13,Unfurnished,Low,5.0,1,Yes,Yes,47.94,1
+Mumbai,Apartment,2,1092,32,Semi-Furnished,Medium,9.0,3,Yes,Yes,149.79,1
+Jaipur,Apartment,2,1079,17,Semi-Furnished,High,5.0,1,No,No,36.53,1
+Jaipur,Apartment,2,962,40,Semi-Furnished,Low,0.0,6,Yes,Yes,30.37,1
+Mumbai,Apartment,3,1444,8,Semi-Furnished,High,9.0,6,Yes,No,307.25,0
+Mumbai,Apartment,3,1572,22,Unfurnished,High,8.0,2,No,No,324.45,0
+Mumbai,Apartment,2,762,9,Unfurnished,Low,10.0,6,No,Yes,162.14,0
+Mumbai,Apartment,3,1229,18,Unfurnished,High,6.0,0,Yes,Yes,210.22,1
+Pune,Villa,3,1329,4,Unfurnished,Medium,6.0,0,No,Yes,107.42,0
+Bangalore,Villa,3,1324,22,Semi-Furnished,High,10.0,8,No,No,114.41,1
+Bangalore,Apartment,3,1317,29,Fully-Furnished,Medium,6.0,5,No,Yes,151.09,0
+Mumbai,Apartment,2,1089,24,Semi-Furnished,Medium,1.0,4,No,Yes,170.71,1
+Bangalore,Apartment,3,1362,27,Semi-Furnished,Medium,1.0,5,Yes,No,100.89,1
+Bangalore,Independent House,3,1497,33,Unfurnished,High,5.0,5,Yes,Yes,123.8,1
+Mumbai,Apartment,3,1306,24,Unfurnished,Low,6.0,0,Yes,Yes,207.29,1
+Bangalore,Apartment,3,1452,9,Unfurnished,Medium,2.0,4,Yes,Yes,152.67,0
+Jaipur,Apartment,3,1646,13,Unfurnished,Low,3.0,8,No,Yes,54.95,1
+Delhi,Apartment,1,510,29,Unfurnished,Medium,2.0,3,No,Yes,54.51,1
+Delhi,Independent House,3,1627,40,Semi-Furnished,Medium,6.0,2,Yes,Yes,230.37,0
+Mumbai,Independent House,3,1387,24,Fully-Furnished,Medium,6.0,0,Yes,No,240.28,1
+Pune,Apartment,2,805,13,Unfurnished,Medium,3.0,1,Yes,Yes,70.99,0
+Mumbai,Apartment,3,1571,34,Unfurnished,Low,6.0,2,Yes,No,243.62,1
+Pune,Apartment,2,1091,33,Semi-Furnished,Low,4.0,3,No,Yes,67.31,1
+Delhi,Apartment,2,1145,9,Unfurnished,Low,0.0,6,Yes,Yes,142.59,1
+Mumbai,Apartment,2,1047,34,Fully-Furnished,Medium,9.0,5,Yes,Yes,170.84,1
+Indore,Apartment,3,1371,10,Semi-Furnished,High,3.0,7,Yes,Yes,66.41,0
+Jaipur,Apartment,2,936,10,,Low,6.0,8,Yes,Yes,42.99,0
+Bangalore,Apartment,3,1611,20,Unfurnished,High,1.0,5,No,Yes,164.89,0
+Pune,Independent House,2,1194,20,Semi-Furnished,High,1.0,6,Yes,Yes,119.15,0
+Indore,Apartment,2,1104,21,Semi-Furnished,Medium,0.0,3,No,Yes,43.81,0
+Bangalore,Independent House,3,1551,6,Semi-Furnished,Medium,1.0,1,Yes,Yes,116.64,1
+Bangalore,Villa,2,1122,16,Unfurnished,High,9.0,8,Yes,Yes,88.94,1
+Mumbai,Apartment,3,1629,1,Unfurnished,Low,7.0,8,Yes,Yes,381.61,0
+Bangalore,Villa,3,1642,11,Semi-Furnished,Medium,10.0,3,No,No,154.25,0
+Jaipur,Apartment,1,716,17,Semi-Furnished,Medium,7.0,2,Yes,Yes,33.34,0
+Indore,Apartment,4,1694,10,Fully-Furnished,Medium,7.0,5,Yes,Yes,70.39,0
+Bangalore,Apartment,1,665,15,Semi-Furnished,High,0.0,2,Yes,No,60.99,0
+Mumbai,Independent House,4,1719,17,Semi-Furnished,Low,0.0,0,Yes,Yes,371.87,0
+Jaipur,Apartment,4,2061,34,Unfurnished,Medium,9.0,3,Yes,Yes,54.7,1
+Delhi,Apartment,3,1600,25,Semi-Furnished,Medium,3.0,0,Yes,Yes,203.93,1
+Indore,Independent House,1,400,15,,Medium,5.0,1,Yes,No,15.44,0
+Bangalore,Apartment,3,1675,5,Fully-Furnished,Medium,7.0,2,Yes,Yes,178.29,0
+Mumbai,Villa,4,2148,11,Fully-Furnished,Medium,1.0,7,Yes,No,398.35,1
+Delhi,Villa,2,1129,12,Unfurnished,High,2.0,3,Yes,No,137.83,1
+Delhi,Independent House,3,1236,3,Fully-Furnished,Medium,5.0,3,No,Yes,191.89,0
+Pune,Independent House,2,775,38,Unfurnished,High,9.0,8,Yes,Yes,54.41,1
+Jaipur,Independent House,3,1375,1,Unfurnished,Medium,3.0,6,No,Yes,75.85,0
+Bangalore,Apartment,4,1758,25,Semi-Furnished,Low,1.0,1,Yes,Yes,122.95,1
+Mumbai,Independent House,3,1529,26,Unfurnished,Low,6.0,2,No,Yes,249.76,1
+Pune,Apartment,5,2507,26,Semi-Furnished,Low,3.0,3,Yes,No,222.23,0
+Jaipur,Apartment,3,1263,14,Unfurnished,Medium,7.0,3,Yes,Yes,60.37,0
+Pune,Apartment,1,598,7,Unfurnished,Medium,7.0,7,No,Yes,40.56,1
+Indore,Villa,3,1318,6,Semi-Furnished,High,6.0,5,No,No,63.47,0
+Jaipur,Independent House,1,400,39,Semi-Furnished,High,9.0,2,No,No,17.59,0
+Jaipur,Independent House,2,1037,11,Fully-Furnished,Low,8.0,8,No,No,47.74,0
+Bangalore,Apartment,4,1900,12,Semi-Furnished,Low,3.0,7,Yes,Yes,137.68,1
+Jaipur,Apartment,3,1380,16,Semi-Furnished,Medium,6.0,8,Yes,Yes,53.68,1
+Pune,Apartment,3,1322,16,Unfurnished,Medium,9.0,4,Yes,Yes,92.01,1
+Jaipur,Independent House,4,1978,35,Unfurnished,Low,9.0,2,No,No,72.1,1
+Bangalore,Villa,2,1142,20,Unfurnished,Low,0.0,3,Yes,Yes,84.86,1
+Bangalore,Apartment,4,1755,7,Semi-Furnished,High,3.0,4,No,No,173.93,0
+Indore,Apartment,3,1302,4,Semi-Furnished,High,1.0,8,Yes,Yes,52.44,0
+Pune,Apartment,3,1402,25,Unfurnished,Low,8.0,8,Yes,No,73.73,1
+Delhi,Apartment,2,763,15,Semi-Furnished,Medium,4.0,2,Yes,No,151.93,0
+Delhi,Independent House,2,1057,35,Semi-Furnished,Medium,2.0,6,Yes,No,139.46,1
+Jaipur,Apartment,1,691,27,Unfurnished,High,3.0,5,No,Yes,34.36,0
+Indore,Apartment,3,1212,28,Unfurnished,Medium,5.0,3,Yes,Yes,33.59,1
+Mumbai,Apartment,3,1406,11,Fully-Furnished,Low,9.0,4,No,Yes,377.42,0
+Jaipur,Apartment,2,806,36,Semi-Furnished,High,0.0,1,No,Yes,30.33,1
+Indore,Independent House,4,2070,29,Fully-Furnished,Medium,6.0,6,Yes,Yes,82.69,0
+Pune,Apartment,3,1361,22,Unfurnished,Medium,7.0,3,No,No,115.35,0
+Pune,Apartment,3,1273,15,Fully-Furnished,Medium,6.0,1,Yes,Yes,135.28,0
+Pune,Apartment,3,1558,13,Unfurnished,Medium,6.0,5,Yes,No,121.25,1
+Pune,Villa,2,918,9,Unfurnished,Medium,8.0,1,Yes,Yes,62.7,1
+Pune,Villa,3,1315,6,Fully-Furnished,Low,3.0,1,Yes,Yes,114.39,0
+Indore,Villa,2,963,36,Unfurnished,Medium,6.0,6,Yes,Yes,32.88,1
+Indore,Apartment,4,1873,28,Semi-Furnished,Low,8.0,0,No,No,57.18,1
+Bangalore,Apartment,2,827,2,Unfurnished,High,4.0,6,Yes,Yes,78.51,0
+Delhi,Apartment,3,1275,14,Semi-Furnished,Low,1.0,4,Yes,No,134.16,1
+Pune,Villa,3,1382,35,Fully-Furnished,Low,4.0,0,Yes,Yes,84.25,1
+Mumbai,Apartment,3,1408,18,Unfurnished,Medium,3.0,5,Yes,No,294.72,0
+Indore,Apartment,2,1018,12,Semi-Furnished,High,7.0,6,No,Yes,48.52,0
+Mumbai,Independent House,2,892,20,Unfurnished,High,4.0,0,No,Yes,217.33,0
+Mumbai,Independent House,2,1023,36,,Medium,8.0,8,Yes,No,248.52,0
+Mumbai,Apartment,3,1461,26,Unfurnished,Low,8.0,6,No,No,315.24,0
+Bangalore,Apartment,2,1192,28,Unfurnished,High,2.0,0,Yes,Yes,99.43,1
+Indore,Apartment,3,1568,19,Unfurnished,Medium,9.0,2,Yes,No,47.77,1
+Mumbai,Villa,3,1441,24,Unfurnished,Low,5.0,4,Yes,Yes,247.9,1
+Pune,Independent House,1,400,5,Fully-Furnished,High,5.0,3,Yes,No,36.59,0
+Jaipur,Apartment,3,1349,35,Unfurnished,Low,,1,No,Yes,46.69,1
+Mumbai,Apartment,4,2150,1,Unfurnished,High,10.0,0,Yes,Yes,575.63,0
+Bangalore,Independent House,4,1780,21,Unfurnished,High,9.0,3,Yes,Yes,171.1,0
+Indore,Independent House,3,1419,31,Unfurnished,Medium,2.0,6,Yes,No,57.12,0
+Bangalore,Apartment,2,826,15,Semi-Furnished,High,0.0,3,Yes,No,85.78,0
+Mumbai,Apartment,3,1441,17,Fully-Furnished,High,6.0,8,Yes,Yes,278.47,1
+Indore,Apartment,3,1546,4,Unfurnished,Low,,7,Yes,No,52.44,1
+Jaipur,Apartment,2,1149,35,Fully-Furnished,Medium,9.0,7,No,Yes,48.51,0
+Mumbai,Independent House,3,1377,29,Semi-Furnished,Low,6.0,4,No,No,258.16,1
+Bangalore,Independent House,4,1854,18,Unfurnished,Medium,0.0,0,Yes,Yes,187.94,0
+Delhi,Villa,2,907,22,Semi-Furnished,High,7.0,8,No,Yes,134.06,0
+Pune,Apartment,2,827,33,Semi-Furnished,Medium,2.0,1,Yes,Yes,57.63,1
+Bangalore,Independent House,3,1527,12,Semi-Furnished,Medium,6.0,5,Yes,Yes,107.98,1
+Indore,Apartment,3,1433,28,Fully-Furnished,Medium,2.0,4,Yes,Yes,46.95,1
+Mumbai,Apartment,3,1662,35,Unfurnished,High,2.0,7,Yes,No,326.41,1
+Pune,Apartment,3,1478,21,Fully-Furnished,Low,9.0,2,No,Yes,120.5,0
+Mumbai,Apartment,2,1023,35,Semi-Furnished,Medium,8.0,5,Yes,No,203.35,1
+Indore,Villa,3,1423,8,Semi-Furnished,Low,1.0,5,No,No,57.71,0
+Mumbai,Apartment,2,793,38,Semi-Furnished,Medium,3.0,2,Yes,Yes,139.01,1
+Delhi,Apartment,2,1150,18,Unfurnished,Low,5.0,6,Yes,Yes,124.21,1
+Pune,Apartment,3,1451,37,Fully-Furnished,Medium,2.0,3,No,No,107.48,1
+Pune,Apartment,2,1106,5,Semi-Furnished,Medium,9.0,4,Yes,No,95.11,0
+Indore,Apartment,5,2237,14,Unfurnished,Low,9.0,8,Yes,No,93.89,0
+Delhi,Apartment,1,493,19,Unfurnished,High,6.0,5,Yes,No,84.86,0
+Bangalore,Independent House,2,1031,8,Semi-Furnished,Low,6.0,3,Yes,Yes,86.33,1
+Mumbai,Apartment,2,875,31,Unfurnished,Medium,4.0,7,No,No,142.08,1
+Jaipur,Apartment,2,970,3,Unfurnished,Low,2.0,8,Yes,Yes,32.45,1
+Mumbai,Apartment,2,993,17,Semi-Furnished,Medium,1.0,4,Yes,Yes,200.89,1
+Mumbai,Independent House,1,719,4,Unfurnished,Medium,3.0,1,No,No,143.4,1
+Bangalore,Apartment,3,1551,19,Unfurnished,Medium,3.0,5,Yes,No,181.6,0
+Mumbai,Apartment,2,1031,22,Unfurnished,Low,10.0,7,Yes,No,155.74,1
+Delhi,Apartment,3,1315,10,Unfurnished,Medium,7.0,4,Yes,Yes,187.04,0
+Delhi,Apartment,2,1076,36,Semi-Furnished,Medium,7.0,0,Yes,No,120.05,1
+Pune,Apartment,2,974,21,Semi-Furnished,High,4.0,7,Yes,No,82.36,0
+Indore,Villa,4,1919,3,Unfurnished,Medium,5.0,8,Yes,Yes,71.61,0
+Jaipur,Apartment,3,1619,28,Unfurnished,Medium,7.0,0,No,Yes,67.99,0
+Mumbai,Apartment,1,503,33,Semi-Furnished,Low,0.0,7,Yes,Yes,94.37,1
+Mumbai,Villa,1,460,12,Unfurnished,Medium,4.0,1,Yes,Yes,104.87,0
+Bangalore,Villa,3,1667,8,Unfurnished,Low,3.0,3,Yes,Yes,127.07,1
+Indore,Apartment,2,1042,30,Unfurnished,Low,3.0,1,Yes,Yes,37.73,1
+Delhi,Apartment,1,590,6,Fully-Furnished,Low,10.0,1,No,No,84.22,0
+Jaipur,Apartment,3,1668,3,Semi-Furnished,Medium,1.0,2,Yes,Yes,61.07,1
+Pune,Apartment,3,1318,18,Semi-Furnished,Medium,9.0,7,Yes,Yes,102.06,1
+Delhi,Villa,3,1351,29,Semi-Furnished,High,0.0,3,Yes,Yes,193.05,0
+Indore,Independent House,3,1574,30,Semi-Furnished,Low,5.0,6,Yes,Yes,41.84,1
+Pune,Independent House,2,726,34,Semi-Furnished,Medium,,2,Yes,No,58.34,0
+Bangalore,Apartment,1,597,20,Semi-Furnished,High,4.0,2,Yes,Yes,49.71,1
+Bangalore,Apartment,4,1882,30,Unfurnished,Medium,7.0,1,Yes,Yes,127.83,1
+Mumbai,Apartment,1,675,18,Semi-Furnished,Medium,8.0,5,Yes,No,139.08,0
+Indore,Independent House,2,761,30,Semi-Furnished,Medium,10.0,5,Yes,Yes,29.58,0
+Jaipur,Apartment,2,841,31,Semi-Furnished,Low,10.0,0,Yes,No,25.12,1
+Pune,Apartment,4,2082,1,Unfurnished,Medium,1.0,6,Yes,Yes,200.73,0
+Delhi,Villa,3,1447,9,Unfurnished,High,10.0,3,No,Yes,149.93,1
+Indore,Villa,3,1636,1,Semi-Furnished,Low,3.0,2,Yes,No,68.1,0
+Indore,Independent House,3,1328,1,Semi-Furnished,Low,10.0,7,No,Yes,43.74,1
+Bangalore,Apartment,2,1009,23,Fully-Furnished,High,8.0,1,Yes,Yes,87.97,0
+Mumbai,Villa,3,1503,16,Unfurnished,High,4.0,8,No,Yes,406.99,0
+Mumbai,Independent House,1,627,31,Semi-Furnished,Medium,2.0,7,Yes,Yes,100.42,1
+Pune,Apartment,2,812,15,Semi-Furnished,Medium,5.0,7,Yes,No,65.39,0
+Bangalore,Apartment,3,1543,15,Fully-Furnished,Medium,2.0,2,Yes,No,125.49,1
+Indore,Apartment,1,707,38,Semi-Furnished,Low,4.0,3,Yes,Yes,24.29,1
+Jaipur,Independent House,2,1174,30,Semi-Furnished,Medium,2.0,1,Yes,Yes,48.28,0
+Bangalore,Apartment,2,1193,23,Semi-Furnished,Medium,5.0,1,Yes,No,111.04,0
+Pune,Apartment,2,1039,0,Semi-Furnished,High,9.0,3,Yes,No,117.14,0
+Pune,Apartment,1,470,10,Fully-Furnished,Low,4.0,5,Yes,Yes,37.93,0
+Bangalore,Villa,2,998,20,Unfurnished,Medium,8.0,4,Yes,No,96.88,0
+Pune,Apartment,2,920,3,Unfurnished,Medium,2.0,0,Yes,Yes,93.95,0
+Bangalore,Apartment,3,1315,6,Fully-Furnished,Medium,5.0,0,Yes,No,140.63,0
+Delhi,Apartment,3,1294,25,Semi-Furnished,Low,7.0,5,Yes,No,137.26,1
+Bangalore,Independent House,3,1401,11,Semi-Furnished,Medium,6.0,2,Yes,Yes,106.93,1
+Bangalore,Apartment,2,980,30,Semi-Furnished,High,5.0,2,Yes,Yes,92.32,0
+Pune,Apartment,3,1459,16,Unfurnished,Medium,1.0,6,Yes,Yes,93.5,1
+Pune,Villa,1,628,32,Semi-Furnished,Medium,6.0,0,Yes,Yes,36.16,1
+Mumbai,Apartment,1,521,10,Semi-Furnished,Medium,7.0,0,No,Yes,128.13,0
+Mumbai,Independent House,1,400,27,Unfurnished,Medium,0.0,2,Yes,No,68.67,1
+Delhi,Apartment,2,1050,31,Unfurnished,Medium,8.0,7,No,Yes,174.73,0
+Mumbai,Apartment,2,949,0,Fully-Furnished,High,3.0,0,Yes,Yes,227.63,0
+Bangalore,Apartment,3,1566,27,Unfurnished,High,7.0,3,No,Yes,124.6,1
+Pune,Apartment,2,991,6,Fully-Furnished,Medium,9.0,8,No,Yes,95.85,0
+Mumbai,Villa,3,1359,1,Unfurnished,Medium,6.0,3,Yes,Yes,306.31,0
+Mumbai,Apartment,3,1575,23,Semi-Furnished,High,9.0,7,Yes,Yes,334.43,0
+Delhi,Villa,2,975,3,Fully-Furnished,Medium,6.0,6,Yes,Yes,158.25,0
+Indore,Apartment,3,1369,18,Semi-Furnished,Medium,1.0,2,Yes,No,76.24,0
+Delhi,Apartment,3,1651,25,Unfurnished,Low,0.0,6,No,Yes,249.79,0
+Bangalore,Apartment,2,755,10,Semi-Furnished,High,3.0,6,No,No,86.13,0
+Pune,Independent House,3,1260,39,Unfurnished,Medium,1.0,2,No,Yes,66.96,1
+Delhi,Apartment,2,977,10,Unfurnished,High,7.0,1,No,No,147.13,0
+Mumbai,Apartment,2,780,2,Fully-Furnished,High,9.0,8,No,Yes,225.4,0
+Pune,Apartment,1,635,11,Semi-Furnished,Low,6.0,0,Yes,No,55.93,0
+Pune,Apartment,2,774,2,Semi-Furnished,High,,6,Yes,Yes,87.84,0
+Mumbai,Apartment,3,1274,26,Unfurnished,High,10.0,3,Yes,No,230.91,1
+Delhi,Independent House,1,606,1,Unfurnished,Medium,5.0,1,Yes,Yes,89.83,0
+Mumbai,Apartment,2,1030,15,,Low,0.0,1,Yes,No,173.71,1
+Indore,Independent House,3,1575,1,Semi-Furnished,Low,8.0,7,Yes,No,74.97,0
+Pune,Apartment,3,1430,29,Semi-Furnished,Medium,5.0,6,Yes,No,116.47,0
+Jaipur,Villa,2,1038,19,Semi-Furnished,Medium,9.0,6,Yes,Yes,40.15,1
+Jaipur,Independent House,4,1926,37,Fully-Furnished,Medium,,4,No,Yes,78.07,1
+Bangalore,Apartment,4,2007,27,Unfurnished,Low,0.0,7,Yes,No,152.93,1
+Mumbai,Independent House,3,1260,24,Unfurnished,High,7.0,1,Yes,Yes,222.44,1
+Mumbai,Apartment,1,400,31,Unfurnished,Medium,5.0,1,No,Yes,81.63,0
+Bangalore,Independent House,3,1605,9,Unfurnished,Low,7.0,4,Yes,Yes,138.61,1
+Bangalore,Villa,1,400,39,Unfurnished,Medium,7.0,0,Yes,Yes,26.8,1
+Bangalore,Apartment,4,1840,32,Fully-Furnished,Medium,10.0,5,Yes,No,136.9,1
+Pune,Apartment,4,1683,12,Unfurnished,Low,7.0,3,Yes,Yes,142.28,0
+Indore,Apartment,4,1960,40,Fully-Furnished,Medium,9.0,5,No,Yes,69.42,1
+Mumbai,Apartment,3,1354,36,Unfurnished,Low,6.0,6,Yes,Yes,198.74,1
+Pune,Apartment,2,1105,15,Fully-Furnished,High,6.0,2,Yes,Yes,95.67,0
+Bangalore,Apartment,2,1070,21,Semi-Furnished,High,9.0,7,Yes,No,100.83,0
+Mumbai,Apartment,2,1031,19,Fully-Furnished,Medium,3.0,6,No,Yes,227.23,0
+Pune,Villa,3,1642,26,Unfurnished,High,8.0,0,Yes,Yes,130.89,0
+Indore,Apartment,3,1535,40,Semi-Furnished,High,1.0,5,No,Yes,38.87,1
+Pune,Apartment,3,1298,15,Fully-Furnished,Low,10.0,6,Yes,No,108.76,0
+Indore,Apartment,2,961,33,Unfurnished,High,8.0,3,No,Yes,27.21,1
+Bangalore,Apartment,5,2302,31,Unfurnished,High,9.0,1,No,Yes,233.18,0
+Indore,Apartment,3,1615,25,Unfurnished,Low,2.0,8,No,Yes,60.33,0
+Mumbai,Apartment,1,611,24,Fully-Furnished,Low,1.0,6,Yes,Yes,143.67,0
+Bangalore,Independent House,2,1043,1,Semi-Furnished,Low,3.0,0,No,Yes,62.01,1
+Mumbai,Independent House,3,1623,11,Semi-Furnished,Low,4.0,7,Yes,No,317.73,1
+Jaipur,Apartment,2,930,39,Unfurnished,High,1.0,2,No,Yes,34.22,1
+Delhi,Villa,3,1391,8,Unfurnished,Medium,0.0,3,Yes,Yes,215.77,0
+Indore,Apartment,3,1630,11,Fully-Furnished,High,9.0,4,Yes,Yes,83.61,0
+Delhi,Villa,1,400,25,Unfurnished,High,10.0,0,Yes,No,65.69,0
+Delhi,Villa,3,1207,8,Semi-Furnished,Medium,4.0,5,Yes,Yes,118.09,1
+Indore,Apartment,3,1222,9,Fully-Furnished,Medium,8.0,5,Yes,Yes,45.56,0
+Bangalore,Apartment,2,1085,31,Unfurnished,Low,4.0,1,Yes,Yes,80.4,1
+Jaipur,Apartment,3,1371,33,Semi-Furnished,Medium,10.0,5,Yes,Yes,58.42,0
+Mumbai,Apartment,3,1513,19,Unfurnished,Medium,9.0,7,No,No,330.38,0
+Pune,Independent House,3,1307,38,Semi-Furnished,Low,8.0,5,Yes,Yes,91.65,1
+Mumbai,Apartment,2,1100,1,Unfurnished,Low,9.0,3,Yes,Yes,206.68,1
+Pune,Independent House,3,1503,0,Semi-Furnished,High,5.0,3,No,Yes,133.8,0
+Mumbai,Independent House,3,1270,35,Unfurnished,Medium,2.0,8,Yes,Yes,199.89,1
+Indore,Apartment,2,1158,23,Semi-Furnished,Medium,3.0,5,Yes,Yes,35.75,1
+Jaipur,Villa,2,725,26,Semi-Furnished,Medium,3.0,7,Yes,No,24.6,1
+Pune,Villa,1,625,1,Unfurnished,High,0.0,7,Yes,Yes,47.7,1
+Bangalore,Independent House,1,718,30,Semi-Furnished,Medium,2.0,6,Yes,Yes,61.69,1
+Mumbai,Independent House,3,1361,13,Unfurnished,Low,2.0,2,Yes,Yes,267.15,1
+Mumbai,Villa,3,1218,1,Semi-Furnished,High,0.0,0,No,No,260.05,0
+Pune,Apartment,1,658,28,Unfurnished,Medium,8.0,4,Yes,No,34.59,1
+Bangalore,Villa,3,1508,14,Semi-Furnished,Low,10.0,1,Yes,No,123.65,1
+Bangalore,Apartment,4,1800,11,Unfurnished,Medium,0.0,1,No,Yes,195.17,0
+Indore,Villa,2,1011,36,Unfurnished,High,8.0,6,Yes,Yes,34.27,1
+Indore,Independent House,1,554,27,Unfurnished,Low,0.0,2,Yes,Yes,19.76,1
+Indore,Apartment,2,966,19,Semi-Furnished,Medium,1.0,7,No,Yes,36.92,0
+Indore,Apartment,3,1592,38,Unfurnished,Low,1.0,8,Yes,Yes,46.3,1
+Indore,Apartment,3,1469,23,Fully-Furnished,High,5.0,7,No,Yes,47.73,1
+Indore,Apartment,2,881,20,Fully-Furnished,Low,6.0,5,Yes,Yes,30.98,1
+Jaipur,Apartment,4,1858,9,Unfurnished,Medium,10.0,4,No,Yes,72.75,1
+Bangalore,Villa,4,1789,13,Semi-Furnished,High,0.0,2,Yes,No,217.18,0
+Indore,Independent House,2,957,36,Unfurnished,Low,2.0,2,Yes,Yes,29.29,1
+Bangalore,Independent House,2,953,17,Unfurnished,High,1.0,6,Yes,No,104.63,0
+Bangalore,Apartment,2,1013,23,Semi-Furnished,High,7.0,4,No,Yes,109.98,0
+Delhi,Independent House,2,1047,13,Semi-Furnished,High,8.0,5,No,No,143.37,1
+Jaipur,Villa,3,1630,33,Semi-Furnished,Low,1.0,5,Yes,Yes,58.69,1
+Indore,Apartment,3,1420,11,Unfurnished,Medium,1.0,8,No,Yes,66.46,0
+Mumbai,Apartment,3,1601,21,Unfurnished,High,9.0,0,Yes,No,360.55,0
+Pune,Apartment,3,1519,5,Unfurnished,High,8.0,7,Yes,Yes,145.46,0
+Mumbai,Independent House,4,1936,35,Semi-Furnished,Low,3.0,4,Yes,Yes,381.63,1
+Jaipur,Apartment,2,826,35,Semi-Furnished,High,4.0,5,No,No,35.7,0
+Pune,Villa,3,1402,21,Semi-Furnished,Medium,10.0,5,No,Yes,118.32,0
+Jaipur,Apartment,1,400,13,Unfurnished,Low,8.0,0,Yes,No,16.48,0
+Bangalore,Villa,2,723,15,Unfurnished,Medium,5.0,2,No,No,59.32,1
+Pune,Apartment,3,1220,35,Unfurnished,High,9.0,5,Yes,Yes,74.43,1
+Bangalore,Apartment,3,1417,24,Unfurnished,Medium,8.0,8,Yes,No,83.13,1
+Mumbai,Apartment,3,1209,31,Unfurnished,Medium,8.0,5,Yes,No,205.81,1
+Mumbai,Apartment,2,1023,32,Fully-Furnished,High,6.0,5,No,Yes,234.37,0
+Pune,Independent House,2,1094,35,Fully-Furnished,Medium,9.0,0,Yes,Yes,85.22,1
+Pune,Apartment,4,1798,19,Semi-Furnished,Medium,8.0,8,Yes,Yes,155.74,0
+Indore,Villa,2,1096,17,Semi-Furnished,Medium,4.0,3,Yes,Yes,40.56,1
+Jaipur,Apartment,4,1950,37,Unfurnished,Medium,4.0,1,Yes,No,96.14,0
+Indore,Apartment,3,1568,2,Fully-Furnished,Medium,7.0,0,Yes,Yes,90.51,0
+Jaipur,Apartment,3,1433,22,Unfurnished,High,9.0,2,Yes,Yes,46.69,1
+Indore,Apartment,2,773,31,Fully-Furnished,Medium,3.0,2,No,Yes,30.97,0
+Bangalore,Independent House,3,1624,15,Semi-Furnished,High,8.0,4,Yes,No,182.34,0
+Pune,Apartment,2,1052,4,Unfurnished,Low,6.0,0,Yes,Yes,56.51,1
+Mumbai,Independent House,2,772,3,Fully-Furnished,Low,6.0,6,No,No,181.9,0
+Jaipur,Independent House,3,1455,20,Unfurnished,Medium,2.0,0,Yes,No,62.09,0
+Jaipur,Apartment,1,695,39,Semi-Furnished,Low,3.0,3,No,Yes,23.88,1
+Mumbai,Apartment,2,945,13,Semi-Furnished,Medium,6.0,5,Yes,Yes,212.92,0
+Indore,Villa,3,1246,38,Unfurnished,Medium,10.0,0,Yes,Yes,38.93,1
+Jaipur,Independent House,4,2137,30,Unfurnished,Low,10.0,6,Yes,No,82.81,1
+Bangalore,Independent House,2,975,13,Semi-Furnished,Medium,4.0,6,No,No,110.5,0
+Pune,Apartment,2,1067,5,Semi-Furnished,Medium,,2,No,Yes,103.05,0
+Mumbai,Villa,3,1543,11,Unfurnished,Medium,0.0,3,Yes,Yes,372.95,0
+Pune,Apartment,2,755,15,Fully-Furnished,High,6.0,5,Yes,Yes,59.44,0
+Jaipur,Independent House,3,1427,16,Unfurnished,Medium,5.0,6,Yes,No,75.7,0
+Jaipur,Independent House,4,1732,22,Unfurnished,Medium,9.0,3,Yes,Yes,70.85,1
+Mumbai,Apartment,2,1127,13,Unfurnished,High,6.0,8,Yes,No,232.42,0
+Bangalore,Apartment,3,1660,6,Unfurnished,High,1.0,8,Yes,Yes,174.41,0
+Delhi,Apartment,3,1367,31,Unfurnished,Low,3.0,8,Yes,Yes,145.61,1
+Mumbai,Apartment,2,958,14,Fully-Furnished,Low,,5,Yes,Yes,209.67,0
+Delhi,Independent House,2,1171,16,Unfurnished,Medium,7.0,1,No,Yes,165.96,0
+Indore,Apartment,2,1098,40,Unfurnished,Medium,6.0,1,Yes,Yes,29.94,1
+Delhi,Apartment,3,1215,33,Unfurnished,High,0.0,3,Yes,Yes,161.55,1
+Bangalore,Apartment,3,1311,4,Semi-Furnished,High,1.0,8,Yes,No,123.35,0
+Indore,Independent House,3,1485,26,Fully-Furnished,Medium,1.0,2,Yes,Yes,50.19,1
+Delhi,Apartment,3,1453,22,Unfurnished,High,3.0,5,No,Yes,173.33,1
+Indore,Apartment,1,400,39,Unfurnished,Medium,2.0,1,Yes,Yes,11.57,1
+Delhi,Apartment,3,1211,13,Unfurnished,Low,0.0,0,Yes,Yes,145.96,1
+Bangalore,Independent House,1,646,14,Unfurnished,High,1.0,4,Yes,Yes,65.03,0
+Delhi,Independent House,2,1140,32,Unfurnished,Medium,10.0,7,No,No,160.89,0
+Delhi,Apartment,2,1200,30,Unfurnished,High,8.0,1,Yes,Yes,175.24,0
+Delhi,Apartment,3,1640,34,Unfurnished,High,0.0,8,Yes,Yes,242.33,0
+Mumbai,Apartment,3,1238,16,Semi-Furnished,Medium,8.0,7,Yes,Yes,292.97,0
+Mumbai,Apartment,3,1354,27,Unfurnished,Medium,6.0,2,Yes,Yes,214.92,1
+Mumbai,Apartment,3,1567,18,Fully-Furnished,Medium,1.0,0,Yes,Yes,327.15,0
+Bangalore,Independent House,4,1741,22,Fully-Furnished,Medium,1.0,3,Yes,No,203.71,0
+Indore,Apartment,3,1201,31,Semi-Furnished,Medium,4.0,7,No,Yes,37.71,1
+Jaipur,Independent House,3,1288,39,Unfurnished,Medium,4.0,2,No,Yes,56.74,0
+Delhi,Apartment,3,1254,12,Unfurnished,High,3.0,1,Yes,No,176.72,0
+Delhi,Villa,2,1033,19,Unfurnished,Medium,9.0,6,Yes,Yes,95.12,1
+Bangalore,Villa,2,942,34,Semi-Furnished,Low,9.0,3,Yes,Yes,68.42,1
+Delhi,Apartment,1,400,4,Semi-Furnished,Medium,2.0,5,Yes,Yes,69.3,0
+Mumbai,Apartment,2,819,8,Fully-Furnished,High,3.0,4,Yes,Yes,259.26,0
+Jaipur,Apartment,1,539,28,Fully-Furnished,Medium,9.0,1,Yes,Yes,17.59,1
+Pune,Apartment,4,1752,5,Unfurnished,Medium,3.0,1,Yes,No,162.4,0
+Delhi,Apartment,3,1325,24,Semi-Furnished,High,1.0,8,Yes,No,218.77,0
+Mumbai,Apartment,2,1200,30,Unfurnished,Medium,4.0,1,Yes,No,258.74,0
+Pune,Independent House,2,963,21,Unfurnished,Medium,4.0,7,Yes,Yes,42.92,1
+Jaipur,Apartment,3,1262,1,Unfurnished,High,4.0,7,Yes,No,76.12,0
+Pune,Independent House,2,911,4,Unfurnished,Low,10.0,0,No,Yes,76.55,0
+Mumbai,Apartment,3,1320,26,Fully-Furnished,High,10.0,0,Yes,Yes,316.87,0
+Indore,Villa,3,1348,24,Unfurnished,Low,9.0,3,No,Yes,50.68,0
+Indore,Apartment,2,905,7,Semi-Furnished,Low,0.0,1,Yes,Yes,24.19,1
+Pune,Independent House,2,898,0,Semi-Furnished,High,5.0,0,No,No,99.74,0
+Bangalore,Apartment,3,1635,19,Semi-Furnished,Low,10.0,8,Yes,Yes,186.18,0
+Pune,Apartment,3,1229,22,Unfurnished,High,1.0,2,No,No,77.82,1
+Delhi,Apartment,2,938,31,Fully-Furnished,High,6.0,0,Yes,No,137.2,0
+Delhi,Apartment,2,1102,10,Semi-Furnished,High,3.0,1,Yes,No,177.19,0
+Indore,Apartment,2,846,38,Unfurnished,High,4.0,7,Yes,Yes,29.72,1
+Bangalore,Apartment,3,1223,23,Unfurnished,Medium,4.0,4,Yes,Yes,106.55,0
+Mumbai,Apartment,3,1583,10,Semi-Furnished,High,4.0,6,Yes,No,333.84,0
+Delhi,Independent House,3,1239,28,Fully-Furnished,Low,1.0,5,Yes,Yes,165.51,1
+Indore,Apartment,5,2195,25,Semi-Furnished,Medium,4.0,0,Yes,No,98.86,0
+Jaipur,Apartment,3,1419,15,Fully-Furnished,High,2.0,5,Yes,Yes,74.57,0
+Indore,Villa,3,1342,34,Semi-Furnished,Medium,3.0,6,Yes,Yes,47.34,1
+Delhi,Apartment,2,887,19,Unfurnished,Medium,1.0,3,Yes,Yes,105.25,1
+Delhi,Apartment,2,1155,2,Unfurnished,Medium,3.0,7,Yes,No,205.55,0
+Indore,Apartment,2,938,0,Unfurnished,Medium,8.0,7,No,Yes,36.3,0
+Mumbai,Independent House,1,400,0,Semi-Furnished,High,7.0,6,No,Yes,69.1,1
+Pune,Independent House,3,1640,16,Semi-Furnished,Low,10.0,1,No,Yes,133.63,0
+Delhi,Independent House,2,1045,1,Unfurnished,Medium,2.0,5,No,Yes,172.33,0
+Indore,Apartment,2,946,28,Semi-Furnished,High,0.0,5,Yes,Yes,34.1,1
+Indore,Villa,3,1334,19,Unfurnished,Medium,0.0,6,No,Yes,31.45,1
+Bangalore,Apartment,3,1455,5,Unfurnished,Low,5.0,5,Yes,Yes,106.05,1
+Pune,Apartment,2,1122,7,Unfurnished,Medium,2.0,1,Yes,Yes,89.79,0
+Jaipur,Apartment,3,1249,28,Unfurnished,Medium,3.0,7,No,Yes,44.02,1
+Mumbai,Apartment,3,1548,32,Unfurnished,Low,0.0,3,Yes,Yes,278.73,1
+Jaipur,Apartment,2,1106,2,Unfurnished,High,7.0,8,Yes,Yes,57.82,0
+Pune,Apartment,3,1371,34,Unfurnished,Medium,0.0,7,Yes,Yes,86.7,1
+Pune,Apartment,1,586,4,Unfurnished,High,4.0,2,Yes,Yes,41.49,1
+Pune,Apartment,2,753,26,Semi-Furnished,High,5.0,2,Yes,Yes,74.61,0
+Jaipur,Villa,3,1492,11,Unfurnished,Medium,1.0,7,Yes,Yes,67.98,0
+Pune,Apartment,2,733,19,Fully-Furnished,Low,6.0,1,Yes,Yes,64.65,0
+Indore,Villa,3,1344,19,Unfurnished,Medium,6.0,8,Yes,Yes,50.38,0
+Jaipur,Apartment,2,1191,8,Unfurnished,Low,0.0,3,Yes,Yes,56.45,0
+Pune,Independent House,2,1104,38,Unfurnished,High,3.0,5,Yes,Yes,73.77,1
+Indore,Apartment,2,919,3,Unfurnished,Low,,2,No,No,38.55,0
+Bangalore,Apartment,3,1614,18,Fully-Furnished,Medium,4.0,2,Yes,Yes,168.54,0
+Pune,Apartment,4,1942,37,Unfurnished,Medium,0.0,2,No,Yes,140.66,1
+Jaipur,Apartment,3,1370,26,Fully-Furnished,Medium,0.0,1,Yes,Yes,47.83,1
+Delhi,Independent House,3,1379,12,Fully-Furnished,Low,6.0,7,Yes,Yes,208.5,0
+Pune,Apartment,2,977,12,Semi-Furnished,Medium,,8,Yes,Yes,85.62,0
+Delhi,Apartment,2,772,21,,Low,0.0,7,Yes,No,127.9,0
+Indore,Independent House,3,1234,27,Semi-Furnished,Low,1.0,2,Yes,Yes,41.88,1
+Bangalore,Villa,2,861,21,Unfurnished,Medium,5.0,6,Yes,No,83.09,0
+Mumbai,Apartment,1,541,18,Semi-Furnished,High,5.0,1,Yes,Yes,93.55,1
+Bangalore,Apartment,3,1571,7,Unfurnished,Medium,1.0,3,Yes,No,127.61,1
+Pune,Apartment,3,1591,7,Unfurnished,Medium,8.0,5,Yes,No,138.09,0
+Delhi,Apartment,2,906,25,Semi-Furnished,Medium,3.0,4,No,Yes,129.12,0
+Delhi,Apartment,3,1348,25,Semi-Furnished,Medium,6.0,8,Yes,Yes,161.06,1
+Jaipur,Independent House,3,1651,22,Fully-Furnished,High,5.0,3,No,Yes,89.19,0
+Delhi,Apartment,3,1332,12,Unfurnished,Low,10.0,4,No,No,171.72,1
+Jaipur,Apartment,2,773,27,Fully-Furnished,Medium,10.0,3,Yes,Yes,31.71,1
+Indore,Apartment,2,1157,8,Unfurnished,High,2.0,7,No,Yes,47.02,0
+Mumbai,Independent House,4,1781,19,Unfurnished,High,7.0,7,No,Yes,450.21,0
+Pune,Independent House,3,1349,18,Unfurnished,Low,6.0,2,Yes,Yes,113.04,0
+Jaipur,Apartment,3,1466,38,Unfurnished,Medium,8.0,0,Yes,No,65.31,0
+Mumbai,Villa,3,1387,11,Unfurnished,High,2.0,5,Yes,No,333.22,0
+Delhi,Apartment,2,908,14,Semi-Furnished,Low,0.0,1,Yes,Yes,160.49,0
+Delhi,Apartment,2,1002,30,Fully-Furnished,High,1.0,1,Yes,Yes,154.4,0
+Mumbai,Apartment,3,1386,13,Unfurnished,High,10.0,2,No,Yes,297.87,0
+Delhi,Apartment,3,1577,10,Semi-Furnished,High,0.0,7,No,No,235.58,0
+Indore,Apartment,4,1690,25,Fully-Furnished,Low,10.0,2,Yes,No,59.52,1
+Indore,Independent House,2,907,26,Semi-Furnished,High,4.0,6,Yes,Yes,34.06,0
+Mumbai,Apartment,3,1423,10,Semi-Furnished,Medium,9.0,8,No,Yes,277.21,1
+Jaipur,Independent House,4,1725,37,Unfurnished,High,1.0,7,Yes,No,59.45,1
+Jaipur,Apartment,2,855,33,Fully-Furnished,Low,2.0,0,Yes,Yes,35.82,0
+Mumbai,Apartment,4,1845,18,Semi-Furnished,Low,7.0,6,Yes,Yes,334.72,1
+Jaipur,Apartment,4,1906,5,Unfurnished,Medium,9.0,6,Yes,Yes,61.98,1
+Jaipur,Apartment,5,2300,37,Unfurnished,Low,4.0,7,Yes,Yes,56.4,1
+Indore,Apartment,3,1342,27,Fully-Furnished,Medium,3.0,4,Yes,Yes,34.53,1
+Jaipur,Apartment,3,1345,0,Unfurnished,High,4.0,8,Yes,No,51.47,1
+Bangalore,Apartment,3,1581,34,Fully-Furnished,Medium,9.0,8,Yes,Yes,109.8,1
+Pune,Apartment,3,1569,39,Unfurnished,High,5.0,7,Yes,Yes,94.21,1
+Delhi,Villa,4,1701,7,Semi-Furnished,Low,6.0,5,Yes,Yes,254.28,0
+Bangalore,Apartment,3,1564,6,Unfurnished,Low,8.0,5,No,No,110.11,1
+Jaipur,Apartment,3,1208,10,Semi-Furnished,Low,0.0,0,Yes,Yes,43.94,1
+Indore,Apartment,4,1739,38,Fully-Furnished,Medium,3.0,5,Yes,Yes,43.62,1
+Mumbai,Independent House,2,821,3,,High,8.0,3,Yes,Yes,172.58,0
+Jaipur,Villa,3,1252,24,Semi-Furnished,Low,4.0,3,Yes,No,53.33,0
+Indore,Apartment,4,1875,11,Unfurnished,Medium,7.0,1,No,Yes,69.8,0
+Pune,Apartment,2,750,25,Unfurnished,Medium,0.0,3,Yes,Yes,54.85,1
+Jaipur,Apartment,2,979,37,Unfurnished,High,3.0,4,Yes,Yes,37.01,1
+Mumbai,Independent House,3,1519,11,Semi-Furnished,Low,8.0,4,No,Yes,251.34,1
+Indore,Villa,3,1408,36,Unfurnished,Low,0.0,4,Yes,No,39.38,1
+Indore,Apartment,2,900,23,Unfurnished,Low,0.0,3,Yes,Yes,30.46,1
+Indore,Apartment,2,1084,15,,Medium,3.0,0,Yes,Yes,45.2,0
+Pune,Apartment,2,778,12,Semi-Furnished,Medium,2.0,7,No,Yes,67.95,0
+Jaipur,Independent House,3,1642,24,Semi-Furnished,High,6.0,2,Yes,Yes,81.2,0
+Pune,Apartment,2,1148,3,Unfurnished,Medium,10.0,1,No,Yes,80.21,1
+Delhi,Apartment,4,1967,10,Unfurnished,Medium,2.0,8,Yes,No,214.8,1
+Delhi,Apartment,3,1282,31,Fully-Furnished,Medium,0.0,6,Yes,Yes,129.23,1
+Jaipur,Villa,2,1162,6,Unfurnished,Low,10.0,8,No,Yes,53.76,0
+Pune,Villa,2,1123,10,Fully-Furnished,Medium,9.0,1,Yes,No,78.79,1
+Mumbai,Villa,2,1152,27,Fully-Furnished,High,1.0,8,No,Yes,297.81,0
+Indore,Apartment,3,1294,40,Semi-Furnished,High,9.0,8,No,Yes,41.62,1
+Indore,Independent House,5,2255,22,Unfurnished,High,3.0,8,No,No,105.72,0
+Jaipur,Apartment,2,1114,22,,High,0.0,3,Yes,No,49.09,0
+Delhi,Apartment,2,1127,27,Semi-Furnished,Low,0.0,2,Yes,Yes,132.96,1
+Delhi,Apartment,3,1276,25,Semi-Furnished,Low,7.0,5,No,No,163.91,1
+Indore,Independent House,4,1686,24,Unfurnished,Low,6.0,2,Yes,Yes,51.43,1
+Jaipur,Apartment,1,682,28,Unfurnished,Medium,7.0,8,Yes,Yes,27.14,1
+Pune,Villa,3,1432,18,Unfurnished,Low,3.0,2,Yes,Yes,86.98,1
+Delhi,Villa,2,923,32,Semi-Furnished,Medium,5.0,1,Yes,No,120.74,1
+Pune,Apartment,3,1471,35,Semi-Furnished,Medium,2.0,7,Yes,Yes,92.04,1
+Delhi,Apartment,2,1052,13,Unfurnished,High,10.0,5,Yes,Yes,152.29,0
+Delhi,Apartment,1,400,13,Semi-Furnished,High,7.0,7,Yes,No,49.79,1
+Bangalore,Apartment,3,1398,34,Unfurnished,High,3.0,6,Yes,Yes,129.11,0
+Delhi,Apartment,3,1394,29,Semi-Furnished,Low,2.0,2,Yes,Yes,163.09,1
+Mumbai,Apartment,2,1018,27,Fully-Furnished,Low,3.0,7,No,Yes,227.13,0
+Jaipur,Independent House,2,995,16,Unfurnished,Medium,5.0,0,No,Yes,36.0,1
+Jaipur,Independent House,2,725,2,Unfurnished,Medium,10.0,0,Yes,Yes,32.19,0
+Pune,Apartment,3,1559,15,Unfurnished,Medium,6.0,7,Yes,Yes,137.34,0
+Delhi,Apartment,3,1603,29,Semi-Furnished,Medium,6.0,8,Yes,Yes,171.77,1
+Mumbai,Apartment,2,898,28,Semi-Furnished,Medium,3.0,5,Yes,Yes,149.75,1
+Pune,Villa,2,1034,14,Fully-Furnished,Medium,7.0,4,No,Yes,101.13,0
+Bangalore,Independent House,3,1225,24,Unfurnished,Medium,6.0,1,No,Yes,119.75,0
+Pune,Apartment,4,2158,37,Fully-Furnished,Medium,1.0,8,No,Yes,160.22,1
+Pune,Apartment,3,1468,37,,Medium,7.0,5,Yes,Yes,82.96,1
+Delhi,Villa,2,873,22,Semi-Furnished,Medium,8.0,7,Yes,Yes,113.66,1
+Bangalore,Apartment,3,1372,24,Unfurnished,Medium,4.0,8,Yes,No,144.54,0
+Pune,Apartment,1,699,6,Fully-Furnished,Low,3.0,8,Yes,No,48.75,1
+Mumbai,Apartment,3,1537,21,Semi-Furnished,Medium,3.0,7,Yes,Yes,334.89,0
+Mumbai,Apartment,4,1920,16,Semi-Furnished,High,3.0,7,Yes,Yes,441.17,0
+Jaipur,Apartment,4,1922,17,Fully-Furnished,High,5.0,2,Yes,Yes,77.65,1
+Bangalore,Villa,3,1544,40,Unfurnished,Medium,10.0,2,Yes,Yes,106.23,1
+Bangalore,Independent House,2,1017,9,Unfurnished,Low,3.0,1,Yes,No,63.32,1
+Jaipur,Apartment,2,730,9,Fully-Furnished,Medium,6.0,0,Yes,Yes,36.31,0
+Pune,Independent House,1,690,6,Unfurnished,Medium,6.0,3,No,Yes,60.21,0
+Bangalore,Apartment,1,400,37,Unfurnished,Medium,4.0,1,Yes,No,23.51,1
+Mumbai,Villa,3,1528,26,Semi-Furnished,Medium,4.0,1,Yes,Yes,322.78,0
+Mumbai,Apartment,3,1209,32,Semi-Furnished,Medium,9.0,4,Yes,Yes,203.14,1
+Delhi,Independent House,3,1614,0,,Medium,7.0,3,No,Yes,214.66,1
+Bangalore,Independent House,4,1821,33,Unfurnished,High,6.0,0,Yes,Yes,127.92,1
+Pune,Apartment,3,1290,3,Unfurnished,Low,6.0,8,No,Yes,112.44,0
+Jaipur,Independent House,3,1308,16,Unfurnished,High,5.0,3,Yes,No,43.04,1
+Jaipur,Independent House,2,1064,3,Fully-Furnished,Low,6.0,4,No,Yes,38.1,1
+Pune,Villa,2,1112,25,Fully-Furnished,Low,6.0,6,Yes,Yes,77.89,1
+Indore,Apartment,3,1541,3,Semi-Furnished,High,9.0,1,Yes,No,62.9,0
+Delhi,Independent House,2,1180,0,Unfurnished,High,1.0,7,Yes,Yes,209.13,0
+Jaipur,Independent House,2,1122,6,Fully-Furnished,Low,9.0,1,Yes,Yes,51.08,0
+Bangalore,Apartment,3,1243,29,,Medium,1.0,4,No,Yes,101.04,1
+Delhi,Independent House,3,1605,8,Unfurnished,Low,9.0,1,Yes,Yes,164.83,1
+Bangalore,Apartment,2,973,34,Fully-Furnished,Medium,6.0,1,Yes,Yes,79.56,1
+Mumbai,Apartment,3,1223,7,Semi-Furnished,High,9.0,3,No,No,186.73,1
+Delhi,Apartment,3,1348,23,Semi-Furnished,High,6.0,3,Yes,Yes,204.69,0
+Jaipur,Apartment,4,1714,18,Semi-Furnished,Medium,6.0,7,No,Yes,79.58,0
+Delhi,Apartment,2,1154,35,Unfurnished,Medium,4.0,5,Yes,Yes,120.76,1
+Delhi,Apartment,2,963,26,Unfurnished,Medium,0.0,7,No,No,128.78,1
+Delhi,Independent House,2,1056,31,Semi-Furnished,Medium,1.0,6,Yes,Yes,126.47,1
+Indore,Apartment,3,1671,13,Unfurnished,High,8.0,3,Yes,No,78.86,0
+Delhi,Apartment,4,2063,17,,High,7.0,1,Yes,Yes,310.38,0
+Bangalore,Apartment,2,724,27,Semi-Furnished,Medium,,8,Yes,No,51.09,1
+Mumbai,Apartment,2,812,28,Semi-Furnished,Medium,9.0,1,Yes,No,183.47,0
+Pune,Independent House,2,1182,15,Semi-Furnished,Medium,0.0,0,Yes,No,107.91,0
+Delhi,Villa,3,1294,34,Semi-Furnished,Low,5.0,7,No,Yes,144.59,1
+Jaipur,Independent House,3,1565,30,Fully-Furnished,High,8.0,8,No,Yes,75.04,0
+Delhi,Apartment,2,894,3,Semi-Furnished,Medium,7.0,0,No,Yes,148.22,0
+Jaipur,Apartment,2,825,36,Unfurnished,Medium,2.0,6,No,Yes,27.25,1
+Bangalore,Apartment,3,1305,16,Unfurnished,Medium,3.0,1,No,No,113.18,1
+Jaipur,Apartment,2,1147,38,Unfurnished,High,2.0,5,No,Yes,44.61,1
+Pune,Apartment,3,1621,25,Unfurnished,Low,5.0,4,No,Yes,99.99,1
+Mumbai,Villa,3,1445,38,Unfurnished,High,8.0,0,Yes,Yes,318.59,0
+Jaipur,Apartment,3,1472,40,Unfurnished,High,7.0,1,No,Yes,38.24,1
+Jaipur,Villa,3,1208,3,Semi-Furnished,High,9.0,1,No,Yes,66.68,0
+Mumbai,Apartment,5,2192,29,Fully-Furnished,Medium,3.0,5,No,Yes,364.6,1
+Pune,Apartment,2,915,29,Unfurnished,Low,1.0,0,Yes,No,58.8,1
+Delhi,Apartment,3,1494,21,Semi-Furnished,Medium,,3,Yes,Yes,156.35,1
+Jaipur,Apartment,2,742,10,Semi-Furnished,Medium,7.0,4,No,No,26.44,1
+Mumbai,Independent House,2,821,1,Unfurnished,Low,10.0,1,No,Yes,168.33,0
+Bangalore,Apartment,2,1007,11,Fully-Furnished,Medium,5.0,1,Yes,No,101.17,0
+Mumbai,Apartment,4,1902,29,Semi-Furnished,Medium,,6,Yes,Yes,420.61,0
+Bangalore,Independent House,3,1356,35,Unfurnished,High,8.0,6,Yes,Yes,103.33,1
+Pune,Apartment,2,1014,17,Semi-Furnished,Low,0.0,5,Yes,Yes,84.34,0
+Delhi,Apartment,3,1400,25,Unfurnished,Medium,8.0,0,Yes,Yes,178.23,1
+Mumbai,Apartment,3,1264,6,,High,1.0,2,Yes,Yes,330.34,0
+Indore,Apartment,2,1053,0,Unfurnished,High,0.0,8,No,No,38.04,1
+Jaipur,Independent House,1,691,25,Fully-Furnished,High,7.0,0,Yes,Yes,32.4,0
+Pune,Independent House,4,1825,22,Unfurnished,High,7.0,1,Yes,Yes,153.56,0
+Mumbai,Independent House,3,1334,25,Semi-Furnished,High,10.0,7,No,Yes,261.81,1
+Jaipur,Apartment,4,2119,5,Unfurnished,Medium,3.0,6,Yes,Yes,97.78,0
+Mumbai,Apartment,3,1626,5,Semi-Furnished,Medium,,8,Yes,Yes,390.35,0
+Bangalore,Villa,3,1471,7,Semi-Furnished,Low,6.0,3,Yes,No,123.17,1
+Mumbai,Apartment,2,1076,23,Semi-Furnished,Low,1.0,3,Yes,Yes,227.22,0
+Indore,Apartment,2,812,21,Semi-Furnished,Low,4.0,6,No,No,18.53,1
+Mumbai,Apartment,2,1163,18,Semi-Furnished,Low,9.0,0,No,No,162.25,1
+Mumbai,Apartment,2,800,36,Fully-Furnished,Medium,3.0,8,Yes,No,130.57,1
+Indore,Apartment,3,1510,17,Semi-Furnished,Low,2.0,1,Yes,Yes,56.39,0
+Pune,Independent House,4,1903,30,Fully-Furnished,Low,0.0,0,Yes,Yes,125.15,1
+Mumbai,Independent House,2,1146,36,Fully-Furnished,High,4.0,6,No,Yes,191.12,1
+Indore,Apartment,3,1628,29,Unfurnished,Low,9.0,5,No,No,50.42,1
+Jaipur,Apartment,2,974,32,Unfurnished,High,7.0,2,Yes,Yes,38.82,1
+Bangalore,Apartment,2,1129,9,Unfurnished,Low,8.0,0,Yes,Yes,87.19,1
+Bangalore,Independent House,2,924,36,Fully-Furnished,High,6.0,4,No,No,68.45,1
+Mumbai,Apartment,1,400,11,Unfurnished,High,10.0,3,No,Yes,88.86,0
+Pune,Villa,3,1235,29,Semi-Furnished,Medium,0.0,4,Yes,Yes,101.9,0
+Pune,Apartment,3,1301,26,Fully-Furnished,Medium,0.0,0,No,Yes,85.49,1
+Jaipur,Apartment,3,1676,38,Unfurnished,Low,0.0,0,Yes,Yes,68.43,1
+Mumbai,Apartment,3,1568,8,Semi-Furnished,High,1.0,4,Yes,Yes,340.76,0
+Bangalore,Villa,3,1574,20,Unfurnished,High,0.0,5,Yes,No,128.54,1
+Pune,Apartment,2,860,11,,High,3.0,4,Yes,No,75.22,0
+Mumbai,Apartment,3,1434,28,Semi-Furnished,Medium,9.0,1,Yes,No,279.87,1
+Pune,Apartment,4,1883,32,Unfurnished,Medium,8.0,8,Yes,Yes,85.99,1
+Indore,Villa,3,1402,14,Unfurnished,High,3.0,4,Yes,Yes,54.58,0
+Pune,Independent House,4,1981,1,Fully-Furnished,Medium,3.0,4,Yes,Yes,203.71,0
+Bangalore,Apartment,4,2058,38,Unfurnished,Medium,6.0,8,Yes,Yes,174.21,1
+Delhi,Independent House,2,1143,17,Fully-Furnished,Low,10.0,2,Yes,Yes,160.97,0
+Jaipur,Apartment,2,971,2,Fully-Furnished,High,,4,No,Yes,49.43,0
+Jaipur,Apartment,2,945,6,Unfurnished,Low,6.0,4,Yes,Yes,43.18,0
+Bangalore,Apartment,1,644,17,Unfurnished,Low,0.0,1,Yes,Yes,66.22,0
+Pune,Apartment,2,1043,37,Semi-Furnished,Medium,0.0,3,No,No,73.44,1
+Mumbai,Villa,4,1733,36,Semi-Furnished,High,3.0,1,Yes,Yes,329.69,1
+Pune,Villa,1,400,32,Unfurnished,Medium,3.0,4,Yes,Yes,32.65,0
+Bangalore,Apartment,2,835,30,Semi-Furnished,Low,0.0,1,Yes,Yes,53.89,1
+Jaipur,Apartment,2,1199,10,Unfurnished,Low,5.0,8,No,Yes,48.63,1
+Pune,Independent House,2,899,3,Fully-Furnished,High,9.0,5,No,Yes,123.55,0
+Jaipur,Independent House,2,1039,17,Unfurnished,High,1.0,7,Yes,Yes,48.43,0
+Mumbai,Apartment,2,1045,3,Unfurnished,High,10.0,8,Yes,Yes,271.87,0
+Jaipur,Independent House,2,1147,33,Unfurnished,Medium,4.0,7,Yes,Yes,39.35,1
+Jaipur,Apartment,2,958,28,Fully-Furnished,High,7.0,4,No,No,47.2,0
+Delhi,Apartment,2,926,23,Semi-Furnished,Medium,2.0,4,Yes,Yes,148.65,0
+Delhi,Independent House,3,1624,21,Fully-Furnished,Medium,8.0,5,No,Yes,184.3,1
+Indore,Apartment,3,1670,1,Unfurnished,Medium,6.0,0,Yes,Yes,65.44,0
+Delhi,Apartment,1,698,5,Unfurnished,Medium,8.0,7,Yes,Yes,106.89,0
+Jaipur,Apartment,1,400,24,Unfurnished,High,0.0,1,No,No,16.5,0
+Bangalore,Independent House,3,1675,20,Semi-Furnished,Medium,,5,No,Yes,136.29,1
+Jaipur,Independent House,2,758,15,Semi-Furnished,Medium,2.0,8,Yes,Yes,39.41,0
+Bangalore,Apartment,3,1335,30,Semi-Furnished,Medium,3.0,2,Yes,Yes,112.53,1
+Bangalore,Apartment,1,624,13,Unfurnished,Low,3.0,1,Yes,No,46.46,1
+Delhi,Apartment,4,1769,38,Fully-Furnished,Medium,10.0,4,Yes,Yes,263.3,0
+Pune,Apartment,5,2267,27,Unfurnished,Low,6.0,8,Yes,No,185.38,0
+Mumbai,Apartment,3,1323,31,Fully-Furnished,Low,9.0,5,Yes,Yes,295.22,0
+Delhi,Villa,3,1212,27,Unfurnished,Medium,10.0,7,Yes,No,142.85,1
+Delhi,Apartment,2,1121,8,Semi-Furnished,Medium,7.0,7,Yes,No,158.69,0
+Pune,Apartment,3,1563,21,Unfurnished,High,10.0,6,Yes,No,105.84,1
+Mumbai,Apartment,3,1477,31,Unfurnished,Medium,9.0,4,Yes,Yes,274.58,1
+Jaipur,Apartment,3,1651,4,Semi-Furnished,High,4.0,1,Yes,Yes,95.78,0
+Indore,Independent House,2,999,22,,High,9.0,4,No,Yes,40.63,0
+Indore,Apartment,3,1386,4,Unfurnished,High,6.0,6,Yes,Yes,73.8,0
+Jaipur,Apartment,2,1033,31,Semi-Furnished,Medium,2.0,6,Yes,Yes,28.17,1
+Delhi,Apartment,2,827,9,Semi-Furnished,Medium,2.0,1,Yes,No,125.81,0
+Mumbai,Apartment,3,1234,38,Fully-Furnished,High,2.0,6,Yes,Yes,285.14,0
+Delhi,Apartment,2,881,14,Unfurnished,Medium,3.0,5,Yes,Yes,109.99,1
+Bangalore,Apartment,4,1719,6,Semi-Furnished,Low,5.0,6,Yes,Yes,130.38,1
+Delhi,Apartment,2,905,28,Semi-Furnished,Medium,4.0,7,Yes,Yes,97.12,1
+Delhi,Apartment,3,1395,2,Unfurnished,Low,7.0,3,No,No,199.48,0
+Jaipur,Apartment,2,1009,18,,High,4.0,0,No,No,37.44,1
+Jaipur,Apartment,3,1361,9,Unfurnished,Medium,10.0,7,Yes,No,70.74,0
+Jaipur,Independent House,2,1040,27,Unfurnished,Medium,,7,Yes,No,42.25,1
+Indore,Apartment,2,747,28,Unfurnished,Medium,9.0,2,Yes,Yes,24.11,1
+Bangalore,Apartment,3,1444,14,Unfurnished,Medium,1.0,2,Yes,Yes,124.14,1
+Jaipur,Apartment,2,1156,34,Semi-Furnished,Low,10.0,4,Yes,Yes,48.01,0
+Mumbai,Apartment,3,1364,5,Semi-Furnished,Medium,10.0,2,Yes,Yes,367.1,0
+Indore,Villa,2,1078,11,Fully-Furnished,High,4.0,4,Yes,Yes,41.89,0
+Pune,Apartment,1,719,37,Semi-Furnished,Medium,6.0,7,No,No,44.43,1
+Mumbai,Villa,4,1683,12,Unfurnished,High,1.0,0,Yes,Yes,351.2,0
+Mumbai,Apartment,3,1545,28,Fully-Furnished,Low,5.0,1,Yes,Yes,272.7,1
+Jaipur,Apartment,2,1023,18,Fully-Furnished,Low,6.0,1,No,No,31.86,1
+Pune,Villa,3,1278,2,Unfurnished,Low,4.0,3,Yes,Yes,89.5,1
+Pune,Apartment,3,1667,7,Semi-Furnished,Medium,8.0,8,Yes,Yes,127.48,1
+Indore,Apartment,2,1067,7,Fully-Furnished,High,3.0,1,Yes,Yes,40.55,0
+Pune,Apartment,2,1129,19,Semi-Furnished,High,9.0,8,Yes,No,102.79,0
+Bangalore,Villa,3,1347,3,Fully-Furnished,Medium,0.0,6,Yes,Yes,138.08,0
+Jaipur,Apartment,2,1066,20,Unfurnished,Medium,7.0,7,Yes,No,46.12,0
+Pune,Independent House,3,1593,2,Unfurnished,High,7.0,0,Yes,Yes,123.14,1
+Indore,Apartment,2,1182,7,Unfurnished,Low,,4,Yes,No,47.12,0
+Bangalore,Independent House,2,936,22,Semi-Furnished,Low,7.0,8,No,Yes,78.66,1
+Delhi,Apartment,3,1493,15,Fully-Furnished,High,1.0,3,Yes,Yes,226.23,0
+Delhi,Villa,2,793,12,Fully-Furnished,Medium,,1,Yes,Yes,153.38,0
+Bangalore,Apartment,4,2056,2,Unfurnished,High,,5,No,Yes,211.94,0
+Indore,Independent House,4,1883,8,Unfurnished,Medium,0.0,1,Yes,Yes,66.04,1
+Bangalore,Apartment,3,1455,13,Fully-Furnished,High,7.0,2,Yes,Yes,160.65,0
+Jaipur,Apartment,3,1422,12,Semi-Furnished,Low,7.0,7,Yes,Yes,50.82,1
+Jaipur,Apartment,3,1403,6,Unfurnished,Medium,6.0,2,Yes,Yes,59.25,0
+Delhi,Apartment,2,1054,14,Semi-Furnished,Medium,10.0,1,Yes,Yes,198.34,0
+Pune,Apartment,3,1369,6,Semi-Furnished,Medium,4.0,5,Yes,Yes,86.52,1
+Indore,Independent House,2,881,37,Semi-Furnished,Low,3.0,2,No,Yes,25.18,1
+Delhi,Independent House,3,1452,33,Semi-Furnished,Medium,9.0,0,Yes,No,179.35,1
+Pune,Apartment,3,1597,40,Unfurnished,Low,9.0,2,Yes,No,92.62,1
+Pune,Independent House,2,1099,21,Fully-Furnished,High,9.0,5,Yes,Yes,91.34,0
+Jaipur,Apartment,2,1012,23,Semi-Furnished,Medium,9.0,2,Yes,No,51.69,0
+Mumbai,Apartment,2,765,36,Unfurnished,Low,5.0,8,Yes,Yes,114.92,1
+Mumbai,Villa,4,1833,0,Unfurnished,Low,10.0,6,Yes,No,405.9,0
+Bangalore,Villa,2,1044,9,Semi-Furnished,Low,0.0,4,Yes,Yes,84.99,1
+Jaipur,Independent House,2,1171,15,Unfurnished,Medium,4.0,1,Yes,Yes,50.82,0
+Pune,Apartment,3,1370,7,Unfurnished,Low,3.0,8,No,Yes,120.86,0
+Indore,Villa,3,1363,24,Semi-Furnished,High,3.0,4,No,Yes,52.33,0
+Mumbai,Apartment,3,1549,11,Unfurnished,Low,,6,Yes,Yes,276.44,1
+Pune,Apartment,2,1098,24,Semi-Furnished,Low,8.0,8,No,Yes,78.21,1
+Mumbai,Apartment,2,795,16,Unfurnished,High,7.0,3,Yes,Yes,184.46,0
+Mumbai,Independent House,2,725,25,Semi-Furnished,High,10.0,8,No,No,173.72,0
+Mumbai,Independent House,2,1018,13,Unfurnished,Low,7.0,0,Yes,Yes,203.73,1
+Indore,Villa,2,869,40,Unfurnished,High,4.0,5,Yes,Yes,28.19,1
+Jaipur,Apartment,2,1129,35,Unfurnished,Medium,5.0,1,No,No,47.83,0
+Indore,Apartment,4,1773,22,Fully-Furnished,High,1.0,7,Yes,Yes,67.46,0
+Delhi,Apartment,2,1099,5,Fully-Furnished,Medium,10.0,4,No,No,168.02,0
+Pune,Apartment,2,1099,4,Unfurnished,Medium,2.0,2,Yes,Yes,115.7,0
+Jaipur,Apartment,3,1243,24,Semi-Furnished,High,4.0,1,Yes,Yes,53.51,0
+Jaipur,Villa,2,1088,17,Semi-Furnished,Low,1.0,7,Yes,Yes,48.19,0
+Jaipur,Apartment,3,1223,12,Fully-Furnished,Medium,2.0,6,No,Yes,49.59,1
+Jaipur,Apartment,3,1466,13,Unfurnished,Medium,3.0,8,Yes,Yes,69.96,0
+Indore,Apartment,3,1604,27,Semi-Furnished,Low,5.0,7,Yes,Yes,44.38,1
+Jaipur,Apartment,3,1651,17,Unfurnished,Low,4.0,3,No,Yes,51.74,1
+Bangalore,Apartment,4,2073,27,Unfurnished,Low,9.0,1,No,Yes,177.77,1
+Pune,Independent House,3,1478,26,Fully-Furnished,Medium,3.0,1,No,Yes,112.32,1
+Jaipur,Apartment,4,2144,31,Semi-Furnished,Medium,1.0,1,Yes,Yes,79.46,1
+Pune,Independent House,2,939,8,Unfurnished,Medium,10.0,5,No,No,80.89,0
+Bangalore,Apartment,4,2087,39,Unfurnished,Low,4.0,6,No,Yes,138.0,1
+Bangalore,Apartment,2,1098,31,Semi-Furnished,Medium,4.0,5,No,No,75.14,1
+Pune,Apartment,2,1137,19,Semi-Furnished,High,10.0,1,Yes,Yes,88.83,0
+Mumbai,Independent House,3,1202,27,Unfurnished,Medium,6.0,3,Yes,No,189.2,1
+Delhi,Villa,2,1163,32,Fully-Furnished,Medium,0.0,2,Yes,Yes,185.37,0
+Mumbai,Apartment,3,1284,3,Unfurnished,High,,3,Yes,Yes,353.77,0
+Mumbai,Apartment,2,1018,33,Unfurnished,High,10.0,4,Yes,Yes,169.52,1
+Indore,Apartment,3,1582,2,Fully-Furnished,Medium,4.0,6,Yes,Yes,74.6,0
+Mumbai,Apartment,2,1029,25,Unfurnished,High,7.0,8,Yes,Yes,199.32,1
+Jaipur,Independent House,3,1512,7,Unfurnished,Medium,7.0,1,Yes,Yes,79.45,0
+Indore,Apartment,4,1861,5,Semi-Furnished,High,0.0,7,Yes,Yes,110.98,0
+Indore,Apartment,2,1107,15,Fully-Furnished,Low,4.0,2,Yes,Yes,47.58,0
+Bangalore,Apartment,3,1568,23,Unfurnished,Medium,9.0,8,No,Yes,118.51,1
+Mumbai,Apartment,3,1474,38,Fully-Furnished,Low,0.0,3,Yes,Yes,220.06,1
+Bangalore,Apartment,4,2151,29,Semi-Furnished,High,0.0,2,Yes,Yes,198.43,0
+Pune,Apartment,2,1048,12,Unfurnished,Medium,1.0,5,Yes,No,80.73,1
+Delhi,Villa,3,1568,4,Semi-Furnished,Low,1.0,8,Yes,Yes,179.44,1
+Indore,Villa,1,600,24,Unfurnished,Low,,6,No,No,19.75,1
+Pune,Apartment,2,1052,19,Unfurnished,High,3.0,3,Yes,Yes,112.68,0
+Pune,Independent House,3,1391,17,Semi-Furnished,High,2.0,2,Yes,Yes,134.95,0
+Jaipur,Apartment,4,1807,17,Fully-Furnished,Medium,10.0,3,Yes,Yes,67.53,1
+Delhi,Apartment,2,760,1,Unfurnished,Medium,0.0,2,No,Yes,113.0,0
+Pune,Apartment,3,1564,9,Unfurnished,Medium,1.0,2,Yes,No,132.81,0
+Pune,Apartment,3,1225,11,Semi-Furnished,Medium,5.0,8,Yes,Yes,109.66,0
+Delhi,Apartment,1,641,12,Unfurnished,High,8.0,3,Yes,Yes,72.71,1
+Delhi,Apartment,3,1323,10,Unfurnished,Low,4.0,8,Yes,Yes,174.1,1
+Pune,Apartment,4,1934,18,Unfurnished,Medium,3.0,4,Yes,Yes,152.38,0
+Delhi,Independent House,2,802,34,Semi-Furnished,Medium,4.0,6,Yes,Yes,97.73,1
+Pune,Apartment,3,1206,38,Unfurnished,Medium,8.0,4,Yes,Yes,56.24,1
+Pune,Apartment,2,855,25,Unfurnished,Medium,6.0,0,Yes,Yes,60.37,1
+Jaipur,Apartment,2,1063,13,Fully-Furnished,Medium,7.0,1,Yes,Yes,55.21,0
+Mumbai,Apartment,4,1823,23,Fully-Furnished,Low,3.0,4,Yes,Yes,336.28,1
+Pune,Apartment,2,1141,40,Semi-Furnished,Medium,10.0,5,Yes,No,71.94,1
+Bangalore,Independent House,4,1811,0,Unfurnished,Low,7.0,6,Yes,Yes,197.71,0
+Indore,Apartment,4,1694,21,Semi-Furnished,Low,5.0,1,Yes,Yes,57.3,1
+Mumbai,Apartment,2,1105,22,Unfurnished,Low,4.0,8,No,Yes,203.82,1
+Mumbai,Apartment,2,1049,18,Unfurnished,High,6.0,5,Yes,Yes,160.15,1
+Mumbai,Apartment,2,892,17,Semi-Furnished,Medium,5.0,1,Yes,No,155.81,1
+Jaipur,Apartment,2,878,11,Unfurnished,Medium,2.0,1,Yes,No,49.02,0
+Pune,Apartment,3,1391,27,Unfurnished,High,4.0,2,Yes,Yes,133.58,0
+Jaipur,Apartment,3,1242,27,Unfurnished,Medium,8.0,0,Yes,Yes,50.16,1
+Pune,Apartment,2,1001,32,Unfurnished,Medium,6.0,8,Yes,Yes,45.17,1
+Jaipur,Apartment,1,630,18,Unfurnished,Medium,3.0,3,Yes,No,20.24,1
+Jaipur,Independent House,3,1292,27,Fully-Furnished,Medium,6.0,4,No,Yes,43.45,1
+Indore,Apartment,2,1062,36,Unfurnished,Medium,4.0,6,Yes,No,26.44,1
+Bangalore,Independent House,2,1172,25,Unfurnished,Medium,10.0,0,Yes,Yes,89.16,1
+Jaipur,Villa,3,1372,34,Unfurnished,High,1.0,2,No,Yes,59.29,0
+Indore,Apartment,1,400,33,Fully-Furnished,High,5.0,2,Yes,No,14.05,1
+Delhi,Apartment,1,637,34,Semi-Furnished,Low,6.0,1,No,No,72.33,1
+Bangalore,Apartment,5,2169,39,Unfurnished,Low,7.0,7,Yes,Yes,143.04,1
+Jaipur,Villa,2,1047,15,Fully-Furnished,Medium,5.0,4,Yes,No,54.53,0
+Mumbai,Apartment,1,400,37,Unfurnished,Medium,,0,Yes,No,77.64,1
+Delhi,Villa,1,670,12,Unfurnished,Low,6.0,1,No,No,90.75,1
+Delhi,Independent House,5,2244,22,Unfurnished,High,1.0,0,No,No,376.05,0
+Indore,Villa,2,969,21,Unfurnished,Low,5.0,5,Yes,Yes,30.33,1
+Delhi,Apartment,4,1714,15,Unfurnished,High,8.0,8,Yes,No,318.89,0
+Bangalore,Apartment,3,1298,27,Semi-Furnished,High,5.0,6,Yes,No,106.53,1
+Jaipur,Independent House,2,1056,34,Unfurnished,High,3.0,4,Yes,Yes,28.79,1
+Jaipur,Apartment,3,1560,7,Semi-Furnished,Low,6.0,2,No,Yes,54.38,1
+Mumbai,Apartment,1,400,21,Unfurnished,Low,2.0,7,Yes,Yes,58.25,1
+Indore,Villa,1,674,20,Unfurnished,Medium,4.0,3,Yes,No,21.09,1
+Mumbai,Apartment,2,1053,25,Unfurnished,Low,0.0,8,No,No,218.73,0
+Delhi,Independent House,1,713,39,Fully-Furnished,Medium,9.0,4,No,Yes,85.57,1
+Mumbai,Villa,2,1018,20,,Medium,2.0,5,Yes,Yes,157.03,1
+Bangalore,Apartment,3,1591,24,Semi-Furnished,Low,7.0,4,Yes,Yes,100.87,1
+Jaipur,Independent House,3,1303,40,Unfurnished,Low,8.0,6,No,Yes,41.97,1
+Delhi,Apartment,4,1782,0,Unfurnished,High,8.0,6,Yes,Yes,354.71,0
+Mumbai,Apartment,3,1328,5,Unfurnished,Low,9.0,0,Yes,Yes,278.15,0
+Indore,Apartment,3,1647,22,Unfurnished,Low,1.0,1,Yes,No,62.02,0
+Bangalore,Apartment,3,1224,22,Unfurnished,Medium,3.0,6,No,Yes,107.01,0
+Bangalore,Apartment,2,1014,22,Unfurnished,High,4.0,7,Yes,No,69.63,1
+Mumbai,Apartment,4,1842,31,Semi-Furnished,Medium,2.0,3,Yes,Yes,377.6,0
+Jaipur,Apartment,2,966,29,Unfurnished,Low,10.0,5,Yes,No,28.28,1
+Mumbai,Apartment,3,1388,12,Semi-Furnished,Medium,0.0,2,No,Yes,278.94,1
+Delhi,Villa,3,1558,17,Unfurnished,High,5.0,6,No,Yes,202.08,1
+Mumbai,Independent House,3,1587,22,Semi-Furnished,High,9.0,2,No,Yes,338.32,0
+Bangalore,Apartment,2,784,14,Semi-Furnished,Medium,1.0,6,Yes,Yes,68.96,0
+Mumbai,Apartment,3,1671,32,Unfurnished,Medium,8.0,7,No,Yes,280.08,1
+Jaipur,Apartment,2,858,20,Unfurnished,Medium,0.0,2,No,Yes,32.57,1
+Indore,Apartment,3,1574,38,Semi-Furnished,Low,10.0,1,No,No,50.43,1
+Pune,Villa,3,1464,22,Fully-Furnished,Medium,8.0,5,No,Yes,115.97,0
+Mumbai,Villa,3,1577,26,Unfurnished,High,6.0,3,Yes,No,308.06,1
+Jaipur,Apartment,2,768,17,Unfurnished,High,10.0,7,Yes,Yes,43.53,0
+Jaipur,Apartment,3,1485,23,Fully-Furnished,Medium,9.0,1,No,No,74.58,0
+Indore,Apartment,4,1684,39,Unfurnished,Low,1.0,3,No,Yes,45.35,1
+Bangalore,Apartment,3,1327,6,Semi-Furnished,Medium,5.0,1,Yes,Yes,129.65,0
+Jaipur,Apartment,2,923,19,Unfurnished,High,7.0,1,Yes,Yes,39.91,0
+Jaipur,Independent House,3,1618,26,Unfurnished,High,1.0,1,Yes,No,67.16,0
+Jaipur,Villa,3,1296,5,Semi-Furnished,Low,4.0,0,Yes,Yes,56.25,0
+Jaipur,Apartment,1,580,26,Semi-Furnished,Medium,10.0,3,Yes,Yes,23.43,1
+Delhi,Apartment,2,892,8,Unfurnished,Medium,5.0,1,No,Yes,122.57,1
+Delhi,Independent House,2,1039,30,Semi-Furnished,Medium,2.0,8,Yes,Yes,121.82,1
+Bangalore,Apartment,4,1852,20,Semi-Furnished,High,1.0,8,Yes,Yes,165.36,0
+Mumbai,Apartment,4,1782,25,Semi-Furnished,Medium,10.0,6,Yes,Yes,258.78,1
+Jaipur,Apartment,4,1781,39,Unfurnished,High,5.0,5,Yes,No,73.22,0
+Indore,Independent House,3,1343,12,Semi-Furnished,Medium,,2,Yes,Yes,56.13,0
+Mumbai,Apartment,3,1615,22,Semi-Furnished,High,1.0,6,Yes,No,455.25,0
+Indore,Villa,2,794,19,Semi-Furnished,Medium,0.0,0,Yes,Yes,24.25,1
+Mumbai,Independent House,3,1253,36,Semi-Furnished,High,7.0,8,Yes,Yes,230.24,1
+Bangalore,Independent House,3,1431,27,Unfurnished,Medium,0.0,3,Yes,No,133.86,0
+Jaipur,Independent House,2,820,16,Semi-Furnished,Medium,4.0,5,Yes,Yes,36.91,0
+Jaipur,Apartment,3,1334,27,Semi-Furnished,Low,10.0,5,Yes,Yes,62.46,0
+Pune,Apartment,4,1925,40,Unfurnished,Medium,5.0,2,Yes,No,151.89,0
+Indore,Villa,3,1474,1,Unfurnished,Medium,10.0,3,No,Yes,37.25,1
+Mumbai,Villa,3,1617,24,Unfurnished,Medium,2.0,2,Yes,Yes,316.27,1
+Mumbai,Apartment,1,400,40,Semi-Furnished,High,6.0,5,No,Yes,78.83,1
+Delhi,Apartment,4,1873,5,Unfurnished,Low,1.0,0,Yes,Yes,258.01,0
+Pune,Villa,2,1176,10,Semi-Furnished,High,6.0,7,No,Yes,99.61,0
+Delhi,Villa,2,943,37,Fully-Furnished,High,1.0,7,Yes,Yes,164.3,0
+Delhi,Apartment,2,1180,5,Semi-Furnished,Low,4.0,8,Yes,Yes,170.57,0
+Delhi,Apartment,1,656,10,Fully-Furnished,Medium,6.0,5,Yes,No,62.16,1
+Indore,Apartment,3,1669,13,Fully-Furnished,Medium,10.0,0,Yes,Yes,64.36,0
+Indore,Apartment,2,1116,1,Unfurnished,Low,10.0,2,Yes,Yes,55.25,0
+Bangalore,Apartment,2,955,39,Semi-Furnished,Medium,2.0,0,Yes,Yes,60.74,1
+Bangalore,Apartment,2,1183,2,Unfurnished,High,10.0,4,No,No,141.82,0
+Delhi,Apartment,4,1697,34,Fully-Furnished,Low,3.0,2,Yes,No,249.3,0
+Pune,Apartment,3,1303,32,Unfurnished,Medium,0.0,1,Yes,No,86.06,1
+Mumbai,Villa,1,686,23,Fully-Furnished,Medium,2.0,2,Yes,No,149.84,0
+Indore,Independent House,3,1436,18,Semi-Furnished,High,8.0,8,No,Yes,57.5,0
+Pune,Apartment,2,878,17,Semi-Furnished,Low,9.0,7,Yes,Yes,61.56,1
+Jaipur,Apartment,1,400,23,Unfurnished,Medium,4.0,2,Yes,Yes,13.96,1
+Indore,Independent House,4,1848,34,Unfurnished,Medium,7.0,1,Yes,Yes,71.38,0
+Indore,Apartment,3,1433,0,Semi-Furnished,Medium,1.0,4,Yes,Yes,58.62,0
+Bangalore,Independent House,3,1219,35,Unfurnished,High,2.0,0,No,Yes,87.36,1
+Mumbai,Independent House,2,1112,24,Fully-Furnished,High,6.0,3,No,Yes,274.17,0
+Mumbai,Apartment,4,1809,33,Unfurnished,Low,9.0,7,Yes,No,322.62,1
+Jaipur,Independent House,5,2485,24,Semi-Furnished,Medium,3.0,0,Yes,Yes,78.01,1
+Jaipur,Apartment,3,1430,15,,Medium,8.0,4,Yes,Yes,52.9,1
+Indore,Apartment,2,838,33,Semi-Furnished,Medium,6.0,3,Yes,Yes,21.03,1
+Delhi,Apartment,2,1188,28,Semi-Furnished,Medium,10.0,5,Yes,Yes,215.22,0
+Bangalore,Apartment,3,1422,18,Unfurnished,Medium,0.0,6,Yes,Yes,113.94,1
+Bangalore,Independent House,1,400,22,Unfurnished,Medium,3.0,8,Yes,Yes,29.64,1
+Indore,Apartment,3,1384,18,Unfurnished,High,9.0,0,No,Yes,49.33,1
+Pune,Apartment,3,1425,24,Semi-Furnished,Low,10.0,3,Yes,Yes,91.72,1
+Delhi,Apartment,4,1781,15,Semi-Furnished,High,5.0,5,No,Yes,268.11,0
+Indore,Villa,4,1739,8,Semi-Furnished,Medium,5.0,6,No,No,82.41,0
+Delhi,Apartment,3,1294,0,Semi-Furnished,Medium,9.0,6,No,Yes,206.78,0
+Delhi,Apartment,4,1856,18,Unfurnished,High,5.0,7,Yes,Yes,212.38,1
+Delhi,Independent House,4,2064,32,Unfurnished,Medium,4.0,7,No,No,207.08,1
+Indore,Apartment,3,1261,33,Unfurnished,Medium,2.0,7,No,No,41.51,1
+Bangalore,Independent House,3,1417,15,Unfurnished,Medium,1.0,7,Yes,Yes,107.2,1
+Bangalore,Apartment,1,543,39,Fully-Furnished,Medium,2.0,7,Yes,No,42.99,1
+Delhi,Villa,1,670,17,Fully-Furnished,High,8.0,5,Yes,No,152.49,0
+Pune,Villa,2,915,33,Unfurnished,High,2.0,8,No,No,57.2,1
+Mumbai,Apartment,2,1073,24,Semi-Furnished,Low,2.0,2,No,No,157.84,1
+Indore,Apartment,2,812,5,Fully-Furnished,Low,,5,No,No,29.8,1
+Mumbai,Independent House,3,1236,20,Unfurnished,Medium,1.0,4,No,Yes,174.71,1
+Pune,Apartment,2,1085,5,Unfurnished,Low,10.0,7,Yes,Yes,101.38,0
+Indore,Independent House,3,1678,31,Unfurnished,Medium,2.0,3,Yes,Yes,45.13,1
+Delhi,Apartment,2,1060,40,Semi-Furnished,Low,1.0,3,Yes,Yes,102.93,1
+Bangalore,Apartment,1,400,38,Fully-Furnished,Medium,7.0,4,Yes,Yes,26.28,1
+Mumbai,Apartment,3,1300,30,Semi-Furnished,Low,5.0,5,Yes,No,174.57,1
+Jaipur,Independent House,3,1244,9,Unfurnished,Medium,6.0,3,No,No,52.52,0
+Jaipur,Apartment,2,905,29,Unfurnished,Medium,0.0,1,No,Yes,29.85,1
+Pune,Independent House,3,1288,17,Semi-Furnished,Medium,5.0,1,Yes,Yes,75.28,1
+Delhi,Independent House,2,820,23,Fully-Furnished,High,,2,Yes,Yes,121.09,0
+Mumbai,Apartment,3,1382,8,Semi-Furnished,High,5.0,1,Yes,Yes,346.24,0
+Delhi,Apartment,5,2303,30,Semi-Furnished,Medium,2.0,0,Yes,Yes,277.71,1
+Mumbai,Villa,1,528,14,,Low,6.0,7,Yes,Yes,110.17,0
+Pune,Apartment,2,1044,3,Fully-Furnished,High,2.0,4,Yes,Yes,132.26,0
+Pune,Villa,2,979,39,Semi-Furnished,High,8.0,0,No,Yes,81.12,0
+Jaipur,Apartment,2,1077,8,Unfurnished,High,,8,No,Yes,51.44,0
+Delhi,Apartment,3,1658,8,Semi-Furnished,Low,6.0,7,No,Yes,264.94,0
+Indore,Villa,3,1467,25,Unfurnished,High,3.0,3,Yes,Yes,71.86,0
+Jaipur,Apartment,3,1590,3,Unfurnished,Medium,7.0,7,Yes,Yes,55.07,1
+Delhi,Apartment,3,1262,16,Unfurnished,High,1.0,6,Yes,No,202.36,0
+Jaipur,Apartment,2,721,15,Unfurnished,High,7.0,6,No,Yes,27.12,1
+Indore,Apartment,2,804,14,Unfurnished,Low,8.0,0,No,Yes,29.0,1
+Bangalore,Apartment,3,1549,34,Unfurnished,High,,5,Yes,Yes,101.42,1
+Bangalore,Independent House,3,1318,4,Semi-Furnished,Medium,5.0,3,No,Yes,142.86,0
+Bangalore,Apartment,4,1754,4,Semi-Furnished,High,9.0,1,Yes,No,192.17,0
+Bangalore,Apartment,3,1367,19,Unfurnished,Medium,0.0,6,Yes,Yes,140.94,0
+Mumbai,Villa,2,777,14,Unfurnished,High,6.0,8,No,No,162.23,0
+Bangalore,Apartment,2,1041,17,Semi-Furnished,Low,0.0,4,No,Yes,84.56,1
+Indore,Apartment,3,1476,1,Unfurnished,High,6.0,7,Yes,Yes,60.59,0
+Pune,Independent House,3,1534,28,Unfurnished,Medium,1.0,4,Yes,No,148.53,0
+Pune,Villa,3,1592,12,Fully-Furnished,Medium,7.0,6,Yes,No,154.01,0
+Mumbai,Apartment,2,831,3,Semi-Furnished,Low,1.0,6,Yes,No,215.2,0
+Bangalore,Apartment,2,770,9,,High,2.0,8,No,Yes,92.8,0
+Bangalore,Apartment,2,1174,30,Semi-Furnished,Low,2.0,2,Yes,Yes,103.29,0
+Bangalore,Apartment,4,1826,40,Unfurnished,Medium,0.0,0,Yes,No,102.67,1
+Jaipur,Apartment,2,972,7,Semi-Furnished,Medium,4.0,1,Yes,Yes,40.3,0
+Delhi,Apartment,3,1432,2,Unfurnished,High,4.0,5,No,No,207.84,0
+Jaipur,Apartment,3,1432,8,Unfurnished,Low,9.0,8,No,No,58.8,0
+Delhi,Apartment,3,1554,29,Unfurnished,Low,4.0,2,No,No,180.07,1
+Bangalore,Apartment,4,1916,10,Fully-Furnished,Low,8.0,1,Yes,No,138.15,1
+Bangalore,Independent House,4,1875,34,Unfurnished,Medium,,0,No,Yes,142.7,1
+Jaipur,Apartment,2,1012,36,Fully-Furnished,Low,5.0,1,Yes,Yes,26.52,1
+Jaipur,Apartment,1,411,12,Fully-Furnished,Medium,2.0,2,Yes,Yes,21.46,0
+Delhi,Apartment,2,979,35,Semi-Furnished,High,4.0,6,No,Yes,133.61,1
+Pune,Apartment,3,1280,12,Semi-Furnished,High,9.0,1,Yes,Yes,135.88,0
+Delhi,Villa,2,1105,11,Semi-Furnished,Medium,6.0,4,Yes,Yes,167.74,0
+Jaipur,Apartment,4,2037,36,Fully-Furnished,Low,2.0,1,Yes,No,71.16,1
+Indore,Apartment,3,1258,9,Unfurnished,Medium,1.0,6,Yes,No,36.35,1
+Jaipur,Apartment,3,1511,8,Semi-Furnished,Low,4.0,7,Yes,Yes,60.75,1
+Indore,Villa,3,1337,6,Semi-Furnished,High,2.0,7,No,Yes,51.56,0
+Mumbai,Apartment,2,1111,1,Fully-Furnished,Medium,4.0,7,Yes,No,287.27,0
+Jaipur,Apartment,1,480,22,Semi-Furnished,Medium,8.0,8,Yes,No,18.44,1
+Mumbai,Apartment,3,1219,38,Semi-Furnished,Medium,10.0,0,No,No,237.11,1
+Pune,Apartment,5,2552,39,Semi-Furnished,High,9.0,0,No,Yes,226.69,0
+Delhi,Apartment,2,752,38,Fully-Furnished,Low,0.0,1,Yes,No,73.0,1
+Indore,Apartment,1,524,20,Semi-Furnished,Medium,3.0,5,Yes,Yes,19.36,1
+Delhi,Villa,4,2025,22,Unfurnished,Low,9.0,0,Yes,No,248.68,1
+Mumbai,Independent House,3,1547,28,Semi-Furnished,High,4.0,4,Yes,No,336.24,0
+Indore,Apartment,3,1325,13,Fully-Furnished,High,1.0,4,Yes,No,65.2,0
+Delhi,Apartment,4,1795,25,Semi-Furnished,Medium,1.0,3,Yes,Yes,297.54,0
+Jaipur,Apartment,2,917,4,Fully-Furnished,Medium,0.0,4,Yes,No,37.6,1
+Bangalore,Independent House,3,1207,30,Unfurnished,High,7.0,0,Yes,Yes,77.6,1
+Mumbai,Apartment,3,1632,24,Semi-Furnished,Medium,1.0,5,Yes,Yes,331.83,0
+Delhi,Villa,4,2094,30,Semi-Furnished,Medium,2.0,6,Yes,No,288.67,0
+Mumbai,Apartment,2,783,19,Fully-Furnished,Medium,1.0,7,Yes,Yes,189.41,0
+Mumbai,Apartment,4,1762,16,Unfurnished,Medium,3.0,1,Yes,Yes,310.42,1
+Indore,Apartment,3,1403,1,Fully-Furnished,Low,0.0,6,Yes,No,45.31,1
+Indore,Apartment,3,1315,24,Semi-Furnished,High,2.0,5,Yes,No,60.39,0
+Bangalore,Independent House,3,1247,12,Unfurnished,Medium,4.0,8,Yes,No,118.39,0
+Jaipur,Independent House,1,696,38,Unfurnished,Low,9.0,7,No,Yes,21.67,1
+Mumbai,Apartment,3,1635,27,Unfurnished,High,0.0,3,Yes,No,220.74,1
+Delhi,Apartment,2,937,5,Semi-Furnished,Medium,3.0,8,Yes,Yes,128.78,1
+Pune,Independent House,2,818,2,Unfurnished,Low,5.0,0,Yes,No,72.07,0
+Mumbai,Villa,3,1604,34,Unfurnished,Medium,3.0,5,Yes,Yes,299.21,1
+Mumbai,Apartment,3,1566,17,Fully-Furnished,High,6.0,7,No,No,296.86,1
+Bangalore,Apartment,3,1282,10,Unfurnished,High,6.0,3,Yes,Yes,135.12,0
+Jaipur,Apartment,4,1682,19,Unfurnished,High,5.0,1,Yes,No,71.47,0
+Pune,Apartment,4,1820,4,Semi-Furnished,High,8.0,1,Yes,Yes,203.76,0
+Indore,Apartment,4,1773,18,Semi-Furnished,Low,1.0,0,No,Yes,56.5,1
+Indore,Apartment,2,1039,21,Semi-Furnished,Medium,9.0,4,No,Yes,34.61,1
+Delhi,Apartment,3,1656,18,Unfurnished,High,7.0,5,Yes,No,243.43,0
+Pune,Apartment,3,1335,15,Semi-Furnished,Medium,7.0,3,Yes,Yes,101.63,1
+Indore,Apartment,4,1940,23,Semi-Furnished,Medium,10.0,3,No,Yes,61.03,1
+Delhi,Independent House,3,1201,40,Unfurnished,Medium,9.0,4,No,Yes,174.73,0
+Jaipur,Villa,2,1107,3,Unfurnished,Medium,10.0,4,Yes,No,59.34,0
+Delhi,Apartment,2,1004,14,Unfurnished,High,3.0,8,Yes,Yes,127.53,1
+Indore,Independent House,3,1326,24,Unfurnished,Medium,5.0,7,Yes,Yes,46.9,1
+Bangalore,Independent House,3,1437,34,Semi-Furnished,Medium,10.0,8,Yes,Yes,87.88,1
+Bangalore,Apartment,3,1444,13,Semi-Furnished,High,5.0,2,Yes,No,180.03,0
+Bangalore,Apartment,3,1390,18,Unfurnished,Medium,4.0,2,Yes,Yes,131.22,0
+Indore,Villa,3,1518,37,Unfurnished,Low,0.0,0,No,No,51.63,1
+Bangalore,Independent House,2,1161,35,Unfurnished,Medium,2.0,5,Yes,No,83.85,1
+Pune,Independent House,2,901,6,Semi-Furnished,High,6.0,3,No,Yes,98.47,0
+Jaipur,Independent House,2,866,29,Unfurnished,High,7.0,7,Yes,Yes,40.9,0
+Delhi,Apartment,3,1640,18,Semi-Furnished,High,1.0,1,No,No,242.69,0
+Delhi,Apartment,3,1438,24,Unfurnished,High,2.0,1,Yes,No,165.04,1
+Indore,Apartment,1,508,15,Semi-Furnished,Medium,3.0,6,Yes,No,20.68,0
+Bangalore,Apartment,4,1689,39,Fully-Furnished,High,10.0,4,Yes,Yes,145.85,1
+Bangalore,Apartment,4,2002,7,Unfurnished,High,4.0,0,Yes,Yes,251.46,0
+Mumbai,Apartment,2,964,17,Semi-Furnished,Low,2.0,6,No,Yes,191.41,1
+Jaipur,Apartment,3,1384,27,Fully-Furnished,Low,4.0,6,Yes,Yes,56.42,1
+Pune,Villa,2,1061,15,Unfurnished,High,7.0,5,Yes,Yes,99.36,0
+Delhi,Apartment,3,1501,18,Semi-Furnished,High,7.0,3,Yes,Yes,227.86,0
+Mumbai,Apartment,2,784,16,Unfurnished,High,1.0,7,No,Yes,185.93,0
+Mumbai,Apartment,3,1221,12,Semi-Furnished,High,5.0,1,Yes,Yes,259.83,0
+Indore,Apartment,3,1643,6,Unfurnished,Medium,3.0,1,Yes,Yes,52.72,1
+Delhi,Villa,4,1744,26,Fully-Furnished,Medium,8.0,1,Yes,Yes,213.44,1
+Indore,Villa,3,1421,9,Semi-Furnished,Medium,9.0,2,Yes,No,53.6,0
+Pune,Independent House,2,1114,33,Semi-Furnished,Low,1.0,5,No,Yes,77.1,1
+Mumbai,Apartment,1,613,35,Semi-Furnished,High,7.0,0,Yes,Yes,129.86,0
+Mumbai,Apartment,2,947,24,Semi-Furnished,Medium,0.0,1,Yes,Yes,200.05,0
+Jaipur,Apartment,2,1062,5,Unfurnished,Medium,10.0,1,Yes,Yes,46.43,0
+Pune,Apartment,2,971,23,Fully-Furnished,Medium,5.0,0,Yes,Yes,66.89,1
+Mumbai,Independent House,3,1274,17,Fully-Furnished,Medium,10.0,2,Yes,Yes,311.44,0
+Pune,Villa,2,1113,22,Semi-Furnished,Low,10.0,6,Yes,Yes,63.47,1
+Delhi,Independent House,3,1319,5,Fully-Furnished,Medium,9.0,0,Yes,No,177.3,1
+Bangalore,Apartment,4,1731,28,Semi-Furnished,Low,0.0,6,Yes,Yes,137.4,1
+Mumbai,Independent House,2,1087,24,Semi-Furnished,Low,1.0,4,Yes,Yes,228.59,0
+Jaipur,Apartment,1,697,16,Semi-Furnished,High,2.0,8,Yes,No,35.18,0
+Delhi,Independent House,2,969,23,Unfurnished,Low,8.0,1,Yes,Yes,117.24,1
+Pune,Apartment,3,1483,10,Unfurnished,Medium,4.0,0,No,No,126.4,0
+Indore,Apartment,3,1521,25,Unfurnished,Medium,9.0,8,No,Yes,43.45,1
+Delhi,Apartment,3,1412,33,Semi-Furnished,Medium,9.0,7,Yes,Yes,163.33,1
+Mumbai,Independent House,4,1770,27,Unfurnished,Low,1.0,5,Yes,Yes,284.58,1
+Pune,Apartment,2,1175,2,Unfurnished,High,9.0,4,Yes,No,90.99,1
+Bangalore,Apartment,4,2071,10,Fully-Furnished,High,4.0,7,No,Yes,211.65,0
+Delhi,Independent House,3,1577,37,Unfurnished,Low,4.0,7,No,Yes,169.36,1
+Mumbai,Apartment,1,400,13,Semi-Furnished,Medium,0.0,4,Yes,Yes,79.29,1
+Jaipur,Apartment,4,1970,25,Unfurnished,High,2.0,6,Yes,Yes,78.25,1
+Indore,Apartment,2,943,20,Unfurnished,High,4.0,0,Yes,No,21.51,1
+Pune,Apartment,2,836,38,Semi-Furnished,Medium,8.0,3,Yes,Yes,60.93,1
+Delhi,Independent House,3,1460,29,Semi-Furnished,Low,9.0,1,No,No,169.46,1
+Delhi,Villa,1,555,7,Semi-Furnished,Medium,0.0,2,Yes,Yes,78.63,0
+Bangalore,Apartment,2,972,19,Unfurnished,Medium,7.0,0,No,No,64.78,1
+Bangalore,Independent House,4,1873,31,Semi-Furnished,Low,0.0,1,Yes,Yes,178.09,0
+Jaipur,Apartment,3,1472,21,Unfurnished,Medium,8.0,0,Yes,No,71.77,0
+Indore,Apartment,3,1575,6,Unfurnished,Medium,5.0,7,Yes,Yes,45.53,1
+Jaipur,Apartment,2,987,8,Unfurnished,Medium,0.0,3,Yes,No,40.79,0
+Mumbai,Apartment,1,635,0,Unfurnished,High,7.0,2,No,No,171.87,0
+Mumbai,Apartment,3,1533,28,Unfurnished,High,4.0,0,Yes,Yes,286.75,1
+Jaipur,Independent House,3,1622,7,Unfurnished,Medium,6.0,1,Yes,No,63.57,1
+Indore,Villa,3,1604,3,Fully-Furnished,High,6.0,2,Yes,Yes,68.54,0
+Jaipur,Apartment,3,1334,34,Unfurnished,Low,6.0,2,Yes,No,47.52,1
+Indore,Apartment,2,863,2,Unfurnished,High,5.0,5,Yes,Yes,51.28,0
+Indore,Villa,5,2225,39,Unfurnished,Low,10.0,7,No,Yes,72.81,1
+Pune,Independent House,3,1442,6,Semi-Furnished,Low,7.0,5,Yes,No,98.26,1
+Indore,Independent House,2,1180,26,Unfurnished,Medium,8.0,1,Yes,Yes,36.08,1
+Bangalore,Apartment,2,1182,0,,Medium,1.0,1,No,Yes,120.71,0
+Indore,Villa,3,1310,26,Fully-Furnished,High,6.0,6,Yes,No,46.6,1
+Indore,Apartment,3,1678,15,Unfurnished,Medium,1.0,0,Yes,Yes,51.5,1
+Indore,Apartment,3,1326,37,Semi-Furnished,Medium,5.0,0,Yes,Yes,48.2,1
+Mumbai,Apartment,3,1593,6,Unfurnished,Medium,1.0,6,Yes,Yes,312.36,1
+Bangalore,Apartment,3,1311,22,Semi-Furnished,Medium,9.0,8,No,No,119.84,0
+Bangalore,Apartment,3,1205,40,Unfurnished,Medium,5.0,4,Yes,No,110.26,0
+Jaipur,Apartment,3,1507,10,Unfurnished,Medium,1.0,0,Yes,No,58.73,1
+Pune,Apartment,3,1491,32,Unfurnished,High,0.0,4,Yes,No,115.15,1
+Indore,Villa,2,1182,35,Semi-Furnished,High,6.0,0,Yes,Yes,35.85,1
+Delhi,Apartment,2,950,36,Unfurnished,High,2.0,8,Yes,Yes,128.18,1
+Pune,Apartment,3,1387,40,Unfurnished,Medium,3.0,3,Yes,Yes,107.07,1
+Pune,Apartment,3,1281,16,Semi-Furnished,High,5.0,8,No,Yes,132.53,0
+Bangalore,Independent House,2,1028,34,Semi-Furnished,Medium,4.0,1,Yes,Yes,82.14,1
+Pune,Apartment,2,913,4,Fully-Furnished,Medium,3.0,6,Yes,No,78.23,0
+Indore,Apartment,3,1414,31,Unfurnished,Medium,8.0,1,Yes,No,47.68,1
+Indore,Apartment,3,1470,2,Semi-Furnished,High,5.0,3,Yes,Yes,66.38,0
+Mumbai,Independent House,2,1106,34,Semi-Furnished,High,5.0,5,Yes,No,234.83,0
+Indore,Independent House,2,1018,13,Unfurnished,High,1.0,1,Yes,No,36.69,1
+Indore,Apartment,2,918,30,Semi-Furnished,High,5.0,1,Yes,No,32.1,1
+Bangalore,Apartment,3,1403,30,Unfurnished,High,6.0,1,Yes,Yes,114.17,1
+Indore,Independent House,2,928,16,Fully-Furnished,High,7.0,2,Yes,Yes,44.65,0
+Mumbai,Apartment,4,2146,23,Unfurnished,Medium,7.0,4,Yes,Yes,455.75,0
+Delhi,Apartment,2,1086,22,Semi-Furnished,Medium,8.0,8,Yes,Yes,138.86,1
+Bangalore,Apartment,1,400,17,Unfurnished,Medium,9.0,5,No,Yes,28.23,1
+Delhi,Apartment,3,1238,13,Fully-Furnished,Low,10.0,8,Yes,No,192.08,0
+Bangalore,Apartment,3,1221,14,Unfurnished,Medium,2.0,4,No,Yes,117.92,0
+Jaipur,Apartment,4,1695,14,Fully-Furnished,Medium,9.0,5,Yes,Yes,76.68,0
+Pune,Villa,3,1365,5,Fully-Furnished,Medium,6.0,7,No,Yes,112.56,0
+Jaipur,Independent House,2,916,26,Unfurnished,High,6.0,2,Yes,Yes,34.88,1
+Indore,Apartment,2,1135,14,Fully-Furnished,High,0.0,1,Yes,Yes,62.67,0
+Delhi,Independent House,3,1381,35,Fully-Furnished,Low,7.0,2,No,Yes,179.91,1
+Indore,Apartment,1,400,7,Unfurnished,Medium,3.0,8,Yes,No,17.66,0
+Pune,Apartment,4,1785,14,Unfurnished,Medium,4.0,5,Yes,Yes,122.24,1
+Bangalore,Apartment,2,918,2,Semi-Furnished,Medium,5.0,3,No,No,106.9,0
+Pune,Independent House,4,1817,12,Unfurnished,High,2.0,2,Yes,Yes,175.56,0
+Mumbai,Villa,3,1407,40,Unfurnished,Medium,4.0,1,Yes,Yes,231.64,1
+Pune,Villa,3,1502,33,Unfurnished,Medium,9.0,3,Yes,Yes,111.74,1
+Mumbai,Independent House,4,1710,23,Unfurnished,High,,8,Yes,No,418.2,0
+Pune,Apartment,3,1479,39,Unfurnished,High,0.0,3,Yes,No,86.72,1
+Mumbai,Independent House,3,1519,31,Unfurnished,Low,2.0,4,No,Yes,238.04,1
+Delhi,Villa,2,1184,31,Fully-Furnished,High,2.0,7,Yes,Yes,188.61,0
+Indore,Independent House,3,1399,29,Semi-Furnished,Medium,0.0,1,No,Yes,48.68,1
+Indore,Apartment,2,1015,12,Unfurnished,Medium,6.0,2,Yes,No,40.0,0
+Jaipur,Apartment,2,1113,0,Semi-Furnished,Low,0.0,5,No,Yes,55.12,0
+Indore,Apartment,4,2036,33,Semi-Furnished,Medium,6.0,6,Yes,Yes,73.71,1
+Bangalore,Apartment,2,927,14,Fully-Furnished,Medium,3.0,3,No,Yes,86.92,0
+Pune,Apartment,3,1312,13,Unfurnished,Medium,8.0,0,Yes,Yes,99.98,1
+Jaipur,Apartment,3,1295,28,Unfurnished,Medium,6.0,6,No,No,59.8,0
+Bangalore,Apartment,2,1126,33,Fully-Furnished,High,4.0,8,Yes,Yes,105.11,0
+Bangalore,Apartment,3,1456,17,Fully-Furnished,Low,6.0,0,Yes,Yes,159.03,0
+Mumbai,Apartment,3,1486,6,Semi-Furnished,Low,8.0,0,Yes,Yes,381.55,0
+Indore,Apartment,2,880,28,Semi-Furnished,High,9.0,0,Yes,Yes,29.32,1
+Delhi,Independent House,3,1291,30,Unfurnished,Low,5.0,6,Yes,Yes,167.5,1
+Delhi,Apartment,2,817,24,Semi-Furnished,High,0.0,8,Yes,No,99.68,1
+Jaipur,Apartment,3,1565,37,Unfurnished,Medium,5.0,2,Yes,Yes,68.08,0
+Delhi,Villa,3,1321,13,Unfurnished,Medium,0.0,7,Yes,Yes,187.86,0
+Pune,Apartment,3,1283,7,Fully-Furnished,Low,3.0,8,Yes,Yes,113.5,0
+Delhi,Apartment,3,1514,26,Unfurnished,Low,7.0,2,Yes,No,158.46,1
+Jaipur,Apartment,2,1140,1,Semi-Furnished,Low,4.0,2,No,Yes,46.24,1
+Delhi,Apartment,3,1616,16,Fully-Furnished,Low,4.0,0,No,No,241.06,0
+Pune,Independent House,2,871,36,Unfurnished,Medium,9.0,1,Yes,Yes,58.84,1
+Mumbai,Apartment,4,1815,13,Fully-Furnished,Low,,6,Yes,No,369.09,0
+Jaipur,Apartment,2,1030,24,Fully-Furnished,Medium,7.0,2,Yes,No,50.29,0
+Mumbai,Apartment,1,572,29,Semi-Furnished,Medium,7.0,6,No,Yes,109.1,1
+Mumbai,Apartment,2,1119,28,Unfurnished,Medium,,4,Yes,Yes,173.77,1
+Mumbai,Villa,2,1073,19,Unfurnished,Low,4.0,7,Yes,No,220.16,0
+Bangalore,Apartment,2,1116,20,Unfurnished,Low,4.0,4,Yes,No,73.22,1
+Indore,Apartment,3,1343,21,Unfurnished,Low,7.0,2,No,No,31.73,1
+Bangalore,Apartment,4,1689,34,Unfurnished,High,0.0,8,Yes,No,139.93,1
+Indore,Apartment,2,1173,36,Fully-Furnished,Medium,6.0,6,Yes,Yes,34.83,1
+Mumbai,Apartment,2,973,15,Unfurnished,High,6.0,4,Yes,Yes,216.0,0
+Jaipur,Independent House,2,799,16,Semi-Furnished,Medium,8.0,6,Yes,No,38.31,0
+Indore,Villa,2,1063,15,Unfurnished,Medium,1.0,8,Yes,No,44.41,0
+Pune,Independent House,1,495,1,Semi-Furnished,Medium,2.0,4,Yes,Yes,47.19,0
+Pune,Independent House,2,960,3,Fully-Furnished,High,3.0,6,No,Yes,77.65,0
+Delhi,Villa,4,1748,20,Unfurnished,Medium,0.0,8,Yes,Yes,205.81,1
+Indore,Apartment,2,921,38,Unfurnished,Low,6.0,0,No,Yes,27.04,1
+Jaipur,Villa,3,1501,33,Semi-Furnished,Medium,9.0,3,Yes,Yes,57.01,1
+Bangalore,Independent House,2,759,29,Semi-Furnished,Medium,2.0,0,Yes,Yes,53.7,1
+Mumbai,Villa,4,1958,5,Semi-Furnished,Medium,2.0,7,No,Yes,408.3,0
+Delhi,Apartment,4,1985,16,Unfurnished,Medium,2.0,2,Yes,No,301.88,0
+Pune,Apartment,3,1486,38,Unfurnished,Medium,7.0,1,Yes,No,104.88,1
+Bangalore,Independent House,4,2047,24,Fully-Furnished,Medium,8.0,3,No,No,177.81,0
+Bangalore,Villa,3,1392,4,Fully-Furnished,Medium,9.0,2,Yes,No,166.88,0
+Mumbai,Independent House,3,1557,4,Semi-Furnished,High,1.0,4,Yes,Yes,303.68,1
+Indore,Apartment,4,1755,19,Fully-Furnished,High,9.0,7,No,No,84.51,0
+Pune,Apartment,3,1322,15,Semi-Furnished,Medium,9.0,7,Yes,Yes,118.4,0
+Jaipur,Apartment,1,629,40,Unfurnished,Medium,0.0,6,Yes,No,23.92,1
+Bangalore,Villa,3,1566,36,Unfurnished,High,8.0,7,No,Yes,131.57,1
+Mumbai,Apartment,2,1061,39,Unfurnished,Medium,5.0,4,Yes,No,161.28,1
+Jaipur,Apartment,2,1091,8,Semi-Furnished,Medium,8.0,5,Yes,Yes,53.43,0
+Indore,Independent House,3,1369,4,Unfurnished,High,5.0,7,No,Yes,54.12,0
+Pune,Apartment,3,1477,1,Unfurnished,Medium,1.0,0,Yes,Yes,128.63,0
+Indore,Independent House,3,1310,8,Semi-Furnished,Low,0.0,5,No,Yes,44.33,1
+Bangalore,Apartment,3,1504,35,Semi-Furnished,High,7.0,5,No,Yes,121.38,1
+Jaipur,Independent House,2,967,21,Semi-Furnished,Low,2.0,4,Yes,Yes,37.12,1
+Jaipur,Apartment,3,1233,21,Fully-Furnished,High,0.0,3,Yes,No,62.18,0
+Jaipur,Independent House,3,1590,21,Unfurnished,High,7.0,0,Yes,Yes,73.28,0
+Bangalore,Independent House,4,1959,33,Semi-Furnished,High,0.0,7,Yes,Yes,212.31,0
+Bangalore,Apartment,4,2101,28,Semi-Furnished,Low,7.0,5,No,Yes,169.33,1
+Indore,Apartment,3,1423,37,Semi-Furnished,Medium,0.0,2,Yes,Yes,39.89,1
+Delhi,Apartment,3,1586,32,Unfurnished,Medium,8.0,2,Yes,No,215.29,1
+Indore,Villa,4,2043,17,Unfurnished,Medium,8.0,5,Yes,Yes,77.1,0
+Pune,Independent House,2,982,6,Fully-Furnished,Low,8.0,6,No,No,83.17,0
+Mumbai,Apartment,3,1502,0,Semi-Furnished,Medium,2.0,7,Yes,Yes,326.12,0
+Jaipur,Apartment,3,1557,32,Fully-Furnished,Medium,3.0,4,No,No,57.53,1
+Delhi,Apartment,4,1829,0,Semi-Furnished,Low,4.0,5,Yes,No,246.92,1
+Mumbai,Independent House,2,795,23,Semi-Furnished,Medium,5.0,0,No,No,129.32,1
+Delhi,Independent House,2,874,3,Fully-Furnished,High,8.0,5,Yes,Yes,178.28,0
+Indore,Apartment,3,1259,3,,High,10.0,8,Yes,Yes,59.74,0
+Bangalore,Apartment,3,1401,17,Unfurnished,High,3.0,3,No,Yes,130.88,0
+Jaipur,Apartment,4,1699,26,Semi-Furnished,Medium,5.0,0,Yes,No,61.45,1
+Indore,Apartment,3,1457,31,Fully-Furnished,High,0.0,8,Yes,Yes,66.76,0
+Mumbai,Apartment,2,1189,32,Unfurnished,High,1.0,3,No,No,179.62,1
+Mumbai,Apartment,3,1417,27,Unfurnished,Medium,7.0,1,Yes,Yes,256.11,1
+Mumbai,Apartment,3,1370,40,Unfurnished,Low,3.0,0,Yes,Yes,249.67,1
+Mumbai,Apartment,4,1948,35,Fully-Furnished,Medium,9.0,2,Yes,Yes,265.85,1
+Mumbai,Apartment,3,1316,5,Unfurnished,Medium,6.0,6,No,Yes,288.25,0
+Delhi,Apartment,2,1097,15,Semi-Furnished,Medium,3.0,1,Yes,No,141.66,1
+Indore,Apartment,3,1430,33,Unfurnished,Medium,8.0,8,Yes,Yes,46.71,1
+Jaipur,Villa,3,1329,22,Unfurnished,High,8.0,1,Yes,Yes,52.91,1
+Bangalore,Villa,1,622,23,Semi-Furnished,Medium,3.0,4,Yes,Yes,58.25,0
+Bangalore,Apartment,3,1244,12,Unfurnished,Low,7.0,7,No,Yes,123.45,0
+Indore,Apartment,3,1210,17,Semi-Furnished,High,5.0,7,Yes,Yes,67.87,0
+Indore,Villa,2,1032,12,Semi-Furnished,Medium,,2,Yes,Yes,39.54,0
+Bangalore,Independent House,3,1664,36,Fully-Furnished,High,6.0,1,Yes,No,166.51,0
+Bangalore,Apartment,2,936,38,Unfurnished,Low,0.0,8,Yes,Yes,68.56,1
+Delhi,Apartment,3,1432,16,Fully-Furnished,High,2.0,2,No,Yes,249.54,0
+Pune,Apartment,2,1191,14,Semi-Furnished,Low,7.0,7,Yes,Yes,112.98,0
+Jaipur,Apartment,3,1293,17,Fully-Furnished,Low,8.0,1,Yes,No,49.89,1
+Mumbai,Apartment,3,1415,22,Semi-Furnished,Low,2.0,2,Yes,No,255.05,1
+Pune,Apartment,2,727,29,Semi-Furnished,High,,0,No,No,56.36,1
+Indore,Villa,3,1327,33,Fully-Furnished,High,0.0,5,Yes,No,43.89,1
+Bangalore,Apartment,5,2166,3,Fully-Furnished,Medium,6.0,6,Yes,No,226.26,0
+Pune,Apartment,1,627,2,Unfurnished,High,4.0,3,No,Yes,62.48,0
+Jaipur,Apartment,3,1227,6,Unfurnished,Medium,0.0,0,No,Yes,59.84,0
+Indore,Apartment,4,1699,17,,Medium,5.0,2,No,Yes,59.35,1
+Mumbai,Apartment,3,1371,6,Unfurnished,High,5.0,8,Yes,Yes,367.82,0
+Mumbai,Apartment,3,1525,39,Unfurnished,Medium,3.0,4,No,No,177.05,1
+Jaipur,Independent House,1,400,5,Unfurnished,Medium,6.0,5,Yes,No,23.55,0
+Jaipur,Apartment,3,1489,21,Fully-Furnished,High,6.0,3,Yes,Yes,76.86,0
+Bangalore,Villa,2,945,0,,High,8.0,0,Yes,Yes,90.7,0
+Mumbai,Independent House,3,1374,3,Semi-Furnished,High,,4,Yes,No,359.95,0
+Indore,Apartment,3,1238,28,Unfurnished,High,4.0,4,No,Yes,43.48,1
+Pune,Apartment,5,2161,20,Unfurnished,Low,9.0,4,Yes,Yes,105.44,1
+Indore,Apartment,3,1469,25,Unfurnished,High,2.0,5,No,No,54.32,1
+Delhi,Independent House,3,1205,13,Unfurnished,Medium,6.0,1,No,Yes,189.44,0
+Delhi,Independent House,1,646,8,Semi-Furnished,High,3.0,0,Yes,No,119.73,0
+Jaipur,Villa,3,1298,11,Fully-Furnished,Medium,3.0,1,No,No,63.41,0
+Bangalore,Apartment,3,1579,5,Unfurnished,Medium,0.0,5,Yes,Yes,166.41,0
+Delhi,Villa,3,1218,19,Semi-Furnished,Medium,0.0,4,Yes,Yes,181.07,0
+Mumbai,Apartment,2,1048,23,Semi-Furnished,Medium,9.0,4,No,No,215.65,0
+Indore,Apartment,2,1021,26,Fully-Furnished,Low,1.0,5,Yes,Yes,32.88,1
+Indore,Apartment,3,1464,37,Semi-Furnished,High,1.0,6,Yes,Yes,48.97,1
+Jaipur,Apartment,3,1554,7,Semi-Furnished,High,0.0,8,Yes,No,73.05,0
+Pune,Villa,4,1794,0,Semi-Furnished,Low,7.0,6,No,Yes,158.62,0
+Jaipur,Apartment,2,852,23,Fully-Furnished,High,5.0,1,Yes,Yes,44.79,0
+Pune,Apartment,3,1460,6,Unfurnished,Medium,5.0,5,Yes,Yes,108.61,1
+Jaipur,Apartment,3,1201,18,Unfurnished,Medium,9.0,8,Yes,Yes,38.14,1
+Jaipur,Independent House,3,1213,21,Fully-Furnished,Medium,9.0,6,No,Yes,64.97,0
+Jaipur,Villa,3,1411,34,Semi-Furnished,High,8.0,1,Yes,Yes,48.99,1
+Pune,Apartment,3,1413,29,Semi-Furnished,High,4.0,2,Yes,Yes,120.77,0
+Pune,Apartment,3,1462,28,Semi-Furnished,Medium,3.0,7,Yes,Yes,112.69,1
+Jaipur,Apartment,2,827,21,Unfurnished,Medium,10.0,8,Yes,No,30.85,1
+Delhi,Independent House,2,950,10,Semi-Furnished,Low,5.0,3,Yes,No,145.79,0
+Bangalore,Apartment,4,1844,19,Semi-Furnished,Medium,7.0,8,Yes,Yes,133.45,1
+Bangalore,Apartment,2,1162,28,Unfurnished,Low,0.0,1,Yes,Yes,108.59,0
+Bangalore,Apartment,3,1372,40,Semi-Furnished,Low,6.0,4,Yes,Yes,137.86,0
+Pune,Apartment,3,1672,33,Fully-Furnished,Medium,7.0,1,Yes,Yes,151.23,0
+Pune,Independent House,3,1435,0,Unfurnished,High,8.0,0,Yes,No,115.73,0
+Delhi,Apartment,3,1469,30,Semi-Furnished,Medium,10.0,4,Yes,Yes,123.54,1
+Bangalore,Apartment,3,1608,29,Unfurnished,Low,7.0,1,Yes,Yes,128.45,1
+Bangalore,Apartment,1,403,17,Semi-Furnished,Medium,6.0,6,Yes,Yes,29.1,1
+Jaipur,Apartment,2,1054,16,Unfurnished,High,2.0,7,Yes,No,43.44,0
+Pune,Independent House,3,1437,37,Semi-Furnished,High,1.0,1,Yes,No,132.38,0
+Bangalore,Apartment,4,1805,13,Fully-Furnished,High,2.0,6,Yes,Yes,237.81,0
+Indore,Independent House,3,1276,22,Unfurnished,Medium,3.0,3,Yes,Yes,55.81,0
+Delhi,Villa,2,912,24,Fully-Furnished,High,3.0,0,Yes,Yes,143.74,0
+Indore,Apartment,2,923,14,Fully-Furnished,Low,5.0,2,No,Yes,40.82,0
+Indore,Apartment,3,1604,21,Unfurnished,Medium,6.0,0,Yes,Yes,39.33,1
+Delhi,Apartment,2,1163,2,Unfurnished,Medium,3.0,4,No,No,133.6,1
+Indore,Villa,3,1247,18,Fully-Furnished,Medium,9.0,7,Yes,Yes,47.68,0
+Bangalore,Apartment,3,1496,33,Fully-Furnished,High,5.0,0,Yes,No,155.27,0
+Pune,Apartment,1,400,34,Unfurnished,High,8.0,8,No,No,27.36,1
+Delhi,Apartment,4,2050,0,Unfurnished,Low,5.0,2,Yes,Yes,327.3,0
+Jaipur,Villa,2,958,20,Unfurnished,Low,2.0,4,Yes,No,29.8,1
+Indore,Apartment,3,1347,28,Fully-Furnished,Medium,0.0,8,No,No,50.98,0
+Delhi,Apartment,1,568,5,Unfurnished,Medium,10.0,4,Yes,Yes,89.46,0
+Mumbai,Apartment,2,1081,36,Semi-Furnished,Medium,9.0,8,Yes,Yes,218.02,1
+Mumbai,Apartment,4,1748,0,Fully-Furnished,High,9.0,7,Yes,Yes,433.66,0
+Pune,Independent House,1,484,0,Unfurnished,High,4.0,6,No,No,44.62,0
+Bangalore,Apartment,4,1700,26,Semi-Furnished,Medium,9.0,0,No,Yes,110.04,1
+Pune,Independent House,2,1141,20,Unfurnished,High,9.0,3,Yes,Yes,90.72,0
+Pune,Villa,3,1445,15,Fully-Furnished,Medium,2.0,8,Yes,Yes,145.49,0
+Pune,Apartment,3,1513,39,Unfurnished,Low,7.0,7,No,Yes,89.9,1
+Pune,Villa,3,1427,25,Semi-Furnished,Medium,9.0,3,Yes,Yes,96.11,1
+Jaipur,Apartment,2,904,15,Semi-Furnished,Medium,0.0,0,Yes,Yes,43.43,0
+Jaipur,Apartment,2,1104,27,Unfurnished,High,10.0,3,Yes,Yes,60.37,0
+Delhi,Villa,1,665,0,Unfurnished,Low,1.0,2,Yes,Yes,125.65,0
+Mumbai,Apartment,3,1447,35,Unfurnished,Medium,2.0,5,Yes,Yes,261.35,1
+Pune,Apartment,4,1931,9,Unfurnished,Medium,2.0,4,No,No,173.22,0
+Delhi,Apartment,1,520,16,Fully-Furnished,High,7.0,4,No,No,106.26,0
+Mumbai,Independent House,2,945,22,Fully-Furnished,Medium,4.0,1,Yes,No,209.43,0
+Indore,Apartment,2,1177,6,Semi-Furnished,High,,2,Yes,No,55.03,0
+Bangalore,Apartment,3,1319,6,Semi-Furnished,High,10.0,5,Yes,Yes,130.34,0
+Jaipur,Apartment,3,1602,14,Semi-Furnished,Medium,10.0,1,Yes,Yes,93.96,0
+Indore,Villa,2,1189,33,Fully-Furnished,Medium,5.0,3,Yes,Yes,47.33,0
+Mumbai,Villa,2,1124,3,Unfurnished,High,1.0,1,Yes,No,251.74,0
+Indore,Apartment,4,1691,13,Unfurnished,Medium,10.0,8,Yes,No,56.98,1
+Bangalore,Independent House,3,1515,13,Unfurnished,High,3.0,2,Yes,Yes,103.39,1
+Mumbai,Apartment,3,1466,15,Semi-Furnished,Low,8.0,5,Yes,Yes,223.35,1
+Indore,Apartment,3,1295,6,Unfurnished,Low,3.0,0,Yes,Yes,42.27,1
+Jaipur,Independent House,3,1643,31,Unfurnished,High,4.0,2,Yes,Yes,74.05,0
+Jaipur,Independent House,2,987,18,Unfurnished,High,4.0,7,Yes,Yes,44.88,0
+Delhi,Villa,2,933,1,Semi-Furnished,High,9.0,4,No,No,128.06,1
+Indore,Independent House,3,1548,9,Unfurnished,Medium,7.0,7,No,Yes,50.44,1
+Pune,Apartment,1,600,16,Unfurnished,High,5.0,1,Yes,No,51.9,0
+Indore,Independent House,3,1287,36,Unfurnished,High,9.0,6,Yes,Yes,54.53,0
+Mumbai,Apartment,2,1123,11,Unfurnished,High,6.0,8,Yes,Yes,208.02,1
+Mumbai,Apartment,1,688,5,Semi-Furnished,Medium,5.0,6,Yes,No,164.77,0
+Indore,Apartment,2,877,21,Unfurnished,Medium,4.0,2,Yes,Yes,28.61,1
+Bangalore,Apartment,3,1206,31,Unfurnished,High,4.0,6,No,Yes,94.43,1
+Jaipur,Apartment,3,1664,40,Semi-Furnished,Medium,2.0,7,Yes,No,49.24,1
+Mumbai,Apartment,2,989,19,Unfurnished,Medium,6.0,0,Yes,No,210.89,0
+Jaipur,Apartment,4,1735,0,Unfurnished,Medium,9.0,2,Yes,Yes,72.38,0
+Mumbai,Apartment,3,1275,5,Fully-Furnished,Medium,4.0,4,Yes,Yes,288.67,0
+Delhi,Apartment,4,1774,18,Unfurnished,Medium,6.0,5,Yes,Yes,272.41,0
+Pune,Apartment,2,1008,17,Unfurnished,Low,1.0,2,Yes,No,84.46,0
+Mumbai,Apartment,3,1230,5,Unfurnished,High,8.0,3,Yes,No,252.45,0
+Jaipur,Villa,3,1397,32,Semi-Furnished,Medium,7.0,4,Yes,Yes,55.71,1
+Delhi,Independent House,2,1178,22,Semi-Furnished,Medium,4.0,2,No,Yes,182.94,0
+Mumbai,Villa,3,1631,22,Semi-Furnished,Low,1.0,3,Yes,No,302.13,1
+Bangalore,Apartment,1,400,25,Semi-Furnished,Low,5.0,4,Yes,Yes,35.46,0
+Pune,Villa,5,2219,12,Unfurnished,Low,7.0,1,Yes,Yes,158.34,1
+Mumbai,Apartment,3,1593,6,Unfurnished,High,6.0,8,Yes,Yes,345.93,0
+Delhi,Apartment,2,1181,14,Fully-Furnished,Low,7.0,7,Yes,Yes,148.51,1
+Bangalore,Apartment,2,1029,26,Fully-Furnished,High,3.0,5,Yes,No,125.43,0
+Indore,Independent House,2,903,25,Unfurnished,Low,2.0,2,Yes,Yes,27.05,1
+Delhi,Apartment,3,1508,32,Semi-Furnished,Low,6.0,1,Yes,Yes,160.4,1
+Delhi,Apartment,3,1648,14,Unfurnished,Low,1.0,6,Yes,No,181.38,1
+Bangalore,Apartment,2,1185,35,,Low,4.0,7,Yes,Yes,85.56,1
+Delhi,Independent House,4,1693,26,Unfurnished,High,6.0,0,Yes,Yes,196.17,1
+Bangalore,Apartment,2,887,4,Unfurnished,High,0.0,5,Yes,No,79.33,0
+Mumbai,Apartment,2,816,1,Semi-Furnished,Medium,3.0,6,Yes,No,209.82,0
+Bangalore,Apartment,4,1975,32,Semi-Furnished,Low,1.0,8,Yes,Yes,161.4,1
+Bangalore,Apartment,3,1486,15,Unfurnished,Medium,5.0,2,Yes,Yes,102.54,1
+Pune,Villa,4,1809,22,Unfurnished,Medium,0.0,1,Yes,Yes,147.98,0
+Bangalore,Apartment,2,908,37,Fully-Furnished,High,6.0,4,No,Yes,81.58,0
+Bangalore,Independent House,2,881,15,Unfurnished,Low,2.0,0,Yes,Yes,84.7,0
+Indore,Apartment,2,1107,13,Semi-Furnished,High,0.0,5,No,Yes,56.14,0
+Mumbai,Villa,2,920,28,Unfurnished,Medium,7.0,8,Yes,Yes,127.76,1
+Pune,Apartment,3,1532,25,Semi-Furnished,Medium,6.0,8,Yes,No,129.55,0
+Indore,Apartment,2,950,34,Unfurnished,Medium,1.0,6,Yes,Yes,37.67,0
+Jaipur,Apartment,2,781,14,Unfurnished,Low,6.0,6,Yes,Yes,31.54,1
+Mumbai,Apartment,3,1307,2,Unfurnished,High,2.0,7,Yes,Yes,338.49,0
+Mumbai,Apartment,2,734,22,Unfurnished,Low,8.0,1,Yes,Yes,137.65,1
+Jaipur,Villa,1,530,28,Unfurnished,High,7.0,5,No,No,24.58,0
+Bangalore,Apartment,3,1303,33,Semi-Furnished,Low,,4,Yes,No,104.72,1
+Indore,Villa,1,550,32,Unfurnished,High,6.0,4,Yes,No,13.37,1
+Delhi,Independent House,3,1560,40,,Low,2.0,2,No,No,165.88,1
+Pune,Apartment,1,692,40,Semi-Furnished,High,0.0,2,No,Yes,49.28,1
+Delhi,Villa,1,400,22,Semi-Furnished,High,0.0,5,Yes,No,65.38,0
+Jaipur,Villa,2,1132,6,Fully-Furnished,High,10.0,6,Yes,Yes,69.88,0
+Mumbai,Apartment,3,1308,2,Semi-Furnished,Medium,1.0,0,Yes,Yes,288.33,0
+Mumbai,Independent House,3,1447,31,Semi-Furnished,High,7.0,2,Yes,No,239.86,1
+Pune,Apartment,3,1319,30,Semi-Furnished,Medium,0.0,0,Yes,No,100.96,1
+Mumbai,Apartment,2,826,17,Fully-Furnished,Low,10.0,2,Yes,No,153.42,1
+Mumbai,Villa,3,1535,6,Fully-Furnished,Medium,4.0,4,Yes,No,331.46,0
+Pune,Apartment,3,1634,40,Unfurnished,Low,8.0,8,No,No,136.11,0
+Indore,Apartment,2,768,0,Unfurnished,High,8.0,2,No,Yes,29.8,0
+Indore,Apartment,2,1178,13,Unfurnished,Low,1.0,8,Yes,No,31.58,1
+Pune,Independent House,2,1140,31,Semi-Furnished,Medium,6.0,0,Yes,Yes,90.32,0
+Jaipur,Independent House,3,1338,5,Semi-Furnished,Medium,10.0,5,Yes,No,67.83,0
+Mumbai,Apartment,2,1168,38,Semi-Furnished,Medium,0.0,8,Yes,No,235.74,1
+Mumbai,Villa,3,1223,9,Unfurnished,Medium,2.0,4,Yes,Yes,286.6,0
+Jaipur,Independent House,3,1507,6,Semi-Furnished,Low,,1,No,No,66.63,0
+Indore,Apartment,2,804,25,Fully-Furnished,Medium,8.0,4,Yes,Yes,31.33,0
+Bangalore,Apartment,3,1545,33,Unfurnished,Medium,9.0,0,Yes,No,134.3,0
+Bangalore,Villa,4,1706,29,Semi-Furnished,High,1.0,8,Yes,Yes,188.44,0
+Bangalore,Independent House,4,1904,35,Unfurnished,High,6.0,8,No,Yes,125.14,1
+Indore,Independent House,1,400,20,Fully-Furnished,High,3.0,5,No,Yes,15.48,0
+Indore,Apartment,2,1177,16,Fully-Furnished,Low,1.0,8,No,Yes,49.55,0
+Jaipur,Apartment,1,464,32,Semi-Furnished,Medium,2.0,2,Yes,Yes,18.39,1
+Mumbai,Apartment,1,400,9,Semi-Furnished,Low,5.0,3,Yes,Yes,60.74,1
+Jaipur,Apartment,3,1308,11,Fully-Furnished,Low,9.0,5,Yes,Yes,53.46,1
+Jaipur,Apartment,2,1090,15,Semi-Furnished,Low,8.0,3,Yes,Yes,46.55,0
+Indore,Villa,3,1370,40,Unfurnished,Medium,7.0,0,No,Yes,41.73,1
+Bangalore,Apartment,3,1444,31,Semi-Furnished,Low,9.0,6,Yes,Yes,105.39,1
+Delhi,Independent House,4,1749,14,Unfurnished,Medium,10.0,4,Yes,No,324.81,0
+Mumbai,Apartment,3,1272,26,Unfurnished,High,8.0,7,Yes,Yes,254.13,1
+Indore,Apartment,5,2419,27,Fully-Furnished,Medium,3.0,8,Yes,Yes,93.96,0
+Bangalore,Apartment,3,1373,16,Semi-Furnished,Medium,3.0,4,Yes,Yes,126.28,0
+Delhi,Apartment,4,1987,1,Unfurnished,Medium,8.0,7,Yes,Yes,305.67,0
+Delhi,Apartment,1,400,35,Unfurnished,Medium,7.0,0,Yes,No,47.67,1
+Indore,Independent House,4,1790,6,Unfurnished,Low,1.0,0,Yes,Yes,45.09,1
+Pune,Independent House,2,1178,12,Unfurnished,Medium,7.0,6,No,Yes,79.12,1
+Mumbai,Apartment,1,471,14,Unfurnished,Medium,0.0,5,Yes,Yes,90.43,1
+Delhi,Apartment,3,1418,24,Semi-Furnished,High,8.0,4,Yes,No,231.64,0
+Indore,Independent House,2,1129,22,Unfurnished,High,8.0,4,Yes,No,40.43,1
+Indore,Apartment,3,1482,21,,Medium,7.0,8,Yes,Yes,47.62,1
+Bangalore,Apartment,3,1654,25,Unfurnished,Medium,10.0,0,No,Yes,152.48,0
+Pune,Apartment,1,654,32,Fully-Furnished,Low,4.0,7,Yes,Yes,57.48,0
+Mumbai,Independent House,3,1656,10,Unfurnished,High,4.0,1,Yes,No,284.82,1
+Jaipur,Apartment,3,1253,9,Unfurnished,Medium,2.0,6,No,Yes,54.12,0
+Bangalore,Apartment,4,1791,24,Unfurnished,Low,4.0,5,No,Yes,83.02,1
+Delhi,Independent House,2,1168,36,Semi-Furnished,Low,3.0,1,Yes,Yes,130.61,1
+Delhi,Apartment,2,1062,37,Semi-Furnished,Low,0.0,2,Yes,Yes,158.57,0
+Bangalore,Apartment,3,1261,40,Unfurnished,High,8.0,3,Yes,Yes,99.68,1
+Indore,Apartment,3,1291,23,Unfurnished,Low,,6,No,Yes,33.53,1
+Delhi,Independent House,2,985,39,Unfurnished,Medium,3.0,7,Yes,Yes,90.15,1
+Pune,Apartment,2,1051,32,,Medium,2.0,1,Yes,Yes,65.19,1
+Mumbai,Independent House,2,759,16,Semi-Furnished,Medium,5.0,7,Yes,Yes,142.53,1
+Pune,Villa,2,1076,23,Unfurnished,High,0.0,8,Yes,Yes,60.97,1
+Delhi,Apartment,3,1521,36,Unfurnished,High,4.0,6,No,No,202.72,1
+Jaipur,Independent House,2,1195,1,Unfurnished,Medium,6.0,0,No,No,57.81,0
+Mumbai,Apartment,3,1654,31,Unfurnished,Low,1.0,5,Yes,No,266.61,1
+Mumbai,Apartment,2,1176,23,Semi-Furnished,Medium,9.0,7,Yes,No,306.02,0
+Bangalore,Apartment,1,677,8,Unfurnished,Medium,8.0,4,Yes,Yes,57.28,1
+Bangalore,Apartment,3,1489,3,Unfurnished,Medium,5.0,1,No,Yes,163.97,0
+Jaipur,Apartment,2,981,16,Unfurnished,Medium,1.0,4,No,Yes,31.6,1
+Indore,Apartment,2,1157,16,Fully-Furnished,Low,7.0,7,No,Yes,46.52,0
+Mumbai,Apartment,4,1745,29,Fully-Furnished,Medium,7.0,1,No,Yes,379.13,0
+Jaipur,Independent House,2,786,39,Unfurnished,Low,0.0,0,Yes,Yes,23.0,1
+Bangalore,Apartment,3,1316,10,Unfurnished,High,0.0,3,No,Yes,130.1,0
+Bangalore,Independent House,3,1234,20,Unfurnished,Medium,0.0,3,Yes,No,92.01,1
+Mumbai,Apartment,3,1530,20,Semi-Furnished,High,3.0,8,Yes,Yes,320.18,0
+Pune,Apartment,3,1592,17,Unfurnished,Low,3.0,2,Yes,No,110.54,1
+Delhi,Apartment,3,1356,28,Semi-Furnished,Medium,7.0,3,Yes,Yes,140.23,1
+Bangalore,Apartment,2,1106,23,Semi-Furnished,High,0.0,2,No,Yes,110.76,0
+Indore,Apartment,3,1439,9,Fully-Furnished,Low,9.0,1,Yes,Yes,63.08,0
+Indore,Villa,4,1784,16,Unfurnished,High,2.0,3,No,Yes,65.77,1
+Bangalore,Independent House,3,1239,17,Fully-Furnished,Medium,10.0,7,Yes,Yes,122.68,0
+Pune,Independent House,2,1143,19,Semi-Furnished,Medium,0.0,0,Yes,Yes,77.91,1
+Pune,Apartment,3,1405,36,Unfurnished,Medium,8.0,7,Yes,Yes,76.04,1
+Jaipur,Independent House,3,1265,17,Unfurnished,Medium,9.0,7,Yes,Yes,48.05,1
+Indore,Apartment,1,715,16,Unfurnished,Medium,8.0,2,Yes,Yes,28.53,0
+Jaipur,Apartment,3,1346,8,Unfurnished,Medium,6.0,5,Yes,Yes,57.01,0
+Indore,Independent House,1,711,13,Unfurnished,Medium,7.0,3,No,No,24.5,1
+Delhi,Apartment,3,1400,28,Semi-Furnished,Medium,0.0,0,Yes,Yes,192.69,1
+Delhi,Apartment,2,931,30,Unfurnished,Low,4.0,0,Yes,No,93.84,1
+Mumbai,Apartment,3,1265,3,Fully-Furnished,Low,1.0,4,No,Yes,237.3,1
+Jaipur,Apartment,3,1406,17,Unfurnished,Low,0.0,7,Yes,Yes,51.12,1
+Bangalore,Villa,5,2232,19,Fully-Furnished,Medium,2.0,0,Yes,Yes,183.58,1
+Jaipur,Apartment,3,1547,8,Unfurnished,High,6.0,1,Yes,Yes,58.8,1
+Bangalore,Independent House,4,1796,12,Semi-Furnished,High,0.0,6,Yes,No,203.9,0
+Pune,Apartment,4,1999,14,Unfurnished,Low,10.0,7,Yes,No,196.72,0
+Jaipur,Apartment,3,1446,26,Unfurnished,High,1.0,2,Yes,No,45.48,1
+Pune,Apartment,3,1364,14,Fully-Furnished,Medium,1.0,7,Yes,No,111.52,0
+Delhi,Apartment,2,823,27,Unfurnished,High,3.0,0,Yes,Yes,114.65,0
+Delhi,Apartment,3,1203,36,Semi-Furnished,High,2.0,8,Yes,No,119.02,1
+Mumbai,Villa,2,961,18,Semi-Furnished,High,2.0,1,Yes,Yes,206.71,0
+Jaipur,Independent House,2,1090,25,Semi-Furnished,Low,9.0,1,No,No,40.65,1
+Pune,Independent House,4,1998,25,Semi-Furnished,Low,4.0,3,Yes,Yes,154.36,1
+Bangalore,Independent House,3,1296,24,Semi-Furnished,Low,2.0,2,Yes,Yes,92.94,1
+Delhi,Independent House,2,900,25,Unfurnished,High,10.0,3,No,Yes,113.44,1
+Delhi,Apartment,4,1800,25,Semi-Furnished,Medium,6.0,5,No,Yes,276.09,0
+Bangalore,Independent House,3,1632,27,Fully-Furnished,High,4.0,6,No,Yes,167.04,0
+Pune,Apartment,3,1653,17,Unfurnished,Medium,3.0,4,No,No,139.95,0
+Pune,Apartment,1,448,31,Unfurnished,High,2.0,1,Yes,Yes,24.67,1
+Jaipur,Apartment,4,2029,2,Semi-Furnished,Low,3.0,2,Yes,Yes,80.96,1
+Jaipur,Apartment,2,1027,1,Unfurnished,Low,1.0,2,Yes,Yes,53.57,0
+Indore,Apartment,3,1561,32,Unfurnished,Medium,0.0,4,Yes,No,49.82,1
+Indore,Independent House,5,2260,18,Unfurnished,Medium,2.0,4,Yes,Yes,79.12,1
+Mumbai,Apartment,4,2112,16,Semi-Furnished,Medium,10.0,3,Yes,No,435.59,0
+Delhi,Apartment,2,859,32,Unfurnished,High,1.0,7,No,No,138.92,0
+Jaipur,Apartment,1,672,11,Semi-Furnished,Low,0.0,5,Yes,No,25.02,1
+Pune,Apartment,4,1822,2,Semi-Furnished,Medium,0.0,5,Yes,Yes,176.84,0
+Bangalore,Apartment,3,1307,25,Unfurnished,High,1.0,0,Yes,Yes,118.5,0
+Pune,Apartment,2,1050,34,Semi-Furnished,Low,8.0,5,Yes,No,56.34,1
+Delhi,Apartment,3,1498,7,Fully-Furnished,High,4.0,2,No,No,248.72,0
+Indore,Apartment,2,1185,35,Semi-Furnished,High,8.0,5,No,No,37.15,1
+Pune,Villa,3,1531,6,Fully-Furnished,Low,7.0,5,No,Yes,107.99,1
+Mumbai,Villa,3,1277,35,Unfurnished,Medium,10.0,1,Yes,Yes,261.77,0
+Delhi,Apartment,3,1539,15,Semi-Furnished,Medium,5.0,0,No,Yes,180.21,1
+Indore,Apartment,2,892,23,Unfurnished,High,0.0,2,Yes,No,36.95,0
+Bangalore,Apartment,4,1820,0,Unfurnished,Medium,9.0,4,No,No,150.55,1
+Indore,Villa,3,1529,24,Unfurnished,Medium,4.0,3,Yes,Yes,63.01,0
+Mumbai,Apartment,3,1509,9,Unfurnished,High,0.0,6,Yes,Yes,317.82,0
+Delhi,Apartment,2,803,15,Fully-Furnished,Low,6.0,3,No,Yes,122.5,0
+Bangalore,Villa,4,1930,15,Unfurnished,High,9.0,7,Yes,No,164.89,1
+Mumbai,Apartment,3,1245,7,Semi-Furnished,High,10.0,6,No,Yes,200.84,1
+Indore,Apartment,3,1541,28,Semi-Furnished,Medium,7.0,8,Yes,Yes,40.38,1
+Mumbai,Apartment,2,1121,38,Semi-Furnished,High,7.0,0,No,Yes,154.43,1
+Delhi,Independent House,3,1354,27,Unfurnished,High,6.0,4,No,Yes,190.81,0
+Jaipur,Independent House,3,1369,5,Semi-Furnished,Low,1.0,3,Yes,No,59.35,0
+Mumbai,Villa,1,400,15,Unfurnished,Medium,4.0,5,Yes,No,87.22,0
+Mumbai,Apartment,3,1483,19,Unfurnished,Medium,3.0,0,Yes,No,259.62,1
+Indore,Apartment,4,2036,15,Fully-Furnished,Low,4.0,5,No,No,53.17,1
+Indore,Independent House,3,1466,6,Unfurnished,High,9.0,0,Yes,Yes,72.97,0
+Bangalore,Independent House,2,867,40,Unfurnished,Low,8.0,0,Yes,No,68.3,1
+Indore,Apartment,3,1510,13,Fully-Furnished,Medium,3.0,7,Yes,No,65.87,0
+Pune,Independent House,3,1674,25,Unfurnished,Medium,7.0,1,Yes,No,141.1,0
+Delhi,Apartment,3,1455,25,Semi-Furnished,Low,7.0,5,Yes,Yes,182.23,1
+Delhi,Apartment,3,1220,13,Unfurnished,High,1.0,5,Yes,No,189.47,0
+Jaipur,Villa,2,1153,6,Unfurnished,High,5.0,5,No,No,48.32,0
+Jaipur,Apartment,2,1151,32,Unfurnished,Medium,4.0,7,Yes,Yes,35.13,1
+Delhi,Independent House,3,1529,25,Unfurnished,Low,1.0,3,Yes,Yes,141.4,1
+Jaipur,Apartment,1,687,19,Unfurnished,Low,9.0,2,Yes,No,23.08,1
+Bangalore,Apartment,2,1101,2,Semi-Furnished,Medium,3.0,5,Yes,No,151.83,0
+Indore,Independent House,4,1888,3,Semi-Furnished,Medium,6.0,3,No,Yes,60.11,1
+Delhi,Independent House,4,1904,25,Fully-Furnished,Medium,0.0,1,Yes,Yes,233.65,1
+Jaipur,Apartment,1,659,10,Unfurnished,High,8.0,5,Yes,Yes,30.62,0
+Delhi,Apartment,2,797,1,Semi-Furnished,Medium,9.0,4,Yes,Yes,169.65,0
+Pune,Apartment,2,1142,13,Semi-Furnished,High,0.0,8,No,No,85.51,1
+Mumbai,Apartment,3,1607,29,Fully-Furnished,Medium,4.0,5,No,Yes,296.23,1
+Indore,Independent House,1,519,11,Unfurnished,Medium,6.0,2,Yes,Yes,21.34,0
+Delhi,Independent House,3,1228,25,Semi-Furnished,High,7.0,4,Yes,No,193.93,0
+Mumbai,Apartment,2,1060,32,Fully-Furnished,Medium,1.0,7,Yes,Yes,189.05,1
+Jaipur,Apartment,4,1780,12,Unfurnished,High,3.0,8,No,No,70.24,1
+Mumbai,Apartment,1,579,13,Fully-Furnished,Medium,1.0,7,Yes,Yes,140.38,0
+Indore,Independent House,3,1287,23,Unfurnished,Low,3.0,2,No,No,40.24,1
+Delhi,Apartment,2,1093,33,Semi-Furnished,High,,8,No,No,155.54,0
+Pune,Apartment,4,1838,25,Fully-Furnished,Medium,5.0,2,No,Yes,144.95,0
+Jaipur,Apartment,3,1489,20,Semi-Furnished,High,1.0,7,Yes,No,70.39,0
+Delhi,Apartment,2,1016,27,Unfurnished,High,10.0,8,Yes,No,147.34,0
+Indore,Apartment,3,1591,35,Unfurnished,Low,3.0,6,No,No,33.81,1
+Jaipur,Apartment,2,1094,39,Fully-Furnished,Medium,3.0,3,Yes,Yes,39.3,1
+Bangalore,Independent House,3,1650,1,Semi-Furnished,Medium,0.0,8,Yes,Yes,171.79,0
+Mumbai,Independent House,2,1155,8,Unfurnished,Medium,1.0,2,Yes,Yes,271.32,0
+Indore,Villa,3,1672,22,Semi-Furnished,High,2.0,2,Yes,Yes,62.55,0
+Bangalore,Apartment,3,1424,14,Semi-Furnished,Medium,10.0,1,Yes,Yes,94.11,1
+Delhi,Apartment,5,2554,12,Unfurnished,Medium,4.0,2,Yes,Yes,422.13,0
+Pune,Apartment,3,1229,22,Unfurnished,High,10.0,0,Yes,No,110.5,0
+Jaipur,Apartment,3,1403,16,Unfurnished,Low,7.0,3,Yes,Yes,55.08,1
+Mumbai,Independent House,2,1058,1,Semi-Furnished,High,5.0,7,Yes,No,244.09,0
+Jaipur,Apartment,3,1251,19,Semi-Furnished,Medium,2.0,4,Yes,No,57.09,0
+Delhi,Apartment,1,400,19,Semi-Furnished,High,5.0,1,Yes,Yes,56.17,0
+Jaipur,Independent House,3,1436,2,Fully-Furnished,Medium,6.0,2,No,Yes,80.9,0
+Mumbai,Independent House,4,1787,11,Fully-Furnished,Low,5.0,0,No,No,495.99,0
+Delhi,Apartment,3,1409,39,Semi-Furnished,Medium,9.0,1,No,Yes,157.56,1
+Jaipur,Apartment,2,724,1,,Low,5.0,0,No,Yes,34.37,0
+Pune,Apartment,2,929,35,Semi-Furnished,High,0.0,1,Yes,No,63.79,1
+Indore,Apartment,1,400,13,Unfurnished,Low,2.0,2,Yes,Yes,16.17,0
+Delhi,Apartment,3,1642,15,Semi-Furnished,High,6.0,0,Yes,No,244.77,0
+Indore,Apartment,2,847,18,Semi-Furnished,Medium,3.0,8,Yes,No,38.62,0
+Delhi,Independent House,3,1239,33,Unfurnished,Medium,3.0,4,Yes,Yes,142.84,1
+Pune,Apartment,2,1189,5,Fully-Furnished,Low,6.0,7,Yes,No,90.26,1
+Indore,Apartment,4,1845,12,Unfurnished,Medium,8.0,4,No,Yes,65.05,1
+Bangalore,Apartment,3,1284,35,Semi-Furnished,Medium,10.0,7,Yes,No,97.8,1
+Mumbai,Apartment,3,1574,21,Unfurnished,Medium,1.0,6,Yes,No,313.38,1
+Bangalore,Independent House,3,1469,17,Fully-Furnished,High,8.0,3,No,Yes,144.11,0
+Jaipur,Apartment,4,1794,11,Unfurnished,Medium,2.0,6,No,Yes,78.18,0
+Pune,Apartment,2,1154,29,Unfurnished,Medium,5.0,5,Yes,Yes,84.22,1
+Bangalore,Apartment,4,1998,39,Unfurnished,Medium,3.0,2,No,Yes,136.07,1
+Delhi,Villa,1,456,6,Unfurnished,Low,0.0,8,Yes,No,65.73,0
+Jaipur,Apartment,3,1593,31,Unfurnished,High,8.0,8,No,Yes,57.48,1
+Jaipur,Villa,2,903,18,Semi-Furnished,Medium,10.0,4,Yes,Yes,49.48,0
+Bangalore,Apartment,2,1053,5,Unfurnished,Low,5.0,7,Yes,Yes,96.32,0
+Bangalore,Apartment,3,1478,19,Unfurnished,Medium,7.0,6,No,Yes,135.83,0
+Pune,Apartment,3,1475,26,Unfurnished,Medium,1.0,8,Yes,No,102.72,1
+Mumbai,Independent House,3,1493,36,Fully-Furnished,Medium,6.0,6,Yes,Yes,257.24,1
+Bangalore,Independent House,1,696,6,Semi-Furnished,Medium,5.0,3,Yes,No,75.32,0
+Bangalore,Apartment,4,1830,4,Semi-Furnished,Low,1.0,3,Yes,No,177.63,0
+Indore,Apartment,2,890,10,Semi-Furnished,Medium,1.0,7,No,Yes,21.36,1
+Delhi,Apartment,2,943,14,Unfurnished,High,3.0,5,Yes,Yes,180.35,0
+Indore,Apartment,3,1505,2,Unfurnished,Low,3.0,8,Yes,Yes,62.76,0
+Indore,Apartment,2,1135,4,Unfurnished,High,2.0,6,Yes,Yes,45.12,0
+Jaipur,Independent House,3,1373,22,Fully-Furnished,Low,7.0,6,Yes,Yes,62.25,0
+Mumbai,Independent House,1,400,36,Fully-Furnished,High,6.0,3,Yes,No,88.73,0
+Delhi,Apartment,3,1364,8,Semi-Furnished,Medium,1.0,2,Yes,No,219.71,0
+Pune,Apartment,3,1337,14,Unfurnished,Medium,2.0,7,No,Yes,90.51,1
+Pune,Independent House,2,1046,2,Unfurnished,Low,,6,Yes,Yes,84.34,0
+Bangalore,Independent House,1,420,28,Unfurnished,Low,8.0,3,Yes,Yes,32.97,1
+Bangalore,Apartment,2,1165,5,Semi-Furnished,Low,4.0,3,Yes,No,126.87,0
+Pune,Apartment,3,1235,16,Unfurnished,Low,1.0,0,Yes,Yes,91.54,1
+Bangalore,Apartment,2,1103,25,Fully-Furnished,Medium,2.0,6,Yes,Yes,106.21,0
+Mumbai,Apartment,1,516,20,Unfurnished,Medium,7.0,0,No,Yes,86.26,1
+Indore,Apartment,4,1888,7,Fully-Furnished,Medium,3.0,3,No,No,81.85,0
+Bangalore,Apartment,2,994,20,Semi-Furnished,High,1.0,2,Yes,Yes,106.49,0
+Jaipur,Apartment,2,1161,10,Semi-Furnished,Medium,1.0,2,Yes,Yes,46.27,1
+Bangalore,Apartment,1,400,37,Semi-Furnished,Medium,5.0,0,No,Yes,29.24,1
+Delhi,Apartment,4,1888,7,Semi-Furnished,Medium,7.0,3,Yes,Yes,243.68,1
+Mumbai,Apartment,2,1063,23,Semi-Furnished,Medium,6.0,0,Yes,No,168.63,1
+Delhi,Independent House,3,1289,34,Semi-Furnished,Medium,3.0,7,No,Yes,140.74,1
+Delhi,Independent House,4,1698,13,Semi-Furnished,High,1.0,0,No,Yes,288.76,0
+Jaipur,Apartment,2,979,13,Fully-Furnished,Low,,5,Yes,No,41.62,0
+Mumbai,Apartment,3,1635,9,Semi-Furnished,Low,3.0,6,Yes,Yes,295.77,1
+Mumbai,Independent House,1,425,11,Semi-Furnished,Medium,8.0,1,Yes,Yes,121.67,0
+Mumbai,Apartment,3,1470,37,Fully-Furnished,Low,4.0,3,Yes,No,239.53,1
+Mumbai,Apartment,4,1879,33,Unfurnished,High,10.0,2,No,No,391.6,0
+Mumbai,Apartment,2,1018,40,Unfurnished,High,10.0,8,Yes,Yes,193.01,1
+Jaipur,Apartment,4,1698,9,Semi-Furnished,Low,6.0,6,Yes,No,74.79,0
+Bangalore,Apartment,4,1984,16,Semi-Furnished,Low,4.0,1,Yes,No,123.28,1
+Delhi,Independent House,2,1148,16,Fully-Furnished,Medium,1.0,5,Yes,Yes,207.57,0
+Mumbai,Apartment,2,1115,2,Unfurnished,Medium,5.0,8,Yes,No,253.97,0
+Bangalore,Apartment,2,891,30,Semi-Furnished,Medium,6.0,2,No,Yes,82.93,0
+Bangalore,Independent House,2,1046,0,Semi-Furnished,High,10.0,5,Yes,No,131.93,0
+Delhi,Apartment,2,924,11,Unfurnished,Medium,5.0,2,Yes,No,162.73,0
+Jaipur,Apartment,2,890,38,Semi-Furnished,Medium,2.0,2,Yes,Yes,27.6,1
+Pune,Apartment,4,1730,3,Fully-Furnished,Low,,3,No,Yes,137.08,0
+Pune,Apartment,2,934,12,Unfurnished,High,7.0,8,Yes,Yes,72.62,1
+Bangalore,Apartment,3,1353,33,Semi-Furnished,Low,2.0,7,Yes,Yes,89.47,1
+Indore,Apartment,3,1265,20,Semi-Furnished,High,4.0,0,Yes,Yes,60.51,0
+Indore,Apartment,4,1849,21,Unfurnished,Medium,8.0,0,Yes,No,54.91,1
+Delhi,Villa,2,1049,3,Unfurnished,Medium,10.0,6,No,Yes,145.73,0
+Pune,Apartment,3,1402,17,Fully-Furnished,High,4.0,2,Yes,Yes,97.77,1
+Bangalore,Apartment,3,1566,4,Unfurnished,High,6.0,6,No,No,174.03,0
+Jaipur,Apartment,4,1846,18,Unfurnished,Medium,10.0,8,No,No,72.68,1
+Pune,Apartment,2,1043,1,Unfurnished,Low,6.0,2,No,No,94.81,0
+Bangalore,Apartment,2,1003,11,Semi-Furnished,High,4.0,2,Yes,Yes,111.53,0
+Bangalore,Independent House,2,825,16,Semi-Furnished,Medium,1.0,1,Yes,No,56.08,1
+Mumbai,Apartment,4,2145,9,Semi-Furnished,Low,4.0,0,Yes,No,457.65,0
+Jaipur,Apartment,4,1804,33,Unfurnished,High,6.0,8,Yes,Yes,58.81,1
+Mumbai,Villa,3,1233,5,Fully-Furnished,Low,6.0,5,No,Yes,285.89,0
+Delhi,Apartment,4,2023,7,Unfurnished,Low,3.0,5,No,No,251.89,1
+Mumbai,Apartment,3,1209,10,Unfurnished,Low,0.0,7,Yes,Yes,302.85,0
+Mumbai,Independent House,3,1540,11,Semi-Furnished,Medium,5.0,4,Yes,Yes,465.0,0
+Pune,Independent House,3,1254,8,Unfurnished,Medium,2.0,8,Yes,Yes,97.75,0
+Indore,Villa,3,1409,1,Fully-Furnished,Medium,10.0,4,Yes,Yes,63.68,0
+Bangalore,Apartment,3,1367,7,Fully-Furnished,Medium,4.0,1,No,Yes,91.58,1
+Jaipur,Apartment,2,1080,10,Unfurnished,Medium,3.0,5,Yes,Yes,34.42,1
+Mumbai,Villa,4,1687,35,Fully-Furnished,Medium,1.0,8,Yes,Yes,347.41,0
+Jaipur,Apartment,3,1536,9,Semi-Furnished,Low,6.0,2,Yes,Yes,64.91,0
+Indore,Apartment,3,1661,20,Fully-Furnished,High,4.0,3,No,No,75.19,0
+Indore,Independent House,3,1378,19,Unfurnished,Low,6.0,7,Yes,No,40.84,1
+Mumbai,Apartment,2,887,7,Semi-Furnished,High,8.0,5,No,Yes,221.62,0
+Delhi,Villa,4,1934,35,Unfurnished,Low,3.0,6,No,Yes,135.11,1
+Mumbai,Apartment,2,1145,28,Fully-Furnished,High,4.0,6,Yes,Yes,230.34,1
+Pune,Apartment,3,1396,11,Unfurnished,Low,8.0,3,Yes,Yes,112.66,0
+Bangalore,Apartment,3,1504,13,Semi-Furnished,Low,9.0,5,Yes,No,164.85,0
+Delhi,Independent House,3,1393,20,Unfurnished,High,10.0,8,Yes,Yes,195.1,0
+Mumbai,Apartment,3,1616,21,Unfurnished,High,3.0,2,No,Yes,365.27,0
+Jaipur,Apartment,3,1679,20,Semi-Furnished,Medium,4.0,7,Yes,Yes,62.8,1
+Delhi,Villa,2,1160,29,Fully-Furnished,High,4.0,6,Yes,No,185.42,0
+Delhi,Villa,4,1900,38,Semi-Furnished,Medium,7.0,3,Yes,Yes,213.91,1
+Mumbai,Independent House,2,1143,19,Fully-Furnished,High,3.0,2,Yes,Yes,348.51,0
+Delhi,Apartment,3,1385,23,Unfurnished,Medium,3.0,6,Yes,No,170.25,1
+Jaipur,Apartment,2,1095,22,Semi-Furnished,Medium,6.0,8,Yes,Yes,43.77,1
+Indore,Independent House,2,981,6,Semi-Furnished,Medium,10.0,2,Yes,Yes,44.33,0
+Delhi,Apartment,3,1668,8,Unfurnished,Medium,4.0,8,Yes,Yes,256.14,0
+Indore,Apartment,5,2499,0,,High,5.0,7,Yes,Yes,107.14,0
+Jaipur,Apartment,2,1105,25,Semi-Furnished,Low,5.0,2,Yes,Yes,44.75,1
+Mumbai,Independent House,4,1736,37,Semi-Furnished,Low,5.0,7,Yes,No,249.5,1
+Bangalore,Apartment,2,1120,37,Semi-Furnished,Medium,9.0,3,No,No,89.87,1
+Delhi,Villa,3,1246,21,Semi-Furnished,Medium,4.0,5,Yes,Yes,185.65,0
+Bangalore,Apartment,4,1953,9,Unfurnished,Low,4.0,1,Yes,Yes,156.17,1
+Jaipur,Apartment,2,821,5,Unfurnished,Medium,8.0,7,Yes,Yes,33.85,0
+Delhi,Apartment,1,715,16,Semi-Furnished,High,7.0,8,Yes,Yes,99.56,0
+Indore,Apartment,3,1215,37,Unfurnished,Low,3.0,6,Yes,Yes,28.18,1
+Pune,Apartment,3,1515,23,Unfurnished,Medium,6.0,7,No,Yes,117.92,1
+Bangalore,Apartment,3,1435,9,Unfurnished,High,7.0,6,Yes,Yes,129.35,0
+Delhi,Apartment,3,1394,7,Semi-Furnished,Medium,8.0,3,Yes,Yes,227.89,0
+Bangalore,Villa,3,1264,20,,High,4.0,0,Yes,Yes,111.0,0
+Delhi,Independent House,3,1565,5,,High,2.0,2,Yes,Yes,282.03,0
+Mumbai,Villa,1,400,20,Semi-Furnished,Medium,3.0,6,Yes,Yes,60.41,1
+Indore,Apartment,2,950,38,Unfurnished,Medium,9.0,6,Yes,Yes,24.29,1
+Bangalore,Apartment,3,1213,23,Semi-Furnished,Medium,5.0,2,No,No,91.13,1
+Pune,Apartment,3,1532,32,Semi-Furnished,Medium,9.0,0,Yes,Yes,130.32,0
+Pune,Independent House,4,1846,17,Semi-Furnished,High,10.0,8,Yes,Yes,169.45,0
+Jaipur,Independent House,2,896,27,,Medium,4.0,5,No,Yes,34.08,1
+Delhi,Independent House,4,1833,31,Unfurnished,Medium,8.0,6,No,Yes,207.78,1
+Bangalore,Apartment,2,1069,11,Semi-Furnished,Low,10.0,0,No,No,103.08,0
+Jaipur,Apartment,2,1198,26,Unfurnished,Low,10.0,0,Yes,No,39.41,1
+Bangalore,Apartment,3,1483,9,Fully-Furnished,Low,2.0,3,Yes,Yes,157.45,0
+Delhi,Apartment,2,1169,31,Fully-Furnished,High,1.0,6,No,No,167.1,0
+Pune,Apartment,4,1694,25,Semi-Furnished,Medium,5.0,7,Yes,Yes,153.44,0
+Mumbai,Independent House,2,1088,24,Unfurnished,Medium,6.0,8,Yes,Yes,175.86,1
+Pune,Apartment,2,1094,10,Unfurnished,Medium,4.0,0,No,Yes,85.73,0
+Jaipur,Apartment,3,1671,22,Unfurnished,High,0.0,3,Yes,No,60.77,1
+Indore,Apartment,2,945,33,Semi-Furnished,Medium,2.0,3,No,Yes,39.61,0
+Mumbai,Independent House,3,1350,39,Unfurnished,High,2.0,2,No,No,246.47,1
+Jaipur,Apartment,1,586,22,Semi-Furnished,Medium,3.0,6,No,Yes,20.4,1
+Delhi,Villa,4,1978,28,Unfurnished,High,9.0,0,Yes,Yes,230.53,1
+Mumbai,Independent House,4,1733,30,Fully-Furnished,Medium,5.0,8,Yes,No,377.15,0
+Jaipur,Apartment,5,2350,6,Unfurnished,Medium,4.0,7,No,No,74.14,1
+Delhi,Apartment,4,1785,39,Fully-Furnished,Medium,0.0,1,No,No,223.57,1
+Pune,Apartment,2,798,32,Fully-Furnished,Medium,5.0,1,Yes,No,53.53,1
+Indore,Apartment,3,1517,20,Semi-Furnished,Low,8.0,7,Yes,Yes,51.99,1
+Delhi,Independent House,2,883,1,Semi-Furnished,Medium,10.0,0,No,Yes,140.34,0
+Bangalore,Villa,4,1881,17,Unfurnished,Medium,0.0,6,Yes,Yes,158.1,1
+Delhi,Apartment,2,810,32,Semi-Furnished,Low,7.0,8,Yes,Yes,94.02,1
+Delhi,Apartment,2,790,36,Unfurnished,High,7.0,2,Yes,No,102.83,1
+Indore,Apartment,1,606,33,Unfurnished,Medium,2.0,6,Yes,No,24.54,0
+Bangalore,Apartment,2,1055,19,Semi-Furnished,High,8.0,5,No,No,119.94,0
+Jaipur,Apartment,2,974,34,Semi-Furnished,Medium,10.0,6,Yes,Yes,34.78,1
+Jaipur,Apartment,2,745,17,Semi-Furnished,Medium,10.0,6,Yes,No,35.05,0
+Delhi,Apartment,4,2046,23,Unfurnished,Medium,7.0,0,Yes,No,291.37,0
+Bangalore,Independent House,3,1462,7,Unfurnished,Medium,2.0,2,Yes,Yes,125.49,1
+Bangalore,Apartment,3,1415,29,Unfurnished,High,9.0,0,Yes,Yes,119.35,1
+Indore,Apartment,4,1886,9,Unfurnished,Medium,4.0,4,No,No,77.12,0
+Pune,Apartment,3,1353,22,Unfurnished,High,2.0,2,Yes,Yes,96.0,1
+Jaipur,Independent House,2,951,10,Unfurnished,High,4.0,0,Yes,No,41.88,0
+Indore,Apartment,1,570,1,Unfurnished,Medium,8.0,1,Yes,Yes,21.99,0
+Mumbai,Apartment,2,928,25,Fully-Furnished,High,3.0,4,Yes,Yes,201.42,0
+Jaipur,Apartment,4,1852,35,Unfurnished,Medium,5.0,2,Yes,Yes,62.79,1
+Indore,Villa,2,748,32,Semi-Furnished,High,2.0,5,Yes,Yes,29.23,0
+Jaipur,Apartment,3,1391,12,Unfurnished,High,2.0,8,Yes,Yes,62.98,0
+Pune,Independent House,3,1664,39,Fully-Furnished,Low,4.0,5,Yes,Yes,126.33,1
+Mumbai,Independent House,3,1364,24,Semi-Furnished,High,7.0,1,Yes,No,401.4,0
+Pune,Villa,3,1410,3,Unfurnished,Medium,7.0,1,No,No,108.25,1
+Mumbai,Apartment,3,1512,18,Semi-Furnished,Medium,2.0,7,No,Yes,321.72,0
+Delhi,Apartment,3,1402,17,Unfurnished,Medium,7.0,7,Yes,Yes,203.26,0
+Indore,Apartment,4,1894,36,Semi-Furnished,Low,10.0,5,Yes,Yes,68.95,1
+Mumbai,Independent House,2,834,29,Unfurnished,Medium,7.0,6,No,No,161.43,1
+Pune,Apartment,3,1346,18,Fully-Furnished,High,2.0,0,Yes,Yes,103.21,1
+Jaipur,Apartment,1,523,22,,Low,9.0,8,No,Yes,17.48,1
+Mumbai,Villa,1,421,15,Unfurnished,Medium,9.0,4,Yes,Yes,86.14,0
+Indore,Apartment,3,1217,0,Semi-Furnished,Low,1.0,8,Yes,No,43.53,1
+Mumbai,Apartment,3,1467,11,Unfurnished,Medium,9.0,1,No,Yes,234.68,1
+Bangalore,Apartment,4,1902,23,Fully-Furnished,High,1.0,7,Yes,No,165.61,0
+Jaipur,Apartment,5,2218,33,Semi-Furnished,High,8.0,6,Yes,No,79.87,1
+Indore,Independent House,4,1778,7,Semi-Furnished,High,6.0,3,No,Yes,65.56,1
+Indore,Apartment,3,1541,17,Unfurnished,Medium,5.0,2,No,Yes,76.33,0
+Delhi,Apartment,3,1314,4,Fully-Furnished,Medium,6.0,3,Yes,Yes,225.64,0
+Pune,Apartment,1,638,25,Semi-Furnished,High,7.0,3,Yes,Yes,53.18,0
+Delhi,Villa,2,1192,29,Unfurnished,High,0.0,7,Yes,Yes,181.5,0
+Indore,Villa,4,1766,12,Unfurnished,Medium,7.0,3,No,Yes,83.24,0
+Jaipur,Apartment,3,1609,18,Unfurnished,Medium,2.0,4,No,No,68.33,0
+Mumbai,Apartment,2,735,28,Fully-Furnished,High,2.0,1,No,Yes,187.57,0
+Mumbai,Apartment,3,1496,2,Unfurnished,High,5.0,3,No,Yes,324.74,0
+Jaipur,Independent House,3,1461,25,Semi-Furnished,Medium,3.0,6,Yes,Yes,50.7,1
+Indore,Apartment,3,1390,39,Unfurnished,High,3.0,2,No,Yes,52.27,0
+Mumbai,Villa,3,1239,11,Unfurnished,Low,3.0,0,No,Yes,274.15,0
+Mumbai,Apartment,3,1516,1,Semi-Furnished,Medium,9.0,7,No,Yes,389.67,0
+Mumbai,Apartment,3,1529,10,Fully-Furnished,Medium,8.0,7,Yes,Yes,360.81,0
+Pune,Apartment,2,993,27,,Low,7.0,5,No,No,62.3,1
+Pune,Independent House,3,1432,17,Fully-Furnished,Low,2.0,6,Yes,Yes,107.92,1
+Bangalore,Apartment,2,1174,12,Semi-Furnished,Low,,1,Yes,No,121.13,0
+Delhi,Independent House,1,655,36,Unfurnished,Medium,0.0,4,Yes,Yes,70.2,1
+Jaipur,Apartment,2,1025,21,Unfurnished,High,0.0,6,Yes,Yes,44.75,0
+Jaipur,Apartment,1,625,11,Semi-Furnished,High,3.0,8,Yes,Yes,26.34,0
+Jaipur,Apartment,3,1642,1,Fully-Furnished,Medium,5.0,0,No,No,79.9,0
+Bangalore,Independent House,3,1392,36,Fully-Furnished,Medium,3.0,2,Yes,Yes,97.3,1
+Pune,Apartment,2,1108,6,Unfurnished,High,10.0,5,Yes,Yes,96.96,0
+Indore,Independent House,4,1818,25,Unfurnished,Low,10.0,6,Yes,Yes,54.52,1
+Indore,Independent House,3,1277,25,Unfurnished,High,2.0,5,No,Yes,34.89,1
+Bangalore,Independent House,1,678,23,Fully-Furnished,High,7.0,0,Yes,Yes,73.76,0
+Indore,Apartment,2,1074,11,Fully-Furnished,Low,7.0,3,Yes,No,46.59,0
+Jaipur,Villa,4,1903,15,Semi-Furnished,High,5.0,5,Yes,Yes,89.11,0
+Delhi,Villa,2,982,22,Unfurnished,High,,7,Yes,No,114.8,1
+Mumbai,Apartment,3,1360,39,Semi-Furnished,Low,9.0,3,No,Yes,190.54,1
+Pune,Apartment,3,1548,8,Semi-Furnished,Low,0.0,6,No,Yes,168.63,0
+Pune,Apartment,3,1486,31,Unfurnished,Low,7.0,2,No,Yes,59.26,1
+Bangalore,Apartment,5,2230,14,Semi-Furnished,Medium,5.0,7,Yes,Yes,170.42,1
+Pune,Apartment,2,779,36,Unfurnished,Medium,0.0,0,Yes,Yes,68.65,0
+Jaipur,Apartment,2,819,12,Unfurnished,Medium,3.0,3,Yes,No,46.84,0
+Indore,Apartment,2,786,4,Fully-Furnished,Medium,4.0,7,Yes,Yes,43.13,0
+Jaipur,Apartment,2,1132,10,Semi-Furnished,High,6.0,3,Yes,No,58.63,0
+Bangalore,Apartment,4,1690,9,Unfurnished,Medium,7.0,1,Yes,No,137.38,1
+Jaipur,Apartment,2,837,12,Semi-Furnished,Low,8.0,1,Yes,Yes,26.07,1
+Indore,Apartment,4,1695,40,Unfurnished,Medium,5.0,3,No,No,54.67,1
+Delhi,Apartment,3,1264,14,Semi-Furnished,Medium,9.0,3,No,Yes,161.49,1
+Bangalore,Apartment,2,806,6,Semi-Furnished,Medium,8.0,1,Yes,Yes,94.38,0
+Delhi,Apartment,1,549,39,Semi-Furnished,Medium,3.0,6,Yes,Yes,47.82,1
+Mumbai,Apartment,1,639,27,Semi-Furnished,Low,7.0,5,No,Yes,121.04,1
+Delhi,Villa,2,984,31,Unfurnished,High,2.0,2,Yes,No,147.83,0
+Mumbai,Apartment,2,1182,34,Unfurnished,High,3.0,7,No,No,257.51,0
+Mumbai,Villa,4,1788,14,Semi-Furnished,Medium,9.0,7,Yes,Yes,425.64,0
+Delhi,Apartment,3,1570,35,Unfurnished,Medium,3.0,0,No,Yes,195.55,1
+Bangalore,Apartment,2,914,20,Semi-Furnished,Medium,5.0,2,No,Yes,81.77,0
+Indore,Apartment,3,1413,5,Unfurnished,High,8.0,4,Yes,No,67.27,0
+Jaipur,Apartment,4,1911,0,Unfurnished,Medium,5.0,1,Yes,Yes,90.39,0
+Jaipur,Villa,4,2000,3,Unfurnished,High,0.0,4,Yes,Yes,100.79,0
+Indore,Apartment,2,1124,10,Fully-Furnished,Medium,4.0,2,No,No,47.58,0
+Mumbai,Apartment,3,1633,25,Unfurnished,Medium,8.0,8,Yes,Yes,287.73,1
+Mumbai,Apartment,4,1806,36,Semi-Furnished,Medium,4.0,0,Yes,No,260.84,1
+Bangalore,Apartment,1,647,22,Unfurnished,High,5.0,3,Yes,Yes,47.44,1
+Pune,Independent House,2,1045,28,Unfurnished,High,2.0,5,No,No,75.23,1
+Delhi,Villa,4,2138,20,Semi-Furnished,Low,7.0,8,No,Yes,276.42,1
+Mumbai,Apartment,2,1130,26,Semi-Furnished,Medium,9.0,2,Yes,Yes,188.33,1
+Jaipur,Apartment,1,400,38,Semi-Furnished,Medium,10.0,2,Yes,No,12.31,1
+Bangalore,Apartment,3,1202,39,Fully-Furnished,Medium,3.0,4,Yes,No,92.61,1
+Delhi,Independent House,4,1700,12,Unfurnished,High,3.0,6,Yes,No,290.15,0
+Bangalore,Apartment,3,1253,22,Unfurnished,High,10.0,4,Yes,Yes,76.1,1
+Delhi,Apartment,3,1536,15,Fully-Furnished,High,4.0,7,Yes,No,217.91,0
+Delhi,Independent House,3,1625,29,Unfurnished,High,9.0,4,No,Yes,222.72,1
+Indore,Apartment,2,1108,3,Semi-Furnished,Medium,8.0,6,Yes,Yes,54.52,0
+Mumbai,Apartment,2,1042,39,Semi-Furnished,High,7.0,5,No,Yes,263.67,0
+Bangalore,Independent House,3,1311,15,Unfurnished,High,6.0,1,Yes,No,116.12,0
+Bangalore,Apartment,3,1321,30,Semi-Furnished,Medium,4.0,2,Yes,No,102.27,1
+Indore,Apartment,3,1272,24,Unfurnished,High,8.0,3,Yes,Yes,46.07,1
+Jaipur,Apartment,3,1288,11,Unfurnished,Low,,4,Yes,Yes,53.18,0
+Jaipur,Apartment,2,951,25,Unfurnished,High,9.0,8,Yes,Yes,39.02,0
+Mumbai,Apartment,3,1550,36,Fully-Furnished,Medium,9.0,5,No,Yes,304.66,1
+Mumbai,Independent House,3,1490,32,Unfurnished,Medium,1.0,0,Yes,Yes,211.77,1
+Pune,Apartment,1,716,27,Semi-Furnished,Medium,,2,Yes,No,40.2,1
+Indore,Villa,2,1094,8,Fully-Furnished,Medium,7.0,6,No,Yes,51.66,0
+Jaipur,Independent House,3,1287,11,Semi-Furnished,Low,0.0,7,Yes,No,52.4,1
+Delhi,Apartment,2,1036,4,Semi-Furnished,Low,4.0,6,Yes,Yes,170.21,0
+Bangalore,Apartment,3,1505,27,Semi-Furnished,Medium,7.0,4,Yes,Yes,130.03,1
+Mumbai,Apartment,3,1223,34,Unfurnished,Medium,1.0,7,No,Yes,168.13,1
+Bangalore,Independent House,3,1318,4,Semi-Furnished,High,,8,No,No,170.87,0
+Bangalore,Independent House,2,1090,33,,High,7.0,6,Yes,Yes,94.62,1
+Pune,Apartment,1,453,33,Fully-Furnished,Medium,9.0,8,Yes,No,30.71,1
+Jaipur,Villa,1,430,12,Fully-Furnished,High,8.0,0,No,Yes,19.98,0
+Mumbai,Apartment,3,1486,38,Fully-Furnished,Medium,6.0,8,No,Yes,231.31,1
+Bangalore,Independent House,3,1357,13,Fully-Furnished,High,7.0,2,Yes,Yes,150.95,0
+Mumbai,Apartment,3,1425,10,Semi-Furnished,Low,4.0,5,No,No,289.05,1
+Delhi,Apartment,3,1304,37,Semi-Furnished,Medium,0.0,7,Yes,No,208.17,0
+Pune,Independent House,3,1336,3,Fully-Furnished,Medium,3.0,2,Yes,Yes,134.64,0
+Delhi,Apartment,3,1638,32,Unfurnished,Low,1.0,3,Yes,Yes,243.99,0
+Mumbai,Apartment,3,1428,6,Fully-Furnished,High,2.0,6,Yes,Yes,313.51,0
+Mumbai,Apartment,3,1666,40,Unfurnished,High,,6,Yes,Yes,285.91,1
+Jaipur,Apartment,3,1319,7,Semi-Furnished,Medium,8.0,3,No,Yes,67.68,0
+Bangalore,Apartment,2,1130,36,Semi-Furnished,Medium,,8,Yes,Yes,96.18,1
+Bangalore,Independent House,3,1328,9,Fully-Furnished,High,3.0,2,Yes,Yes,144.02,0
+Delhi,Apartment,2,916,14,Unfurnished,High,1.0,7,Yes,No,113.98,1
+Pune,Apartment,2,1098,37,Semi-Furnished,Medium,2.0,7,No,Yes,51.33,1
+Indore,Villa,3,1321,14,,Medium,2.0,3,No,No,49.14,1
+Bangalore,Apartment,3,1316,4,Unfurnished,Medium,6.0,6,Yes,Yes,118.78,0
+Jaipur,Apartment,3,1207,28,Semi-Furnished,Medium,7.0,3,Yes,Yes,48.36,1
+Delhi,Villa,1,695,18,Semi-Furnished,Low,10.0,0,Yes,Yes,72.64,1
+Delhi,Independent House,3,1505,9,Semi-Furnished,Medium,5.0,0,Yes,Yes,194.66,1
+Indore,Apartment,3,1584,11,Unfurnished,High,3.0,0,Yes,No,67.67,0
+Jaipur,Villa,4,1907,3,Semi-Furnished,Medium,5.0,1,Yes,Yes,96.25,0
+Pune,Apartment,3,1427,30,Semi-Furnished,High,10.0,5,No,Yes,116.19,0
+Jaipur,Independent House,3,1251,17,Unfurnished,High,0.0,4,Yes,Yes,51.76,0
+Pune,Apartment,2,845,15,Unfurnished,High,9.0,1,Yes,No,58.02,1
+Jaipur,Villa,4,1847,39,Fully-Furnished,Low,7.0,7,Yes,Yes,77.43,0
+Jaipur,Apartment,3,1349,35,Semi-Furnished,High,0.0,8,Yes,Yes,60.31,0
+Mumbai,Independent House,3,1327,24,Semi-Furnished,Low,4.0,6,Yes,Yes,227.81,1
+Delhi,Villa,2,1148,22,Unfurnished,Medium,1.0,8,Yes,No,168.15,0
+Jaipur,Villa,2,1123,11,Unfurnished,Medium,5.0,3,No,Yes,46.71,0
+Indore,Apartment,3,1525,33,Unfurnished,Medium,8.0,6,Yes,No,43.91,1
+Jaipur,Apartment,2,841,35,Unfurnished,High,4.0,4,Yes,Yes,36.78,0
+Bangalore,Apartment,4,1900,36,Semi-Furnished,High,3.0,4,Yes,Yes,162.89,1
+Delhi,Villa,4,1813,2,Semi-Furnished,Low,1.0,2,No,Yes,250.8,0
+Bangalore,Apartment,2,1108,8,Semi-Furnished,Medium,2.0,8,Yes,Yes,84.98,1
+Delhi,Independent House,2,904,17,Unfurnished,Medium,5.0,4,No,No,100.04,1
+Bangalore,Independent House,1,444,34,Semi-Furnished,Medium,7.0,5,Yes,Yes,39.73,0
+Jaipur,Apartment,2,749,33,Unfurnished,High,7.0,2,Yes,Yes,31.18,0
+Jaipur,Independent House,3,1542,40,Unfurnished,Medium,,6,No,No,43.48,1
+Mumbai,Apartment,3,1376,13,Fully-Furnished,High,4.0,8,Yes,Yes,277.42,1
+Indore,Apartment,3,1447,3,Semi-Furnished,Low,9.0,8,Yes,Yes,74.58,0
+Bangalore,Apartment,1,512,28,Semi-Furnished,Medium,2.0,4,Yes,No,45.45,0
+Pune,Apartment,2,1092,40,Unfurnished,Medium,6.0,6,No,Yes,83.34,1
+Mumbai,Villa,4,1797,14,Fully-Furnished,Medium,5.0,2,Yes,Yes,496.37,0
+Bangalore,Apartment,3,1212,27,Semi-Furnished,Medium,0.0,5,Yes,Yes,87.21,1
+Bangalore,Apartment,2,741,15,Semi-Furnished,High,3.0,7,Yes,Yes,91.63,0
+Mumbai,Villa,3,1205,11,Unfurnished,High,5.0,7,Yes,Yes,224.18,1
+Jaipur,Villa,2,942,4,Fully-Furnished,Medium,10.0,1,Yes,No,51.41,0
+Bangalore,Apartment,3,1383,33,Fully-Furnished,Medium,5.0,5,Yes,Yes,115.96,1
+Jaipur,Independent House,3,1258,0,Fully-Furnished,Low,10.0,6,Yes,Yes,66.77,0
+Mumbai,Apartment,3,1467,38,Unfurnished,Low,2.0,6,Yes,No,229.22,1
+Jaipur,Apartment,2,763,31,Unfurnished,Medium,5.0,2,Yes,Yes,30.25,1
+Delhi,Apartment,2,1071,25,,Low,9.0,8,Yes,No,156.23,0
+Pune,Apartment,4,1686,16,Unfurnished,High,5.0,1,Yes,Yes,163.42,0
+Bangalore,Independent House,1,708,26,Fully-Furnished,High,8.0,2,No,Yes,68.03,0
+Indore,Apartment,2,849,23,Unfurnished,High,8.0,1,No,Yes,27.09,1
+Pune,Villa,3,1330,34,Unfurnished,Medium,1.0,8,Yes,Yes,85.97,1
+Jaipur,Apartment,3,1365,38,Unfurnished,High,3.0,3,No,No,54.63,1
+Bangalore,Apartment,2,1054,25,,Medium,8.0,1,No,No,93.43,0
+Jaipur,Independent House,2,1139,37,,Medium,3.0,2,Yes,Yes,46.28,1
+Delhi,Villa,3,1463,22,Semi-Furnished,High,7.0,3,Yes,No,192.32,1
+Mumbai,Apartment,3,1590,21,Semi-Furnished,Medium,9.0,5,Yes,Yes,276.12,1
+Bangalore,Apartment,2,822,3,Unfurnished,Low,2.0,4,No,No,61.71,1
+Delhi,Apartment,3,1396,8,Unfurnished,High,2.0,2,Yes,No,208.93,0
+Delhi,Apartment,4,1855,3,Unfurnished,High,8.0,7,Yes,Yes,304.58,0
+Bangalore,Villa,3,1204,6,Unfurnished,High,10.0,7,Yes,Yes,125.69,0
+Jaipur,Villa,2,818,22,Semi-Furnished,Medium,9.0,6,No,No,26.43,1
+Indore,Apartment,2,800,1,Semi-Furnished,Medium,7.0,2,Yes,Yes,28.62,1
+Delhi,Independent House,2,1186,23,Semi-Furnished,High,0.0,0,No,No,155.57,1
+Pune,Apartment,3,1664,39,Semi-Furnished,Low,9.0,4,No,Yes,136.56,0
+Delhi,Apartment,3,1234,30,Unfurnished,Medium,1.0,0,Yes,Yes,143.11,1
+Indore,Apartment,3,1326,30,Fully-Furnished,Medium,,5,Yes,Yes,37.92,1
+Jaipur,Apartment,2,851,39,,Medium,10.0,6,Yes,Yes,34.73,1
+Jaipur,Apartment,3,1643,33,Fully-Furnished,Medium,1.0,4,No,Yes,65.33,1
+Pune,Apartment,2,792,23,,Low,2.0,3,No,Yes,45.41,1
+Delhi,Apartment,2,1048,25,Fully-Furnished,Low,7.0,1,No,Yes,132.07,1
+Jaipur,Apartment,3,1502,15,Fully-Furnished,Medium,10.0,4,Yes,No,65.36,0
+Indore,Independent House,1,434,12,Fully-Furnished,Low,10.0,8,Yes,Yes,16.82,0
+Bangalore,Apartment,3,1320,14,Unfurnished,Medium,5.0,3,Yes,No,130.89,0
+Mumbai,Apartment,2,834,26,Semi-Furnished,High,6.0,1,Yes,Yes,190.37,0
+Mumbai,Villa,3,1257,3,Fully-Furnished,Medium,9.0,5,No,No,309.85,0
+Mumbai,Independent House,2,1109,15,Semi-Furnished,Medium,9.0,7,Yes,No,267.61,0
+Delhi,Independent House,4,2092,29,,High,5.0,1,Yes,Yes,275.86,1
+Pune,Apartment,2,1093,29,Fully-Furnished,Low,0.0,8,Yes,No,72.77,1
+Jaipur,Apartment,4,1987,35,Unfurnished,Medium,10.0,6,Yes,Yes,73.91,1
+Bangalore,Apartment,3,1485,2,Semi-Furnished,Medium,2.0,1,Yes,Yes,151.43,0
+Indore,Apartment,2,929,21,Semi-Furnished,High,0.0,4,Yes,No,28.68,1
+Bangalore,Independent House,3,1382,21,,High,9.0,4,No,Yes,169.89,0
+Indore,Apartment,2,1128,11,Unfurnished,High,8.0,6,Yes,Yes,38.56,1
+Delhi,Apartment,3,1347,20,Semi-Furnished,High,8.0,4,Yes,Yes,217.64,0
+Mumbai,Apartment,2,964,3,Semi-Furnished,Low,4.0,5,Yes,No,224.97,0
+Delhi,Apartment,4,1926,30,Semi-Furnished,Low,3.0,8,No,No,141.78,1
+Pune,Villa,3,1620,30,Semi-Furnished,Medium,8.0,2,Yes,Yes,122.6,1
+Pune,Apartment,3,1263,22,Fully-Furnished,Low,8.0,2,No,No,123.5,0
+Indore,Apartment,4,1942,19,Fully-Furnished,High,2.0,7,Yes,No,74.38,0
+Jaipur,Apartment,3,1280,14,Unfurnished,Medium,4.0,5,Yes,No,37.74,1
+Jaipur,Apartment,4,1689,22,Unfurnished,Low,2.0,2,Yes,Yes,61.57,1
+Indore,Apartment,3,1265,27,Unfurnished,High,9.0,1,Yes,No,49.0,0
+Pune,Apartment,3,1408,15,Unfurnished,Low,1.0,1,No,No,102.11,1
+Pune,Apartment,3,1217,36,Semi-Furnished,Medium,0.0,1,Yes,Yes,73.02,1
+Pune,Villa,3,1288,20,Fully-Furnished,Medium,9.0,4,Yes,No,91.23,1
+Delhi,Independent House,3,1318,14,Fully-Furnished,Medium,1.0,4,Yes,Yes,153.47,1
+Pune,Independent House,2,982,16,Unfurnished,Medium,7.0,0,No,Yes,54.24,1
+Bangalore,Independent House,2,1090,36,Unfurnished,Low,10.0,1,No,No,73.16,1
+Mumbai,Apartment,2,1163,12,Semi-Furnished,Medium,7.0,1,Yes,No,265.17,0
+Pune,Apartment,3,1342,18,Semi-Furnished,High,2.0,3,Yes,Yes,118.14,0
+Indore,Apartment,3,1238,29,Unfurnished,High,6.0,6,No,Yes,45.84,1
+Mumbai,Independent House,4,1719,17,Fully-Furnished,Medium,6.0,2,No,No,416.41,0
+Delhi,Independent House,3,1589,13,,Medium,1.0,4,Yes,No,294.43,0
+Indore,Independent House,2,1171,35,Unfurnished,High,8.0,8,Yes,Yes,40.13,1
+Mumbai,Apartment,4,1803,35,Fully-Furnished,High,2.0,4,No,Yes,398.64,0
+Indore,Independent House,4,1999,19,Unfurnished,Medium,1.0,8,Yes,No,74.58,0
+Delhi,Apartment,1,432,18,Semi-Furnished,Medium,2.0,0,Yes,Yes,62.03,0
+Bangalore,Apartment,3,1623,6,Semi-Furnished,High,1.0,8,No,No,169.04,0
+Delhi,Apartment,2,973,3,Unfurnished,Medium,7.0,4,Yes,Yes,145.48,0
+Delhi,Apartment,3,1570,33,Fully-Furnished,Low,4.0,7,No,Yes,248.03,0
+Indore,Apartment,4,1745,1,Semi-Furnished,Medium,2.0,4,Yes,Yes,88.5,0
+Jaipur,Apartment,2,899,4,Semi-Furnished,Low,4.0,5,No,Yes,29.3,1
+Pune,Apartment,1,509,9,Unfurnished,Medium,10.0,7,Yes,No,42.27,0
+Pune,Apartment,3,1584,31,Unfurnished,Medium,10.0,1,No,No,109.71,1
+Bangalore,Independent House,3,1304,40,Unfurnished,High,7.0,2,Yes,No,120.9,0
+Bangalore,Villa,1,583,12,Semi-Furnished,Medium,6.0,8,Yes,No,53.68,0
+Pune,Apartment,5,2262,38,Semi-Furnished,Medium,5.0,4,Yes,Yes,161.73,1
+Jaipur,Independent House,3,1500,4,Unfurnished,Low,,4,No,No,56.48,1
+Pune,Independent House,3,1518,9,Semi-Furnished,High,9.0,8,Yes,Yes,155.31,0
+Jaipur,Apartment,4,1796,9,Semi-Furnished,Low,0.0,2,Yes,Yes,62.03,1
+Bangalore,Apartment,2,1018,37,Semi-Furnished,Medium,0.0,3,Yes,Yes,75.38,1
+Mumbai,Apartment,3,1302,26,Semi-Furnished,Low,9.0,6,Yes,No,203.02,1
+Indore,Apartment,2,722,20,Fully-Furnished,High,7.0,1,Yes,No,29.35,0
+Bangalore,Villa,2,1007,7,Semi-Furnished,Medium,7.0,7,No,No,88.31,0
+Bangalore,Independent House,3,1404,0,Semi-Furnished,Medium,6.0,4,Yes,Yes,157.63,0
+Delhi,Apartment,1,584,27,Unfurnished,Medium,,0,Yes,Yes,71.0,1
+Delhi,Independent House,2,995,38,Unfurnished,High,3.0,2,No,Yes,152.28,0
+Delhi,Independent House,2,879,13,Unfurnished,Medium,0.0,8,Yes,Yes,117.17,1
+Indore,Independent House,3,1307,20,Semi-Furnished,High,,4,Yes,Yes,43.7,1
+Delhi,Apartment,3,1480,29,Unfurnished,High,0.0,7,Yes,No,190.83,1
+Jaipur,Independent House,3,1547,20,Unfurnished,High,3.0,0,Yes,No,70.89,0
+Pune,Apartment,3,1650,8,Semi-Furnished,Medium,2.0,6,Yes,Yes,175.66,0
+Mumbai,Apartment,4,1799,16,Unfurnished,High,6.0,6,Yes,Yes,349.03,1
+Bangalore,Apartment,3,1493,4,Unfurnished,Low,4.0,7,No,No,164.23,0
+Jaipur,Apartment,4,2005,30,Unfurnished,Medium,4.0,2,Yes,No,71.88,1
+Mumbai,Villa,3,1298,39,Semi-Furnished,High,3.0,0,Yes,No,231.49,1
+Jaipur,Apartment,2,1181,37,Unfurnished,Medium,0.0,8,No,Yes,46.16,1
+Jaipur,Apartment,3,1493,18,Semi-Furnished,Medium,4.0,0,Yes,Yes,76.36,0
+Bangalore,Apartment,2,1163,35,Semi-Furnished,Medium,3.0,5,No,No,99.31,1
+Pune,Villa,4,1991,32,Semi-Furnished,Medium,9.0,8,Yes,Yes,113.11,1
+Delhi,Apartment,4,1702,12,Semi-Furnished,Medium,7.0,1,Yes,No,261.19,0
+Indore,Independent House,3,1550,13,Fully-Furnished,High,1.0,3,Yes,Yes,91.7,0
+Pune,Apartment,3,1303,32,Unfurnished,High,7.0,1,Yes,Yes,63.63,1
+Indore,Apartment,2,1087,28,Unfurnished,Medium,0.0,3,Yes,No,38.2,1
+Bangalore,Apartment,3,1531,35,Unfurnished,Low,3.0,1,Yes,Yes,104.5,1
+Bangalore,Apartment,2,799,9,Unfurnished,High,2.0,0,Yes,No,66.66,1
+Bangalore,Apartment,4,1864,30,Unfurnished,Medium,4.0,2,Yes,Yes,167.71,0
+Mumbai,Apartment,2,1179,5,Unfurnished,Low,4.0,7,Yes,No,176.71,1
+Indore,Independent House,3,1372,0,Semi-Furnished,Low,4.0,4,Yes,Yes,51.87,0
+Pune,Apartment,2,886,6,Semi-Furnished,Medium,3.0,3,Yes,Yes,87.68,0
+Pune,Apartment,3,1539,26,Unfurnished,Low,7.0,4,Yes,Yes,118.84,1
+Jaipur,Apartment,2,1069,20,Semi-Furnished,Low,2.0,5,Yes,No,46.0,0
+Jaipur,Independent House,3,1510,27,Unfurnished,Medium,3.0,5,Yes,No,58.42,1
+Jaipur,Apartment,3,1553,15,,Medium,0.0,4,Yes,Yes,62.41,1
+Bangalore,Apartment,2,991,22,Semi-Furnished,Medium,6.0,5,Yes,Yes,79.75,1
+Pune,Villa,2,801,19,Unfurnished,High,0.0,8,Yes,No,55.66,1
+Indore,Apartment,4,1863,37,Unfurnished,High,1.0,4,No,No,70.25,0
+Bangalore,Apartment,2,1173,24,Unfurnished,Medium,10.0,5,Yes,No,98.41,1
+Mumbai,Apartment,3,1340,27,Fully-Furnished,Low,6.0,3,Yes,No,296.09,0
+Jaipur,Apartment,3,1444,4,Semi-Furnished,High,0.0,2,No,Yes,63.49,0
+Bangalore,Apartment,2,749,20,Unfurnished,Low,10.0,5,No,Yes,52.32,1
+Bangalore,Apartment,3,1435,17,Fully-Furnished,High,2.0,4,No,Yes,159.11,0
+Mumbai,Apartment,3,1290,5,Semi-Furnished,Low,5.0,3,Yes,No,180.79,1
+Delhi,Apartment,2,993,28,Semi-Furnished,High,5.0,4,Yes,Yes,87.23,1
+Pune,Apartment,2,787,18,Fully-Furnished,Medium,5.0,6,No,Yes,76.99,0
+Indore,Independent House,3,1492,32,Unfurnished,Medium,10.0,0,No,No,43.11,1
+Delhi,Independent House,4,1701,0,Unfurnished,High,1.0,0,Yes,Yes,283.54,0
+Jaipur,Villa,3,1321,2,Semi-Furnished,Medium,1.0,0,Yes,No,65.18,0
+Bangalore,Apartment,1,676,20,Semi-Furnished,Medium,5.0,1,No,No,68.55,0
+Mumbai,Apartment,2,827,34,Semi-Furnished,Medium,9.0,8,Yes,No,142.03,1
+Mumbai,Apartment,2,1077,40,Semi-Furnished,High,4.0,4,Yes,Yes,192.4,1
+Pune,Apartment,4,1876,39,,Low,6.0,8,Yes,Yes,117.97,1
+Delhi,Independent House,2,1151,2,Fully-Furnished,Low,6.0,4,Yes,No,198.4,0
+Pune,Apartment,2,1063,24,Fully-Furnished,Medium,4.0,6,Yes,Yes,95.27,0
+Bangalore,Apartment,1,581,37,Fully-Furnished,Low,7.0,5,Yes,Yes,54.45,0
+Pune,Apartment,2,987,19,Fully-Furnished,Medium,9.0,1,No,No,67.68,1
+Indore,Apartment,2,757,33,Unfurnished,Low,5.0,2,Yes,Yes,30.8,0
+Mumbai,Apartment,2,849,20,Unfurnished,Medium,4.0,4,Yes,No,156.66,1
+Mumbai,Apartment,3,1298,22,Semi-Furnished,Low,3.0,3,No,No,245.45,1
+Jaipur,Apartment,2,1090,5,Fully-Furnished,Medium,6.0,5,Yes,Yes,54.59,0
+Jaipur,Independent House,4,1930,12,Semi-Furnished,Low,3.0,7,Yes,Yes,69.41,1
+Bangalore,Apartment,4,1681,22,Semi-Furnished,Low,4.0,7,Yes,Yes,129.73,1
+Indore,Independent House,2,1006,8,Unfurnished,Low,4.0,2,Yes,Yes,44.37,0
+Delhi,Independent House,2,883,16,Unfurnished,High,0.0,3,Yes,No,157.95,0
+Pune,Apartment,4,1803,1,Semi-Furnished,Low,0.0,0,Yes,Yes,156.63,0
+Bangalore,Villa,4,1914,18,Unfurnished,High,2.0,1,No,Yes,202.59,0
+Jaipur,Apartment,1,400,18,Unfurnished,Low,10.0,8,No,No,16.19,1
+Pune,Independent House,3,1287,6,Unfurnished,Low,2.0,1,Yes,Yes,99.33,1
+Jaipur,Apartment,2,1149,19,Unfurnished,Medium,1.0,5,Yes,Yes,40.63,1
+Pune,Apartment,3,1510,8,Semi-Furnished,Medium,1.0,6,Yes,No,111.72,1
+Delhi,Apartment,4,2027,16,Unfurnished,High,,5,Yes,Yes,263.11,1
+Bangalore,Apartment,2,1056,26,Semi-Furnished,High,0.0,7,Yes,No,119.27,0
+Pune,Independent House,1,426,1,Unfurnished,High,5.0,8,No,No,43.96,0
+Indore,Apartment,3,1482,35,Fully-Furnished,Medium,4.0,7,Yes,No,63.79,0
+Mumbai,Villa,4,1806,18,Unfurnished,Medium,5.0,4,Yes,No,375.66,0
+Indore,Apartment,2,1128,16,Semi-Furnished,Medium,4.0,7,Yes,Yes,37.17,1
+Indore,Independent House,2,968,4,Semi-Furnished,High,6.0,8,Yes,No,46.73,0
+Mumbai,Apartment,2,1075,38,Unfurnished,Medium,0.0,7,No,No,217.35,1
+Indore,Apartment,3,1590,17,Fully-Furnished,Medium,2.0,1,No,Yes,70.1,0
+Pune,Apartment,2,1068,6,Semi-Furnished,Low,5.0,1,Yes,Yes,70.05,1
+Pune,Villa,3,1382,16,,Low,0.0,2,Yes,No,78.57,1
+Pune,Apartment,3,1261,38,Unfurnished,High,10.0,6,No,Yes,97.9,1
+Mumbai,Apartment,3,1220,35,Fully-Furnished,Medium,10.0,8,No,No,226.35,1
+Indore,Apartment,3,1531,39,Semi-Furnished,Medium,6.0,7,No,Yes,51.56,1
+Mumbai,Villa,2,1059,3,Unfurnished,Low,3.0,8,Yes,Yes,193.76,1
+Pune,Apartment,2,1078,37,Unfurnished,High,2.0,5,Yes,Yes,78.45,1
+Indore,Apartment,3,1569,24,Fully-Furnished,Low,9.0,0,Yes,Yes,47.73,1
+Indore,Apartment,2,855,4,Semi-Furnished,High,8.0,3,Yes,Yes,39.26,0
+Jaipur,Independent House,2,898,29,Semi-Furnished,Low,0.0,5,No,Yes,36.93,0
+Jaipur,Independent House,2,746,11,Unfurnished,High,7.0,5,Yes,Yes,37.84,0
+Delhi,Apartment,3,1590,3,Semi-Furnished,High,0.0,7,Yes,No,213.53,1
+Bangalore,Apartment,3,1208,23,Unfurnished,Low,4.0,0,Yes,No,100.59,1
+Jaipur,Apartment,2,725,28,Unfurnished,Medium,9.0,1,No,No,24.75,1
+Mumbai,Apartment,3,1592,8,Semi-Furnished,Medium,7.0,1,Yes,Yes,430.29,0
+Jaipur,Apartment,2,1028,3,Fully-Furnished,Low,5.0,5,Yes,Yes,55.27,0
+Delhi,Villa,2,901,23,Unfurnished,High,6.0,6,Yes,Yes,126.31,0
+Indore,Apartment,2,1172,13,Semi-Furnished,Medium,10.0,1,Yes,Yes,60.24,0
+Delhi,Independent House,4,1841,4,Semi-Furnished,Medium,7.0,4,Yes,Yes,252.11,1
+Indore,Apartment,2,1092,17,Semi-Furnished,Low,5.0,5,Yes,Yes,38.79,1
+Indore,Villa,3,1480,18,Fully-Furnished,Medium,10.0,3,No,Yes,63.95,0
+Bangalore,Apartment,3,1541,11,Semi-Furnished,High,5.0,0,Yes,Yes,202.37,0
+Jaipur,Apartment,3,1427,17,Unfurnished,Medium,10.0,2,Yes,Yes,70.32,0
+Mumbai,Apartment,4,1758,16,Fully-Furnished,High,5.0,8,No,No,473.77,0
+Mumbai,Apartment,2,967,29,Semi-Furnished,High,4.0,5,No,Yes,173.04,1
+Pune,Apartment,2,833,23,,Low,7.0,1,Yes,No,56.38,1
+Indore,Villa,2,825,10,Semi-Furnished,Low,1.0,8,Yes,Yes,34.17,0
+Mumbai,Independent House,2,1192,34,Fully-Furnished,High,6.0,3,Yes,Yes,205.06,1
+Bangalore,Apartment,2,871,22,Unfurnished,Medium,3.0,7,Yes,Yes,75.27,1
+Indore,Apartment,3,1309,16,Unfurnished,Low,0.0,6,No,Yes,50.39,0
+Bangalore,Apartment,3,1281,0,Fully-Furnished,Medium,4.0,2,No,No,106.09,1
+Mumbai,Apartment,3,1657,14,Unfurnished,Medium,,7,Yes,Yes,366.37,0
+Mumbai,Apartment,3,1366,31,Unfurnished,High,3.0,3,Yes,Yes,299.7,0
+Pune,Villa,2,1084,8,Semi-Furnished,Low,6.0,1,Yes,Yes,82.73,1
+Mumbai,Independent House,3,1414,14,Fully-Furnished,Low,4.0,4,Yes,Yes,296.06,0
+Indore,Independent House,2,838,27,Unfurnished,High,3.0,0,Yes,No,22.2,1
+Indore,Apartment,3,1235,23,Fully-Furnished,High,0.0,7,Yes,Yes,50.66,0
+Indore,Independent House,3,1378,34,Semi-Furnished,Medium,5.0,7,Yes,Yes,35.53,1
+Pune,Villa,3,1302,21,Semi-Furnished,High,10.0,2,Yes,Yes,98.33,1
+Pune,Apartment,3,1416,26,Fully-Furnished,Medium,9.0,0,Yes,Yes,106.91,1
+Mumbai,Apartment,2,992,18,Unfurnished,High,5.0,3,Yes,Yes,173.79,1
+Delhi,Independent House,4,1711,11,Unfurnished,Medium,6.0,8,Yes,Yes,194.87,1
+Delhi,Apartment,4,1979,19,Unfurnished,Low,0.0,8,No,Yes,204.96,1
+Pune,Apartment,1,609,0,Semi-Furnished,High,3.0,0,Yes,No,69.45,0
+Mumbai,Apartment,2,764,20,Semi-Furnished,Medium,8.0,6,Yes,No,153.67,1
+Delhi,Apartment,3,1267,0,Fully-Furnished,High,9.0,5,Yes,Yes,273.55,0
+Mumbai,Apartment,2,1147,9,Semi-Furnished,Medium,5.0,6,Yes,Yes,235.43,0
+Mumbai,Independent House,4,2009,31,Semi-Furnished,High,1.0,6,Yes,Yes,384.52,1
+Mumbai,Villa,3,1338,38,Semi-Furnished,High,3.0,7,Yes,No,241.32,1
+Jaipur,Apartment,4,1807,21,Unfurnished,Low,5.0,7,Yes,Yes,40.51,1
+Indore,Apartment,1,430,17,,High,3.0,1,Yes,No,17.95,0
+Mumbai,Apartment,3,1576,31,Fully-Furnished,Medium,9.0,3,Yes,Yes,311.03,1
+Jaipur,Apartment,2,964,26,Unfurnished,High,6.0,3,Yes,Yes,39.85,0
+Pune,Apartment,2,957,27,Unfurnished,Medium,2.0,7,No,No,46.79,1
+Delhi,Apartment,2,1151,17,Semi-Furnished,High,5.0,2,Yes,Yes,175.06,0
+Indore,Apartment,1,680,38,Unfurnished,Medium,3.0,2,Yes,Yes,19.62,1
+Delhi,Apartment,3,1427,28,Fully-Furnished,Low,2.0,1,Yes,Yes,193.06,1
+Indore,Apartment,3,1326,17,Unfurnished,Low,2.0,0,Yes,Yes,44.73,1
+Delhi,Apartment,3,1356,7,Unfurnished,Medium,1.0,7,Yes,No,180.67,1
+Indore,Apartment,3,1605,30,Unfurnished,High,10.0,8,Yes,No,61.66,0
+Delhi,Independent House,4,1856,33,Semi-Furnished,Medium,2.0,8,No,Yes,270.48,0
+Delhi,Apartment,2,1105,6,Unfurnished,Medium,9.0,7,Yes,Yes,150.01,1
+Delhi,Villa,3,1441,35,Semi-Furnished,Medium,0.0,4,Yes,Yes,140.34,1
+Delhi,Apartment,3,1367,17,Fully-Furnished,Medium,2.0,0,Yes,No,163.46,1
+Pune,Apartment,3,1401,37,Fully-Furnished,Low,8.0,8,Yes,Yes,104.83,1
+Mumbai,Independent House,3,1407,8,Unfurnished,High,,5,Yes,Yes,380.12,0
+Bangalore,Apartment,4,1886,8,Semi-Furnished,High,2.0,6,No,Yes,140.81,1
+Jaipur,Apartment,2,1066,7,Semi-Furnished,Medium,7.0,7,Yes,Yes,40.89,1
+Bangalore,Apartment,1,640,34,Fully-Furnished,Low,0.0,4,No,No,48.93,1
+Bangalore,Apartment,2,971,17,Fully-Furnished,Low,4.0,5,Yes,No,61.16,1
+Indore,Independent House,3,1553,4,Unfurnished,Medium,0.0,6,No,Yes,59.75,0
+Mumbai,Apartment,3,1259,13,Semi-Furnished,Medium,6.0,6,No,No,282.75,0
+Indore,Apartment,2,1063,27,Unfurnished,High,4.0,1,No,Yes,41.25,0
+Mumbai,Apartment,2,819,29,Unfurnished,Medium,1.0,0,No,Yes,139.9,1
+Mumbai,Apartment,3,1339,3,Unfurnished,High,0.0,7,Yes,Yes,295.71,0
+Delhi,Independent House,3,1508,38,Semi-Furnished,Medium,10.0,4,Yes,Yes,155.27,1
+Pune,Villa,3,1372,19,Semi-Furnished,Medium,6.0,1,Yes,No,79.67,1
+Delhi,Apartment,2,1149,24,Unfurnished,Medium,0.0,2,Yes,No,143.38,1
+Pune,Apartment,3,1309,27,Semi-Furnished,Low,2.0,5,No,Yes,98.7,1
+Indore,Villa,3,1306,11,Unfurnished,Medium,10.0,5,Yes,Yes,48.91,0
+Pune,Apartment,3,1326,1,Semi-Furnished,High,5.0,7,Yes,Yes,148.18,0
+Indore,Apartment,2,776,13,Unfurnished,Medium,5.0,4,Yes,No,30.1,0
+Bangalore,Apartment,3,1329,21,Unfurnished,High,,4,No,No,130.96,0
+Bangalore,Apartment,2,1074,30,Unfurnished,Medium,10.0,6,No,Yes,85.77,1
+Pune,Villa,3,1666,22,Unfurnished,Low,10.0,4,Yes,No,149.34,0
+Pune,Independent House,3,1303,19,Semi-Furnished,Medium,0.0,8,Yes,No,95.46,1
+Indore,Apartment,3,1584,37,Unfurnished,Medium,6.0,5,Yes,Yes,54.31,1
+Delhi,Apartment,2,1129,3,Semi-Furnished,Medium,1.0,6,Yes,Yes,181.11,0
+Indore,Apartment,2,1144,14,Unfurnished,Low,5.0,7,Yes,Yes,44.23,0
+Delhi,Apartment,4,1848,23,Semi-Furnished,Medium,7.0,4,Yes,Yes,263.44,0
+Bangalore,Apartment,3,1425,24,Semi-Furnished,Low,4.0,3,Yes,Yes,114.86,1
+Mumbai,Independent House,2,964,0,Unfurnished,Low,9.0,7,Yes,Yes,212.91,0
+Pune,Apartment,3,1609,6,Semi-Furnished,Medium,2.0,8,Yes,Yes,148.89,0
+Delhi,Apartment,2,1037,30,Unfurnished,Medium,10.0,0,No,No,139.67,1
+Indore,Apartment,3,1340,11,Semi-Furnished,High,7.0,2,No,Yes,69.23,0
+Bangalore,Apartment,4,1985,4,Unfurnished,Medium,7.0,3,Yes,Yes,189.4,0
+Delhi,Apartment,1,677,37,Semi-Furnished,High,3.0,6,No,Yes,74.85,1
+Indore,Villa,2,1180,11,Semi-Furnished,Medium,7.0,5,Yes,Yes,47.43,0
+Pune,Apartment,3,1413,38,Fully-Furnished,High,4.0,0,Yes,Yes,104.67,1
+Pune,Villa,3,1556,17,Semi-Furnished,Medium,10.0,3,Yes,Yes,115.87,1
+Jaipur,Apartment,2,754,1,Semi-Furnished,High,4.0,5,No,Yes,36.4,0
+Mumbai,Apartment,1,636,9,Unfurnished,Medium,2.0,2,Yes,No,114.44,1
+Jaipur,Apartment,4,1686,14,Fully-Furnished,High,6.0,1,Yes,No,53.81,1
+Bangalore,Apartment,2,962,29,Semi-Furnished,Medium,10.0,1,Yes,No,96.8,0
+Delhi,Apartment,2,945,16,Unfurnished,Low,10.0,3,No,Yes,112.81,1

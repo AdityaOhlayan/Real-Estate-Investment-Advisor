@@ -1,68 +1,123 @@
 # 🏠 Real Estate Investment Advisor
 
-A beginner-friendly Machine Learning project for analyzing real estate properties and helping users make better investment decisions.
+A beginner-level Machine Learning project that analyzes simulated Indian real estate data to predict property prices and identify potentially good investment opportunities.
 
 ## 📌 About the Project
 
-The Real Estate Investment Advisor analyzes housing data and uses Machine Learning to provide two main predictions:
+Buying a property involves two important questions:
 
-- 🏠 **Good Investment Prediction** – Classifies whether a property is potentially a good investment.
-- 💰 **5-Year Price Prediction** – Estimates the property's future price after 5 years.
+1. 💰 **What is the estimated price of the property?**
+2. 🏠 **Is the property a potentially good investment compared to other properties in the same city?**
 
-The project includes data preprocessing, exploratory data analysis (EDA), machine learning model training, evaluation, and a simple Streamlit web application.
+This project uses basic Machine Learning techniques to answer these questions.
 
-## 🎯 Project Objectives
+The project includes:
 
-- Analyze real estate property data
-- Understand factors affecting property prices
-- Perform exploratory data analysis
-- Build Machine Learning models
-- Predict property investment potential
-- Estimate future property prices
-- Provide predictions through a simple web interface
+- Data generation and preprocessing
+- Exploratory Data Analysis (EDA)
+- Regression for property price prediction
+- Classification for investment prediction
+- Model evaluation
+- A simple Streamlit web application
 
-## 🛠️ Technologies Used
+## 🎯 Objectives
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Streamlit
+- Analyze property price and size patterns
+- Understand how location and property features affect price
+- Predict property prices using Regression
+- Classify properties as potentially good or not good investments
+- Build a simple interactive web application
+
+## 🧠 Machine Learning Tasks
+
+### 1. Property Price Prediction
+
+**Type:** Regression
+
+The model predicts the property's price in lakhs.
+
+**Target:**
+`Price_in_Lakhs`
+
+### 2. Investment Prediction
+
+**Type:** Classification
+
+The model predicts whether a property is considered a potentially good investment based on its price per square foot compared with the median price in its city.
+
+**Target:**
+`Good_Investment`
 
 ## 📊 Dataset
 
-The project uses an Indian housing prices dataset containing information such as:
+The dataset contains **2,000 simulated property records**.
 
-- State
+Some of the features include:
+
 - City
-- Locality
 - Property Type
 - BHK
-- Property Size
-- Price
-- Year Built
+- Size in SqFt
+- Age of Property
 - Furnishing Status
-- Floor Information
+- Public Transport
+- Nearby Schools
+- Nearby Hospitals
 - Parking
-- Amenities
-- Property Availability
+- Security
+- Price in Lakhs
 
-## 🔍 Project Workflow
+> **Note:** The dataset is simulated for educational purposes and does not represent actual real estate market data.
 
-```text
-Dataset
-   ↓
-Data Cleaning
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Preparation
-   ↓
-Machine Learning
-   ↓
-Model Evaluation
-   ↓
-Streamlit Application
-   ↓
-Property Prediction
+## 🔍 Exploratory Data Analysis
+
+The project performs six basic EDA questions:
+
+1. How are property prices distributed?
+2. Does a bigger property cost more?
+3. Which city has the highest average property price?
+4. Does furnishing affect property price?
+5. How are numerical features related?
+6. How balanced is the Good Investment classification?
+
+The analysis uses simple charts and statistical summaries to understand the dataset before training the models.
+
+## 🤖 Machine Learning Models
+
+The project uses beginner-friendly models:
+
+### Regression
+- Linear Regression
+- Decision Tree Regressor
+
+### Classification
+- Logistic Regression
+- Decision Tree Classifier
+
+These models are compared using basic evaluation metrics.
+
+## 📈 Model Evaluation
+
+### Classification
+
+- Accuracy
+- Confusion Matrix
+
+### Regression
+
+- MAE
+- RMSE
+- R² Score
+
+## 🌐 Streamlit Application
+
+The project includes a simple Streamlit application with three sections:
+
+- **Home** – Project overview
+- **Dataset** – Basic dataset information and visualizations
+- **Prediction** – Enter property details and receive predictions
+
+Run the application with:
+
+```bash
+streamlit run app.py
